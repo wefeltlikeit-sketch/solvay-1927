@@ -1,0 +1,22 @@
+{"id":"expanding-universe","year":"1929–1965","title":"The expanding universe","seal":"The Abbé was right","category":"experiment",
+ "reading":"This spring, in the Annales of the Scientific Society of Brussels, the Abbé Georges Lemaître published a solution of Professor Einstein's equations describing a universe whose radius grows with time, and derived a relation between the distance of the nebulae and their velocity of recession. He is here in Brussels this week. In 1929 Edwin Hubble, at Mount Wilson in California, will publish observations showing exactly such a relation: the more distant the nebula, the faster it recedes. By 1931 Einstein will accept an expanding universe and abandon the cosmological term he introduced in 1917 to keep the universe static. In 1965 the faint afterglow of a hot, dense early universe will be detected as microwave radiation filling all of space.",
+ "detail":"Lemaître later recalled that at this council Einstein told him his calculations were correct but his physics abominable. Friedmann had found expanding solutions in 1922, which Einstein first claimed were erroneous and then accepted as mathematically correct.",
+ "sourceIds":["lemaitre-1927","hubble-1929","penzias-wilson-1965","kragh-1996"],"eventIds":["lemaitre-1927","hubble-1929","cmb-1965"],"unlocks":["hubble","expanding universe","expansion of the universe","big bang","microwave background","cosmic microwave","galaxies"],"next":["gravitational-waves"],
+ "reactions":[
+  {"participant":"einstein","status":"accepted","claim":{"id":"expanding-universe/einstein","label":"I spoke too quickly","topics":["cosmology"],"move":"concede","provenance":"inference","confidence":"medium",
+    "summary":"Documented: Einstein dismissed Lemaître's physics at this council and accepted expansion by 1931. Presenting the reversal to him now is simulation; the concession's shape follows his documented later behaviour.",
+    "voice":["I told the Abbé only a day or two ago that his calculations were correct and his physics abominable. If the nebulae really recede in proportion to their distance, then the physics was not abominable — my prejudice was. The cosmological term was always ugly. I would be glad to be rid of it."],
+    "reasoning":"Observation overrides preference for a static universe.",
+    "quoteIds":["q-einstein-lemaitre"],"sourceIds":["kragh-1996","hubble-1929"],"asOf":"1927-10"},
+   "historical":{"note":"Einstein publicly accepted the expanding universe in 1931, after visiting Hubble at Mount Wilson, and dropped the cosmological constant.","sourceIds":["kragh-1996"]}},
+  {"participant":"lorentz","status":"accepted","claim":{"id":"expanding-universe/lorentz","label":"A Belgian result","topics":["cosmology"],"move":"assert","provenance":"speculative","confidence":"low",
+    "summary":"Speculative courtesy from the chair.",
+    "voice":["Then our hosts may be proud: the first correct cosmology was published in Brussels, in a journal few of us read. I suggest we all read it."],
+    "reasoning":"Speculative.",
+    "respondsTo":["expanding-universe/einstein"],"sourceIds":["lemaitre-1927"],"asOf":"1927-10"}},
+  {"participant":"planck","status":"accepted","claim":{"id":"expanding-universe/planck","label":"The world has a history","topics":["cosmology","realism"],"move":"assert","provenance":"speculative","confidence":"low",
+    "summary":"Speculative.",
+    "voice":["A universe that had a beginning and has a history. It is a larger claim than any we have discussed this week, and it rests on measurements of light. I find I can accept it more easily than I accept the loss of causality."],
+    "reasoning":"Speculative; grounded in realism.",
+    "respondsTo":["expanding-universe/einstein"],"sourceIds":["heilbron-1986"],"asOf":"1927-10"}}
+ ]}

@@ -1,0 +1,21 @@
+{
+  "id":"debroglie","name":"Louis de Broglie","shortName":"de Broglie","initials":"LB","kind":"attendee",
+  "born":"1892-08-15","died":"1987-03-19","nationality":"French","affiliation":"Faculty of Sciences, University of Paris",
+  "role":"Gave the report on the new dynamics of quanta, presenting the pilot-wave theory",
+  "bio":"A historian by first training and a prince by birth, de Broglie proposed in his 1924 thesis that waves accompany all particles. Einstein read it and called attention to it; Schrödinger built wave mechanics on it; in 1927 Davisson and Germer, and G. P. Thomson, diffracted electrons. At this council he presents a causal theory in which a real particle is guided by a real wave — the first worked-out alternative to the statistical view. It is received coolly.",
+  "contributions":[
+    {"year":"1924","title":"Matter waves","note":"λ = h/p for every particle."},
+    {"year":"1927","title":"Double solution and pilot wave","note":"A particle guided by the phase of its wave."}
+  ],
+  "beliefs":"Particles are real and follow definite trajectories; the wave is real and guides them; probabilities reflect ignorance of initial conditions. The pilot wave is a simplified version of a more ambitious 'double solution' programme.",
+  "philosophy":"Seeks to reconcile waves and particles in a single causal picture in space and time.",
+  "style":{"method":"Constructive: offers a rival theory rather than an objection.","manner":"Formal, reserved, courteous; not a debater.","avoid":["Treating the pilot wave as naïve — it was a serious theory later vindicated as consistent","Presenting his later return to it as known in 1927"]},
+  "relationships":[
+    {"with":"einstein","nature":"Supporter","note":"See Einstein.","sourceIds":["einstein-1925"]},
+    {"with":"pauli","nature":"Critic","note":"See Pauli.","sourceIds":["bv-2009"]},
+    {"with":"schrodinger","nature":"Intellectual heir","note":"Schrödinger's equation grew from de Broglie's waves.","sourceIds":["moore-1989"]}
+  ],
+  "disagreements":[{"with":"pauli","topic":"Pilot wave","note":"See Pauli.","sourceIds":["bv-2009"]},{"with":"born","topic":"Status of probability","note":"Implicit in the two reports.","sourceIds":["bv-2009"]}],
+  "horizonNotes":[{"eventId":"bohm-1952","note":"In 1952 David Bohm will independently revive and complete his abandoned theory; de Broglie will return to it."}],
+  "sourceIds":["debroglie-1924","debroglie-1927","debroglie-1927-report","bv-2009","cushing-1994"]
+}

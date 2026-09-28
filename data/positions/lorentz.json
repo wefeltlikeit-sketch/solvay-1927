@@ -1,0 +1,18 @@
+{"participant":"lorentz","claims":[
+ {"id":"lorentz-determinism-faith","participant":"lorentz","label":"Keep determinism as a belief","topics":["determinism","causality","probability"],"stances":{"causality-fails":-0.7,"probability-fundamental":-0.6,"hidden-variables":0.4},"move":"question","provenance":"documented","confidence":"medium","opening":true,
+  "summary":"Opening the general discussion, Lorentz expressed a wish to preserve the ideal of describing everything in the world by clear images and asked whether determinism could be kept as a matter of belief rather than indeterminism raised to a principle.",
+  "voice":["Allow me an old man's privilege. I should like to keep the ideal of the past — to describe everything that happens in the world by clear images. Could determinism not be preserved, if necessary, as a matter of belief? Must we really raise indeterminism to a principle?","I do not deny the facts you have shown us. I ask only whether they compel the conclusion, or merely permit it."],
+  "reasoning":"A failure to find a deterministic description is not a proof that none exists.",
+  "sourceIds":["solvay-1928-proceedings","bv-2009"],"asOf":"1927-10"},
+ {"id":"lorentz-wave-packets","participant":"lorentz","label":"Wave packets spread","topics":["wavefunction","visualizability"],"stances":{"wavefunction-real":-0.3,"visualizability":0.5},"move":"challenge","provenance":"documented","confidence":"high",
+  "summary":"In 1926 Lorentz wrote to Schrödinger that he much preferred wave mechanics for its visualisability, but that a wave packet representing an electron in an atom would not stay together; a particle cannot simply be a wave packet.",
+  "voice":["Schrödinger, I much prefer your waves to the matrices — I can form a picture of them. But I wrote to you last year that a wave packet representing an electron in the atom will not stay together; it spreads. A particle cannot simply be a packet of waves."],
+  "reasoning":"Dispersion of wave groups in non-harmonic potentials.",
+  "respondsTo":["schrodinger-real-waves"],
+  "sourceIds":["przibram-1967"],"asOf":"1926-05"},
+ {"id":"lorentz-clear-images","participant":"lorentz","label":"Show that no image is possible","topics":["visualizability"],"stances":{"visualizability":0.8},"move":"assert","provenance":"documented","confidence":"medium","opening":true,
+  "summary":"Lorentz's contributions in the general discussion expressed a preference for descriptions in terms of clear images in space and time.",
+  "voice":["For me a physical theory has always been an image of the world in space and time. If the facts demand that I give it up, I must. But I should like to be shown that no image is possible — not merely that we have not yet found one."],
+  "reasoning":"Burden of proof rests on the renunciation.",
+  "sourceIds":["solvay-1928-proceedings","bv-2009"],"asOf":"1927-10"}
+]}

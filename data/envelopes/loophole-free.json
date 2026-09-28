@@ -1,0 +1,158 @@
+{
+ "id": "loophole-free",
+ "year": "2015",
+ "title": "Loophole-free Bell tests",
+ "seal": "The last escape routes closed",
+ "category": "experiment",
+ "prerequisites": [
+  "aspect"
+ ],
+ "reading": "In 2015 three groups — at Delft, Vienna and Boulder — perform Bell experiments that close the locality and detection loopholes at the same time. At Delft, the spins of two electrons in diamond, 1.3 kilometres apart, are linked through light; settings are chosen at random and fast enough that no light-speed signal could connect them; every trial is counted. In 245 trials they find S = 2.42 ± 0.20. The Vienna and Boulder experiments, with light quanta and highly efficient detectors, find violations at far higher statistical significance. Later experiments choose settings using light from distant stars and quasars. In 2022 the Nobel Prize in Physics is awarded to Aspect, Clauser and Zeilinger for this line of experiments.",
+ "detail": "The remaining logical escapes are (1) superdeterminism — that settings and hidden variables are correlated by common causes in the past — and (2) the view that measurements do not have single outcomes (as in Everett's formulation). Both are minority positions but not refuted.",
+ "sourceIds": [
+  "hensen-2015",
+  "giustina-2015",
+  "shalm-2015",
+  "nobel-2022"
+ ],
+ "eventIds": [
+  "loophole-free-2015",
+  "nobel-2022"
+ ],
+ "unlocks": [
+  "loophole",
+  "bell's theorem",
+  "bell inequality",
+  "entanglement",
+  "entangled",
+  "superdeterminism",
+  "nobel prize in physics 2022",
+  "quasar",
+  "diamond"
+ ],
+ "next": [
+  "teleportation",
+  "quantum-computing"
+ ],
+ "reactions": [
+  {
+   "participant": "einstein",
+   "status": "unresolved",
+   "claim": {
+    "id": "loophole-free/einstein",
+    "label": "A hard choice, honestly faced",
+    "topics": [
+     "locality",
+     "completeness",
+     "realism"
+    ],
+    "stances": {
+     "local-action": 0,
+     "qm-complete": -0.3
+    },
+    "move": "concede",
+    "provenance": "speculative",
+    "confidence": "low",
+    "summary": "Speculative: no one can know how Einstein would have responded. The voice is constrained by his documented intellectual honesty and his documented commitments.",
+    "voice": [
+     "Then I cannot keep everything. Either distant things are not independent in the way I believed, or the choice of settings is not free of the past — and the second would make experimental science itself very strange. I would want to think a long time before choosing. But I will not pretend it is an easy choice, and I will not pretend the experiment has not been done."
+    ],
+    "reasoning": "Facing an experimental verdict against a cherished principle.",
+    "respondsTo": [
+     "aspect/einstein",
+     "bell/einstein"
+    ],
+    "sourceIds": [
+     "einstein-1948",
+     "hensen-2015"
+    ],
+    "asOf": "1927-10"
+   }
+  },
+  {
+   "participant": "bohr",
+   "status": "accepted",
+   "claim": {
+    "id": "loophole-free/bohr",
+    "label": "Settled",
+    "topics": [
+     "locality"
+    ],
+    "stances": {
+     "qm-complete": 0.9
+    },
+    "move": "assert",
+    "provenance": "inference",
+    "confidence": "medium",
+    "summary": "Inference, as before.",
+    "voice": [
+     "I am glad the experimenters did not simply trust us. The theory has been asked the hardest question available and has answered it. What remains is to learn to speak about it without the old pictures."
+    ],
+    "reasoning": "Experimental confirmation.",
+    "respondsTo": [
+     "loophole-free/einstein"
+    ],
+    "sourceIds": [
+     "bohr-1935"
+    ],
+    "asOf": "1927-10"
+   }
+  },
+  {
+   "participant": "lorentz",
+   "status": "unresolved",
+   "claim": {
+    "id": "loophole-free/lorentz",
+    "label": "The old ideal, reconsidered",
+    "topics": [
+     "determinism",
+     "locality"
+    ],
+    "move": "question",
+    "provenance": "speculative",
+    "confidence": "low",
+    "summary": "Speculative: Lorentz died in February 1928. Constrained by his documented wish to keep determinism and clear images.",
+    "voice": [
+     "I asked this week whether determinism might be kept as a matter of belief. It seems it may be kept only at a price I did not anticipate — by letting the world act across distances. I am too old to decide whether that price is worth paying. I only note that it is now the price."
+    ],
+    "reasoning": "Determinism survives only nonlocally.",
+    "respondsTo": [
+     "loophole-free/einstein"
+    ],
+    "sourceIds": [
+     "solvay-1928-proceedings"
+    ],
+    "asOf": "1927-10"
+   }
+  },
+  {
+   "participant": "debroglie",
+   "status": "accepted",
+   "claim": {
+    "id": "loophole-free/debroglie",
+    "label": "The guiding wave survives",
+    "topics": [
+     "hidden-variables"
+    ],
+    "stances": {
+     "hidden-variables": 0.6
+    },
+    "move": "assert",
+    "provenance": "inference",
+    "confidence": "low",
+    "summary": "Inference from the logic of pilot-wave theory, which predicts the same violations.",
+    "voice": [
+     "The guiding wave predicts exactly what was observed. What is excluded is the local version of my idea, not the idea."
+    ],
+    "reasoning": "Pilot-wave predictions agree with quantum mechanics.",
+    "respondsTo": [
+     "loophole-free/einstein"
+    ],
+    "sourceIds": [
+     "bohm-1952"
+    ],
+    "asOf": "1927-10"
+   }
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+[
+  {"id":"kramers","name":"Hendrik Kramers","affiliation":"Utrecht","note":"Bohr's long-time collaborator (BKS, dispersion theory). Dossier not yet grounded."},
+  {"id":"langmuir","name":"Irving Langmuir","affiliation":"General Electric, Schenectady","note":"Surface chemist; took some of the best-known films of the council. Dossier not yet grounded."},
+  {"id":"bragg","name":"William Lawrence Bragg","affiliation":"Manchester","note":"Gave the report on the intensity of X-ray reflection. Dossier not yet grounded."},
+  {"id":"debye","name":"Peter Debye","affiliation":"Leipzig","note":"Dossier not yet grounded."},
+  {"id":"knudsen","name":"Martin Knudsen","affiliation":"Copenhagen","note":"Secretary of the scientific committee. Dossier not yet grounded."},
+  {"id":"fowler","name":"Ralph Fowler","affiliation":"Cambridge","note":"Dirac's supervisor. Dossier not yet grounded."},
+  {"id":"brillouin","name":"Léon Brillouin","affiliation":"Paris","note":"Dossier not yet grounded."},
+  {"id":"richardson","name":"Owen Willans Richardson","affiliation":"London","note":"Dossier not yet grounded."},
+  {"id":"wilson","name":"Charles Thomson Rees Wilson","affiliation":"Cambridge","note":"Inventor of the cloud chamber; will share the 1927 Nobel Prize with Compton. Dossier not yet grounded."},
+  {"id":"langevin","name":"Paul Langevin","affiliation":"Collège de France","note":"Dossier not yet grounded."},
+  {"id":"guye","name":"Charles-Eugène Guye","affiliation":"Geneva","note":"Dossier not yet grounded."},
+  {"id":"dedonder","name":"Théophile de Donder","affiliation":"Brussels","note":"Dossier not yet grounded."},
+  {"id":"piccard","name":"Auguste Piccard","affiliation":"Brussels","note":"Dossier not yet grounded."},
+  {"id":"henriot","name":"Émile Henriot","affiliation":"Brussels","note":"Scientific secretary. Dossier not yet grounded."},
+  {"id":"herzen","name":"Édouard Herzen","affiliation":"Brussels","note":"Representing the Solvay family. Dossier not yet grounded."},
+  {"id":"verschaffelt","name":"Jules-Émile Verschaffelt","affiliation":"Ghent","note":"Scientific secretary. Dossier not yet grounded."}
+]

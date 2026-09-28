@@ -1,0 +1,2241 @@
+[
+ {
+  "id": "solvay-1928-proceedings",
+  "type": "proceedings",
+  "title": "Électrons et Photons: Rapports et discussions du cinquième Conseil de physique tenu à Bruxelles du 24 au 29 octobre 1927",
+  "author": "Institut International de Physique Solvay",
+  "date": "1928",
+  "citation": "Électrons et Photons: Rapports et discussions du cinquième Conseil de physique. Paris: Gauthier-Villars, 1928.",
+  "reliability": "primary",
+  "participants": [
+   "einstein",
+   "bohr",
+   "born",
+   "heisenberg",
+   "schrodinger",
+   "debroglie",
+   "lorentz",
+   "dirac",
+   "pauli",
+   "compton",
+   "planck",
+   "ehrenfest",
+   "curie"
+  ],
+  "topics": [
+   "completeness",
+   "determinism",
+   "wavefunction",
+   "measurement",
+   "locality"
+  ],
+  "context": "The published reports and general discussion. Contributions were edited, translated into French and sometimes condensed; Bohr's remarks in particular were replaced by a version of his Como paper. Treat the discussion record as reliable for positions, less so for exact wording."
+ },
+ {
+  "id": "bv-2009",
+  "type": "scholarship",
+  "title": "Quantum Theory at the Crossroads: Reconsidering the 1927 Solvay Conference",
+  "author": "Guido Bacciagaluppi and Antony Valentini",
+  "date": "2009",
+  "citation": "G. Bacciagaluppi & A. Valentini, Quantum Theory at the Crossroads: Reconsidering the 1927 Solvay Conference. Cambridge University Press, 2009.",
+  "reliability": "secondary",
+  "participants": [
+   "einstein",
+   "bohr",
+   "born",
+   "heisenberg",
+   "schrodinger",
+   "debroglie",
+   "lorentz",
+   "dirac",
+   "pauli"
+  ],
+  "topics": [
+   "completeness",
+   "wavefunction",
+   "hidden-variables",
+   "measurement",
+   "locality"
+  ],
+  "context": "Full English translation of the proceedings with historical analysis. The single most important source for this simulation. Argues that the pilot-wave theory and Schrödinger's views were more serious contenders in 1927 than later textbook histories suggest."
+ },
+ {
+  "id": "mehra-1975",
+  "type": "scholarship",
+  "title": "The Solvay Conferences on Physics: Aspects of the Development of Physics since 1911",
+  "author": "Jagdish Mehra",
+  "date": "1975",
+  "citation": "J. Mehra, The Solvay Conferences on Physics. Dordrecht: Reidel, 1975.",
+  "reliability": "secondary",
+  "participants": [
+   "einstein",
+   "bohr",
+   "lorentz",
+   "curie",
+   "planck"
+  ],
+  "topics": [
+   "completeness"
+  ],
+  "context": "Institutional history of the councils, including participant lists and organisation."
+ },
+ {
+  "id": "bohr-1949-discussions",
+  "type": "memoir",
+  "title": "Discussion with Einstein on Epistemological Problems in Atomic Physics",
+  "author": "Niels Bohr",
+  "date": "1949",
+  "citation": "N. Bohr, in P. A. Schilpp (ed.), Albert Einstein: Philosopher-Scientist. Evanston: Library of Living Philosophers, 1949, pp. 199–241.",
+  "reliability": "recollection",
+  "participants": [
+   "bohr",
+   "einstein"
+  ],
+  "topics": [
+   "completeness",
+   "measurement",
+   "locality",
+   "complementarity"
+  ],
+  "context": "Bohr's own account, twenty-two years later, of his exchanges with Einstein at the 1927 and 1930 councils. Indispensable, but written with hindsight and from one side."
+ },
+ {
+  "id": "heisenberg-1971-physics-beyond",
+  "type": "memoir",
+  "title": "Physics and Beyond: Encounters and Conversations",
+  "author": "Werner Heisenberg",
+  "date": "1971",
+  "citation": "W. Heisenberg, Physics and Beyond. New York: Harper & Row, 1971 (German original Der Teil und das Ganze, 1969).",
+  "reliability": "recollection",
+  "participants": [
+   "heisenberg",
+   "einstein",
+   "bohr",
+   "schrodinger",
+   "pauli",
+   "dirac"
+  ],
+  "topics": [
+   "positivism",
+   "quantum-jumps",
+   "completeness"
+  ],
+  "context": "Heisenberg reconstructs conversations from forty years earlier as dialogue. Heisenberg himself warned these are not verbatim. Anything sourced only here is labelled a recollection."
+ },
+ {
+  "id": "born-1926a",
+  "type": "paper",
+  "title": "Zur Quantenmechanik der Stoßvorgänge",
+  "author": "Max Born",
+  "date": "1926-06",
+  "citation": "M. Born, Zeitschrift für Physik 37, 863–867 (1926).",
+  "reliability": "primary",
+  "participants": [
+   "born"
+  ],
+  "topics": [
+   "probability",
+   "wavefunction",
+   "determinism"
+  ],
+  "context": "The preliminary communication introducing the statistical interpretation; the |ψ|² rule appears in a note added in proof."
+ },
+ {
+  "id": "born-1926b",
+  "type": "paper",
+  "title": "Quantenmechanik der Stoßvorgänge",
+  "author": "Max Born",
+  "date": "1926-07",
+  "citation": "M. Born, Zeitschrift für Physik 38, 803–827 (1926).",
+  "reliability": "primary",
+  "participants": [
+   "born"
+  ],
+  "topics": [
+   "probability",
+   "causality"
+  ],
+  "context": "The full paper on collision processes and the probability interpretation."
+ },
+ {
+  "id": "born-heisenberg-1927-report",
+  "type": "proceedings",
+  "title": "La mécanique des quanta (report to the fifth Solvay council)",
+  "author": "Max Born and Werner Heisenberg",
+  "date": "1927-10",
+  "citation": "M. Born & W. Heisenberg, 'La mécanique des quanta', in Électrons et Photons (1928), pp. 143–181; English translation in Bacciagaluppi & Valentini (2009).",
+  "reliability": "primary",
+  "participants": [
+   "born",
+   "heisenberg"
+  ],
+  "topics": [
+   "completeness",
+   "probability"
+  ],
+  "context": "The joint report ending with the claim that quantum mechanics is a closed theory."
+ },
+ {
+  "id": "heisenberg-1925",
+  "type": "paper",
+  "title": "Über quantentheoretische Umdeutung kinematischer und mechanischer Beziehungen",
+  "author": "Werner Heisenberg",
+  "date": "1925-07",
+  "citation": "W. Heisenberg, Zeitschrift für Physik 33, 879–893 (1925).",
+  "reliability": "primary",
+  "participants": [
+   "heisenberg"
+  ],
+  "topics": [
+   "positivism",
+   "formalism"
+  ],
+  "context": "The founding paper of matrix mechanics; its abstract announces a mechanics built only on relations between observable quantities."
+ },
+ {
+  "id": "heisenberg-1927",
+  "type": "paper",
+  "title": "Über den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik",
+  "author": "Werner Heisenberg",
+  "date": "1927-03",
+  "citation": "W. Heisenberg, Zeitschrift für Physik 43, 172–198 (1927). English translation in J. A. Wheeler & W. H. Zurek (eds.), Quantum Theory and Measurement, Princeton, 1983, pp. 62–84.",
+  "reliability": "primary",
+  "participants": [
+   "heisenberg",
+   "bohr"
+  ],
+  "topics": [
+   "measurement",
+   "causality",
+   "visualizability"
+  ],
+  "context": "The uncertainty paper: the gamma-ray microscope, the redefinition of 'anschaulich', the rejection of causality, and a postscript acknowledging Bohr's corrections."
+ },
+ {
+  "id": "schrodinger-1926a",
+  "type": "paper",
+  "title": "Quantisierung als Eigenwertproblem (Erste Mitteilung)",
+  "author": "Erwin Schrödinger",
+  "date": "1926-01",
+  "citation": "E. Schrödinger, Annalen der Physik 79, 361–376 (1926).",
+  "reliability": "primary",
+  "participants": [
+   "schrodinger"
+  ],
+  "topics": [
+   "wavefunction",
+   "quantum-jumps",
+   "visualizability"
+  ],
+  "context": "The first of the wave-mechanics papers."
+ },
+ {
+  "id": "schrodinger-1926b",
+  "type": "paper",
+  "title": "Über das Verhältnis der Heisenberg-Born-Jordanschen Quantenmechanik zu der meinen",
+  "author": "Erwin Schrödinger",
+  "date": "1926-03",
+  "citation": "E. Schrödinger, Annalen der Physik 79, 734–756 (1926).",
+  "reliability": "primary",
+  "participants": [
+   "schrodinger"
+  ],
+  "topics": [
+   "formalism",
+   "visualizability"
+  ],
+  "context": "Shows the mathematical equivalence of wave and matrix mechanics; contains Schrödinger's remark about being repelled by matrix methods."
+ },
+ {
+  "id": "schrodinger-1927-report",
+  "type": "proceedings",
+  "title": "La mécanique des ondes (report to the fifth Solvay council)",
+  "author": "Erwin Schrödinger",
+  "date": "1927-10",
+  "citation": "E. Schrödinger, 'La mécanique des ondes', in Électrons et Photons (1928), pp. 185–206; English translation in Bacciagaluppi & Valentini (2009).",
+  "reliability": "primary",
+  "participants": [
+   "schrodinger"
+  ],
+  "topics": [
+   "wavefunction",
+   "visualizability"
+  ],
+  "context": "Schrödinger's report, including his charge-density reading of ψ and his acknowledgement of the configuration-space difficulty."
+ },
+ {
+  "id": "debroglie-1924",
+  "type": "paper",
+  "title": "Recherches sur la théorie des quanta",
+  "author": "Louis de Broglie",
+  "date": "1924-11",
+  "citation": "L. de Broglie, doctoral thesis, Paris, 1924; Annales de Physique 3, 22–128 (1925).",
+  "reliability": "primary",
+  "participants": [
+   "debroglie",
+   "einstein"
+  ],
+  "topics": [
+   "wave-particle"
+  ],
+  "context": "The thesis proposing matter waves, λ = h/p."
+ },
+ {
+  "id": "debroglie-1927",
+  "type": "paper",
+  "title": "La mécanique ondulatoire et la structure atomique de la matière et du rayonnement",
+  "author": "Louis de Broglie",
+  "date": "1927-05",
+  "citation": "L. de Broglie, Journal de Physique et le Radium 8, 225–241 (1927).",
+  "reliability": "primary",
+  "participants": [
+   "debroglie"
+  ],
+  "topics": [
+   "hidden-variables",
+   "wavefunction"
+  ],
+  "context": "The 'double solution' programme and the pilot-wave simplification."
+ },
+ {
+  "id": "debroglie-1927-report",
+  "type": "proceedings",
+  "title": "La nouvelle dynamique des quanta (report to the fifth Solvay council)",
+  "author": "Louis de Broglie",
+  "date": "1927-10",
+  "citation": "L. de Broglie, 'La nouvelle dynamique des quanta', in Électrons et Photons (1928), pp. 105–132; English translation in Bacciagaluppi & Valentini (2009).",
+  "reliability": "primary",
+  "participants": [
+   "debroglie",
+   "pauli"
+  ],
+  "topics": [
+   "hidden-variables",
+   "wavefunction"
+  ],
+  "context": "De Broglie's report presenting the pilot-wave dynamics, followed in the discussion by Pauli's objection."
+ },
+ {
+  "id": "debroglie-1956",
+  "type": "book",
+  "title": "Une tentative d'interprétation causale et non linéaire de la mécanique ondulatoire",
+  "author": "Louis de Broglie",
+  "date": "1956",
+  "citation": "L. de Broglie, Une tentative d'interprétation causale et non linéaire de la mécanique ondulatoire: la théorie de la double solution. Paris: Gauthier-Villars, 1956.",
+  "reliability": "recollection",
+  "participants": [
+   "debroglie"
+  ],
+  "topics": [
+   "hidden-variables"
+  ],
+  "context": "De Broglie's return to causal interpretations after Bohm, including his own account of why he abandoned the pilot wave after 1927."
+ },
+ {
+  "id": "bohr-1928-como",
+  "type": "lecture",
+  "title": "The Quantum Postulate and the Recent Development of Atomic Theory",
+  "author": "Niels Bohr",
+  "date": "1927-09",
+  "citation": "N. Bohr, Nature 121, 580–590 (1928). Lecture delivered at Como, 16 September 1927; a version was given at the Solvay council.",
+  "reliability": "primary",
+  "participants": [
+   "bohr"
+  ],
+  "topics": [
+   "complementarity",
+   "measurement",
+   "causality"
+  ],
+  "context": "The first public statement of complementarity. Einstein was not at Como; he met the argument at Solvay."
+ },
+ {
+  "id": "bks-1924",
+  "type": "paper",
+  "title": "The Quantum Theory of Radiation",
+  "author": "N. Bohr, H. A. Kramers and J. C. Slater",
+  "date": "1924",
+  "citation": "N. Bohr, H. A. Kramers & J. C. Slater, Philosophical Magazine 47, 785–802 (1924).",
+  "reliability": "primary",
+  "participants": [
+   "bohr"
+  ],
+  "topics": [
+   "radiation",
+   "causality",
+   "experiment"
+  ],
+  "context": "Proposed that energy and momentum are conserved only statistically; refuted by experiment in 1925."
+ },
+ {
+  "id": "compton-1923",
+  "type": "paper",
+  "title": "A Quantum Theory of the Scattering of X-rays by Light Elements",
+  "author": "Arthur H. Compton",
+  "date": "1923-05",
+  "citation": "A. H. Compton, Physical Review 21, 483–502 (1923).",
+  "reliability": "primary",
+  "participants": [
+   "compton"
+  ],
+  "topics": [
+   "wave-particle",
+   "experiment"
+  ],
+  "context": "The Compton effect."
+ },
+ {
+  "id": "compton-simon-1925",
+  "type": "paper",
+  "title": "Directed Quanta of Scattered X-Rays",
+  "author": "A. H. Compton and A. W. Simon",
+  "date": "1925",
+  "citation": "A. H. Compton & A. W. Simon, Physical Review 26, 289–299 (1925).",
+  "reliability": "primary",
+  "participants": [
+   "compton",
+   "bohr"
+  ],
+  "topics": [
+   "experiment",
+   "wave-particle"
+  ],
+  "context": "Cloud-chamber evidence that energy and momentum are conserved in individual scattering events."
+ },
+ {
+  "id": "bothe-geiger-1925",
+  "type": "paper",
+  "title": "Über das Wesen des Comptoneffekts",
+  "author": "W. Bothe and H. Geiger",
+  "date": "1925",
+  "citation": "W. Bothe & H. Geiger, Zeitschrift für Physik 32, 639–663 (1925).",
+  "reliability": "primary",
+  "participants": [
+   "bohr",
+   "compton"
+  ],
+  "topics": [
+   "experiment"
+  ],
+  "context": "Coincidence counting showing that recoil electron and scattered quantum are emitted together; fatal to the BKS proposal."
+ },
+ {
+  "id": "compton-1927-report",
+  "type": "proceedings",
+  "title": "Disagreements between experiment and the electromagnetic theory of radiation (report to the fifth Solvay council)",
+  "author": "Arthur H. Compton",
+  "date": "1927-10",
+  "citation": "A. H. Compton, report in Électrons et Photons (1928), pp. 55–85; English translation in Bacciagaluppi & Valentini (2009).",
+  "reliability": "primary",
+  "participants": [
+   "compton"
+  ],
+  "topics": [
+   "wave-particle",
+   "experiment"
+  ],
+  "context": "Compton's survey of the experimental case for light quanta."
+ },
+ {
+  "id": "davisson-germer-1927",
+  "type": "paper",
+  "title": "The Scattering of Electrons by a Single Crystal of Nickel",
+  "author": "C. Davisson and L. H. Germer",
+  "date": "1927-04",
+  "citation": "C. Davisson & L. H. Germer, Nature 119, 558–560 (1927).",
+  "reliability": "primary",
+  "participants": [
+   "debroglie"
+  ],
+  "topics": [
+   "wave-particle",
+   "experiment"
+  ],
+  "context": "Electron diffraction, confirming matter waves."
+ },
+ {
+  "id": "thomson-reid-1927",
+  "type": "paper",
+  "title": "Diffraction of Cathode Rays by a Thin Film",
+  "author": "G. P. Thomson and A. Reid",
+  "date": "1927-06",
+  "citation": "G. P. Thomson & A. Reid, Nature 119, 890 (1927).",
+  "reliability": "primary",
+  "participants": [
+   "debroglie"
+  ],
+  "topics": [
+   "wave-particle",
+   "experiment"
+  ],
+  "context": "Independent confirmation of electron diffraction."
+ },
+ {
+  "id": "planck-1900",
+  "type": "paper",
+  "title": "Zur Theorie des Gesetzes der Energieverteilung im Normalspectrum",
+  "author": "Max Planck",
+  "date": "1900-12",
+  "citation": "M. Planck, Verhandlungen der Deutschen Physikalischen Gesellschaft 2, 237–245 (1900).",
+  "reliability": "primary",
+  "participants": [
+   "planck"
+  ],
+  "topics": [
+   "radiation"
+  ],
+  "context": "The introduction of energy elements hν."
+ },
+ {
+  "id": "planck-1909",
+  "type": "lecture",
+  "title": "Die Einheit des physikalischen Weltbildes",
+  "author": "Max Planck",
+  "date": "1908-12",
+  "citation": "M. Planck, Physikalische Zeitschrift 10, 62–75 (1909). Lecture at Leiden, December 1908.",
+  "reliability": "primary",
+  "participants": [
+   "planck"
+  ],
+  "topics": [
+   "realism",
+   "positivism"
+  ],
+  "context": "Planck's attack on Mach's positivism and defence of a mind-independent physical world picture."
+ },
+ {
+  "id": "planck-1949-autobiography",
+  "type": "memoir",
+  "title": "Scientific Autobiography and Other Papers",
+  "author": "Max Planck",
+  "date": "1948",
+  "citation": "M. Planck, Scientific Autobiography and Other Papers. New York: Philosophical Library, 1949.",
+  "reliability": "recollection",
+  "participants": [
+   "planck"
+  ],
+  "topics": [
+   "realism",
+   "causality"
+  ],
+  "context": "Late reflections; used only as later testimony."
+ },
+ {
+  "id": "heilbron-1986",
+  "type": "biography",
+  "title": "The Dilemmas of an Upright Man: Max Planck and the Fortunes of German Science",
+  "author": "J. L. Heilbron",
+  "date": "1986",
+  "citation": "J. L. Heilbron, The Dilemmas of an Upright Man. Berkeley: University of California Press, 1986.",
+  "reliability": "secondary",
+  "participants": [
+   "planck"
+  ],
+  "topics": [
+   "realism",
+   "causality"
+  ],
+  "context": "Standard biography of Planck."
+ },
+ {
+  "id": "hermann-1971",
+  "type": "scholarship",
+  "title": "The Genesis of Quantum Theory (1899–1913)",
+  "author": "Armin Hermann",
+  "date": "1971",
+  "citation": "A. Hermann, The Genesis of Quantum Theory (1899–1913). Cambridge, MA: MIT Press, 1971.",
+  "reliability": "secondary",
+  "participants": [
+   "planck"
+  ],
+  "topics": [
+   "radiation"
+  ],
+  "context": "Source for Planck's 1931 letter to R. W. Wood describing his 1900 step."
+ },
+ {
+  "id": "cpae-5",
+  "type": "archive",
+  "title": "The Collected Papers of Albert Einstein, Vol. 5: The Swiss Years, Correspondence 1902–1914",
+  "author": "M. J. Klein, A. J. Kox, R. Schulmann (eds.)",
+  "date": "1993",
+  "citation": "The Collected Papers of Albert Einstein, Vol. 5. Princeton University Press, 1993.",
+  "reliability": "primary",
+  "participants": [
+   "einstein",
+   "planck"
+  ],
+  "topics": [
+   "wave-particle"
+  ],
+  "context": "Includes the 1913 proposal, signed by Planck, Nernst, Rubens and Warburg, for Einstein's election to the Prussian Academy."
+ },
+ {
+  "id": "einstein-1905",
+  "type": "paper",
+  "title": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
+  "author": "Albert Einstein",
+  "date": "1905-03",
+  "citation": "A. Einstein, Annalen der Physik 17, 132–148 (1905).",
+  "reliability": "primary",
+  "participants": [
+   "einstein"
+  ],
+  "topics": [
+   "wave-particle",
+   "radiation"
+  ],
+  "context": "The light-quantum hypothesis."
+ },
+ {
+  "id": "einstein-1909",
+  "type": "paper",
+  "title": "Zum gegenwärtigen Stand des Strahlungsproblems; Über die Entwicklung unserer Anschauungen über das Wesen und die Konstitution der Strahlung",
+  "author": "Albert Einstein",
+  "date": "1909",
+  "citation": "A. Einstein, Physikalische Zeitschrift 10, 185–193 and 817–825 (1909).",
+  "reliability": "primary",
+  "participants": [
+   "einstein"
+  ],
+  "topics": [
+   "wave-particle"
+  ],
+  "context": "The fluctuation argument and the Salzburg lecture predicting a 'fusion' of wave and emission theories of light."
+ },
+ {
+  "id": "einstein-1917",
+  "type": "paper",
+  "title": "Zur Quantentheorie der Strahlung",
+  "author": "Albert Einstein",
+  "date": "1917",
+  "citation": "A. Einstein, Physikalische Zeitschrift 18, 121–128 (1917).",
+  "reliability": "primary",
+  "participants": [
+   "einstein"
+  ],
+  "topics": [
+   "probability",
+   "radiation",
+   "causality"
+  ],
+  "context": "A and B coefficients, stimulated emission, and Einstein's unease that the theory leaves elementary processes to chance."
+ },
+ {
+  "id": "einstein-1925",
+  "type": "paper",
+  "title": "Quantentheorie des einatomigen idealen Gases. Zweite Abhandlung",
+  "author": "Albert Einstein",
+  "date": "1925-01",
+  "citation": "A. Einstein, Sitzungsberichte der Preussischen Akademie der Wissenschaften (1925), 3–14.",
+  "reliability": "primary",
+  "participants": [
+   "einstein",
+   "debroglie"
+  ],
+  "topics": [
+   "wave-particle"
+  ],
+  "context": "Draws attention to de Broglie's thesis; Schrödinger later credited this for leading him to wave mechanics."
+ },
+ {
+  "id": "einstein-1927-manuscript",
+  "type": "archive",
+  "title": "Bestimmt Schrödingers Wellenmechanik die Bewegung eines Systems vollständig oder nur im Sinne der Statistik?",
+  "author": "Albert Einstein",
+  "date": "1927-05",
+  "citation": "A. Einstein, unpublished manuscript presented to the Prussian Academy in May 1927 and withdrawn before publication. Einstein Archives 2-100.",
+  "reliability": "primary",
+  "participants": [
+   "einstein"
+  ],
+  "topics": [
+   "hidden-variables",
+   "locality"
+  ],
+  "context": "Einstein's own attempt to make wave mechanics determine individual motions, withdrawn after he found that composite systems of non-interacting parts did not behave independently."
+ },
+ {
+  "id": "belousek-1996",
+  "type": "scholarship",
+  "title": "Einstein's 1927 Unpublished Hidden-Variable Theory: Its Background, Context and Significance",
+  "author": "Darrin W. Belousek",
+  "date": "1996",
+  "citation": "D. W. Belousek, Studies in History and Philosophy of Modern Physics 27, 437–461 (1996).",
+  "reliability": "secondary",
+  "participants": [
+   "einstein"
+  ],
+  "topics": [
+   "hidden-variables",
+   "locality"
+  ],
+  "context": "Analysis of the withdrawn May 1927 manuscript."
+ },
+ {
+  "id": "born-einstein-letters",
+  "type": "letter",
+  "title": "The Born–Einstein Letters",
+  "author": "Max Born (ed.), trans. Irene Born",
+  "date": "1971",
+  "citation": "The Born–Einstein Letters: Correspondence between Albert Einstein and Max and Hedwig Born from 1916 to 1955. London: Macmillan, 1971.",
+  "reliability": "primary",
+  "participants": [
+   "einstein",
+   "born"
+  ],
+  "topics": [
+   "completeness",
+   "probability",
+   "locality"
+  ],
+  "context": "Letters with Born's later commentary. The letters are primary; the commentary is recollection."
+ },
+ {
+  "id": "przibram-1967",
+  "type": "letter",
+  "title": "Letters on Wave Mechanics",
+  "author": "K. Przibram (ed.), trans. M. J. Klein",
+  "date": "1967",
+  "citation": "K. Przibram (ed.), Letters on Wave Mechanics: Schrödinger, Planck, Einstein, Lorentz. New York: Philosophical Library, 1967.",
+  "reliability": "primary",
+  "participants": [
+   "schrodinger",
+   "einstein",
+   "lorentz",
+   "planck"
+  ],
+  "topics": [
+   "wavefunction",
+   "visualizability"
+  ],
+  "context": "Correspondence of 1926–27, including Lorentz's objection that wave packets disperse and Einstein's early enthusiasm for wave mechanics."
+ },
+ {
+  "id": "pauli-briefwechsel-1",
+  "type": "letter",
+  "title": "Wissenschaftlicher Briefwechsel, Band I: 1919–1929",
+  "author": "Wolfgang Pauli; A. Hermann, K. von Meyenn, V. F. Weisskopf (eds.)",
+  "date": "1979",
+  "citation": "W. Pauli, Wissenschaftlicher Briefwechsel, Band I. New York: Springer, 1979.",
+  "reliability": "primary",
+  "participants": [
+   "pauli",
+   "heisenberg",
+   "bohr"
+  ],
+  "topics": [
+   "measurement",
+   "probability",
+   "wavefunction"
+  ],
+  "context": "Pauli's letters of the period, including the 'p-eye and q-eye' letter and Heisenberg's letters to Pauli about Schrödinger."
+ },
+ {
+  "id": "pauli-briefwechsel-2",
+  "type": "letter",
+  "title": "Wissenschaftlicher Briefwechsel, Band II: 1930–1939",
+  "author": "Wolfgang Pauli; K. von Meyenn (ed.)",
+  "date": "1985",
+  "citation": "W. Pauli, Wissenschaftlicher Briefwechsel, Band II. Berlin: Springer, 1985.",
+  "reliability": "primary",
+  "participants": [
+   "pauli",
+   "heisenberg"
+  ],
+  "topics": [
+   "completeness",
+   "locality"
+  ],
+  "context": "Includes Pauli's June 1935 letter to Heisenberg about the EPR paper."
+ },
+ {
+  "id": "ehrenfest-1927-letter",
+  "type": "letter",
+  "title": "Letter to S. Goudsmit, G. Uhlenbeck and G. Dieke, 3 November 1927",
+  "author": "Paul Ehrenfest",
+  "date": "1927-11-03",
+  "citation": "P. Ehrenfest to Goudsmit, Uhlenbeck and Dieke, 3 November 1927; English translation in N. Bohr, Collected Works, Vol. 6 (1985), pp. 37–41, and in A. Pais, Niels Bohr's Times (1991).",
+  "reliability": "primary",
+  "participants": [
+   "ehrenfest",
+   "einstein",
+   "bohr"
+  ],
+  "topics": [
+   "completeness",
+   "complementarity"
+  ],
+  "context": "The best contemporary eyewitness account of the Einstein–Bohr exchanges, written days after the council."
+ },
+ {
+  "id": "ehrenfest-1927-theorem",
+  "type": "paper",
+  "title": "Bemerkung über die angenäherte Gültigkeit der klassischen Mechanik innerhalb der Quantenmechanik",
+  "author": "Paul Ehrenfest",
+  "date": "1927",
+  "citation": "P. Ehrenfest, Zeitschrift für Physik 45, 455–457 (1927).",
+  "reliability": "primary",
+  "participants": [
+   "ehrenfest"
+  ],
+  "topics": [
+   "classical-limit"
+  ],
+  "context": "Ehrenfest's theorem."
+ },
+ {
+  "id": "klein-1970",
+  "type": "biography",
+  "title": "Paul Ehrenfest, Vol. 1: The Making of a Theoretical Physicist",
+  "author": "Martin J. Klein",
+  "date": "1970",
+  "citation": "M. J. Klein, Paul Ehrenfest, Vol. 1. Amsterdam: North-Holland, 1970.",
+  "reliability": "secondary",
+  "participants": [
+   "ehrenfest"
+  ],
+  "topics": [
+   "classical-limit"
+  ],
+  "context": "Standard biography of Ehrenfest."
+ },
+ {
+  "id": "bohr-cw-6",
+  "type": "archive",
+  "title": "Niels Bohr Collected Works, Vol. 6: Foundations of Quantum Physics I (1926–1932)",
+  "author": "J. Kalckar (ed.)",
+  "date": "1985",
+  "citation": "N. Bohr, Collected Works, Vol. 6, ed. J. Kalckar. Amsterdam: North-Holland, 1985.",
+  "reliability": "primary",
+  "participants": [
+   "bohr",
+   "ehrenfest",
+   "einstein"
+  ],
+  "topics": [
+   "complementarity",
+   "measurement"
+  ],
+  "context": "Bohr's manuscripts and correspondence for the Como and Solvay period."
+ },
+ {
+  "id": "dirac-1927a",
+  "type": "paper",
+  "title": "The Physical Interpretation of the Quantum Dynamics",
+  "author": "P. A. M. Dirac",
+  "date": "1926-12",
+  "citation": "P. A. M. Dirac, Proceedings of the Royal Society A 113, 621–641 (1927).",
+  "reliability": "primary",
+  "participants": [
+   "dirac"
+  ],
+  "topics": [
+   "formalism",
+   "probability"
+  ],
+  "context": "Transformation theory."
+ },
+ {
+  "id": "dirac-1927b",
+  "type": "paper",
+  "title": "The Quantum Theory of the Emission and Absorption of Radiation",
+  "author": "P. A. M. Dirac",
+  "date": "1927-02",
+  "citation": "P. A. M. Dirac, Proceedings of the Royal Society A 114, 243–265 (1927).",
+  "reliability": "primary",
+  "participants": [
+   "dirac"
+  ],
+  "topics": [
+   "radiation",
+   "wave-particle"
+  ],
+  "context": "Quantisation of the radiation field; recovers Einstein's coefficients."
+ },
+ {
+  "id": "farmelo-2009",
+  "type": "biography",
+  "title": "The Strangest Man: The Hidden Life of Paul Dirac",
+  "author": "Graham Farmelo",
+  "date": "2009",
+  "citation": "G. Farmelo, The Strangest Man. London: Faber & Faber, 2009.",
+  "reliability": "secondary",
+  "participants": [
+   "dirac"
+  ],
+  "topics": [
+   "formalism"
+  ],
+  "context": "Biography of Dirac; careful about separating anecdote from documentation."
+ },
+ {
+  "id": "kragh-1990",
+  "type": "biography",
+  "title": "Dirac: A Scientific Biography",
+  "author": "Helge Kragh",
+  "date": "1990",
+  "citation": "H. Kragh, Dirac: A Scientific Biography. Cambridge University Press, 1990.",
+  "reliability": "secondary",
+  "participants": [
+   "dirac"
+  ],
+  "topics": [
+   "formalism"
+  ],
+  "context": "Scientific biography of Dirac."
+ },
+ {
+  "id": "pauli-1925",
+  "type": "paper",
+  "title": "Über den Zusammenhang des Abschlusses der Elektronengruppen im Atom mit der Komplexstruktur der Spektren",
+  "author": "Wolfgang Pauli",
+  "date": "1925",
+  "citation": "W. Pauli, Zeitschrift für Physik 31, 765–783 (1925).",
+  "reliability": "primary",
+  "participants": [
+   "pauli"
+  ],
+  "topics": [
+   "formalism"
+  ],
+  "context": "The exclusion principle."
+ },
+ {
+  "id": "enz-2002",
+  "type": "biography",
+  "title": "No Time to be Brief: A Scientific Biography of Wolfgang Pauli",
+  "author": "Charles P. Enz",
+  "date": "2002",
+  "citation": "C. P. Enz, No Time to be Brief. Oxford University Press, 2002.",
+  "reliability": "secondary",
+  "participants": [
+   "pauli"
+  ],
+  "topics": [
+   "probability"
+  ],
+  "context": "Scientific biography of Pauli."
+ },
+ {
+  "id": "moore-1989",
+  "type": "biography",
+  "title": "Schrödinger: Life and Thought",
+  "author": "Walter Moore",
+  "date": "1989",
+  "citation": "W. Moore, Schrödinger: Life and Thought. Cambridge University Press, 1989.",
+  "reliability": "secondary",
+  "participants": [
+   "schrodinger"
+  ],
+  "topics": [
+   "wavefunction",
+   "quantum-jumps"
+  ],
+  "context": "Standard biography of Schrödinger."
+ },
+ {
+  "id": "pais-1982",
+  "type": "biography",
+  "title": "'Subtle is the Lord…': The Science and the Life of Albert Einstein",
+  "author": "Abraham Pais",
+  "date": "1982",
+  "citation": "A. Pais, 'Subtle is the Lord…'. Oxford University Press, 1982.",
+  "reliability": "secondary",
+  "participants": [
+   "einstein"
+  ],
+  "topics": [
+   "wave-particle",
+   "completeness"
+  ],
+  "context": "Scientific biography of Einstein by a physicist who knew him."
+ },
+ {
+  "id": "pais-1991",
+  "type": "biography",
+  "title": "Niels Bohr's Times, in Physics, Philosophy, and Polity",
+  "author": "Abraham Pais",
+  "date": "1991",
+  "citation": "A. Pais, Niels Bohr's Times. Oxford University Press, 1991.",
+  "reliability": "secondary",
+  "participants": [
+   "bohr",
+   "ehrenfest"
+  ],
+  "topics": [
+   "complementarity"
+  ],
+  "context": "Biography of Bohr; reproduces Ehrenfest's November 1927 letter."
+ },
+ {
+  "id": "pais-1986",
+  "type": "scholarship",
+  "title": "Inward Bound: Of Matter and Forces in the Physical World",
+  "author": "Abraham Pais",
+  "date": "1986",
+  "citation": "A. Pais, Inward Bound. Oxford University Press, 1986.",
+  "reliability": "secondary",
+  "participants": [
+   "curie"
+  ],
+  "topics": [
+   "probability",
+   "experiment"
+  ],
+  "context": "History of radioactivity and particle physics, including the early recognition that radioactive decay is statistical."
+ },
+ {
+  "id": "jammer-1966",
+  "type": "scholarship",
+  "title": "The Conceptual Development of Quantum Mechanics",
+  "author": "Max Jammer",
+  "date": "1966",
+  "citation": "M. Jammer, The Conceptual Development of Quantum Mechanics. New York: McGraw-Hill, 1966.",
+  "reliability": "secondary",
+  "participants": [
+   "bohr",
+   "heisenberg",
+   "schrodinger",
+   "born"
+  ],
+  "topics": [
+   "formalism"
+  ],
+  "context": "Classic history of the formation of the theory."
+ },
+ {
+  "id": "jammer-1974",
+  "type": "scholarship",
+  "title": "The Philosophy of Quantum Mechanics",
+  "author": "Max Jammer",
+  "date": "1974",
+  "citation": "M. Jammer, The Philosophy of Quantum Mechanics. New York: Wiley, 1974.",
+  "reliability": "secondary",
+  "participants": [
+   "einstein",
+   "bohr",
+   "debroglie",
+   "heisenberg"
+  ],
+  "topics": [
+   "completeness",
+   "hidden-variables",
+   "measurement"
+  ],
+  "context": "Classic history of interpretation, including Solvay 1927, EPR and hidden variables."
+ },
+ {
+  "id": "mehra-rechenberg",
+  "type": "scholarship",
+  "title": "The Historical Development of Quantum Theory",
+  "author": "Jagdish Mehra and Helmut Rechenberg",
+  "date": "1982",
+  "citation": "J. Mehra & H. Rechenberg, The Historical Development of Quantum Theory, 6 vols. New York: Springer, 1982–2001.",
+  "reliability": "secondary",
+  "participants": [
+   "heisenberg",
+   "schrodinger",
+   "born",
+   "dirac",
+   "pauli"
+  ],
+  "topics": [
+   "formalism"
+  ],
+  "context": "Encyclopaedic technical history."
+ },
+ {
+  "id": "quinn-1995",
+  "type": "biography",
+  "title": "Marie Curie: A Life",
+  "author": "Susan Quinn",
+  "date": "1995",
+  "citation": "S. Quinn, Marie Curie: A Life. New York: Simon & Schuster, 1995.",
+  "reliability": "secondary",
+  "participants": [
+   "curie"
+  ],
+  "topics": [
+   "experiment"
+  ],
+  "context": "Biography of Curie."
+ },
+ {
+  "id": "stuewer-1975",
+  "type": "scholarship",
+  "title": "The Compton Effect: Turning Point in Physics",
+  "author": "Roger H. Stuewer",
+  "date": "1975",
+  "citation": "R. H. Stuewer, The Compton Effect. New York: Science History Publications, 1975.",
+  "reliability": "secondary",
+  "participants": [
+   "compton"
+  ],
+  "topics": [
+   "wave-particle",
+   "experiment"
+  ],
+  "context": "History of the Compton effect and its reception."
+ },
+ {
+  "id": "nobel-1927",
+  "type": "archive",
+  "title": "The Nobel Prize in Physics 1927",
+  "author": "Nobel Foundation",
+  "date": "1927-11",
+  "citation": "The Nobel Prize in Physics 1927: Arthur Holly Compton and Charles Thomson Rees Wilson. nobelprize.org.",
+  "reliability": "primary",
+  "participants": [
+   "compton"
+  ],
+  "topics": [
+   "experiment"
+  ],
+  "context": "Announced in November 1927, after the council closed."
+ },
+ {
+  "id": "bohr-1913",
+  "type": "paper",
+  "title": "On the Constitution of Atoms and Molecules",
+  "author": "Niels Bohr",
+  "date": "1913-07",
+  "citation": "N. Bohr, Philosophical Magazine 26, 1–25 (1913).",
+  "reliability": "primary",
+  "participants": [
+   "bohr"
+  ],
+  "topics": [
+   "quantum-jumps"
+  ],
+  "context": "Stationary states and transitions."
+ },
+ {
+  "id": "uhlenbeck-goudsmit-1925",
+  "type": "paper",
+  "title": "Ersetzung der Hypothese vom unmechanischen Zwang durch eine Forderung bezüglich des inneren Verhaltens jedes einzelnen Elektrons",
+  "author": "G. E. Uhlenbeck and S. Goudsmit",
+  "date": "1925-11",
+  "citation": "G. E. Uhlenbeck & S. Goudsmit, Naturwissenschaften 13, 953–954 (1925).",
+  "reliability": "primary",
+  "participants": [
+   "ehrenfest",
+   "pauli"
+  ],
+  "topics": [
+   "formalism"
+  ],
+  "context": "Electron spin, proposed by Ehrenfest's students."
+ },
+ {
+  "id": "lemaitre-1927",
+  "type": "paper",
+  "title": "Un univers homogène de masse constante et de rayon croissant",
+  "author": "Georges Lemaître",
+  "date": "1927-04",
+  "citation": "G. Lemaître, Annales de la Société Scientifique de Bruxelles A 47, 49–59 (1927).",
+  "reliability": "primary",
+  "participants": [
+   "einstein"
+  ],
+  "topics": [
+   "cosmology"
+  ],
+  "context": "An expanding-universe solution, published in Brussels months before the council; Einstein learned of it there."
+ },
+ {
+  "id": "fine-1986",
+  "type": "scholarship",
+  "title": "The Shaky Game: Einstein, Realism and the Quantum Theory",
+  "author": "Arthur Fine",
+  "date": "1986",
+  "citation": "A. Fine, The Shaky Game. University of Chicago Press, 1986.",
+  "reliability": "secondary",
+  "participants": [
+   "einstein",
+   "schrodinger"
+  ],
+  "topics": [
+   "completeness",
+   "locality"
+  ],
+  "context": "Includes Einstein's 1935 letters to Schrödinger on the EPR paper and the gunpowder example."
+ },
+ {
+  "id": "howard-2004",
+  "type": "scholarship",
+  "title": "Who Invented the 'Copenhagen Interpretation'? A Study in Mythology",
+  "author": "Don Howard",
+  "date": "2004",
+  "citation": "D. Howard, Philosophy of Science 71, 669–682 (2004).",
+  "reliability": "secondary",
+  "participants": [
+   "bohr",
+   "heisenberg"
+  ],
+  "topics": [
+   "complementarity"
+  ],
+  "context": "Shows the phrase 'Copenhagen interpretation' dates from the 1950s, largely from Heisenberg; Bohr's and Heisenberg's views differed."
+ },
+ {
+  "id": "cushing-1994",
+  "type": "scholarship",
+  "title": "Quantum Mechanics: Historical Contingency and the Copenhagen Hegemony",
+  "author": "James T. Cushing",
+  "date": "1994",
+  "citation": "J. T. Cushing, Quantum Mechanics: Historical Contingency and the Copenhagen Hegemony. University of Chicago Press, 1994.",
+  "reliability": "secondary",
+  "participants": [
+   "debroglie",
+   "bohr"
+  ],
+  "topics": [
+   "hidden-variables"
+  ],
+  "context": "Argues that the dominance of the Copenhagen view was historically contingent."
+ },
+ {
+  "id": "epr-1935",
+  "type": "paper",
+  "title": "Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?",
+  "author": "A. Einstein, B. Podolsky and N. Rosen",
+  "date": "1935-05",
+  "citation": "A. Einstein, B. Podolsky & N. Rosen, Physical Review 47, 777–780 (1935).",
+  "reliability": "primary",
+  "participants": [
+   "einstein"
+  ],
+  "topics": [
+   "completeness",
+   "locality"
+  ],
+  "context": "The EPR argument."
+ },
+ {
+  "id": "bohr-1935",
+  "type": "paper",
+  "title": "Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?",
+  "author": "Niels Bohr",
+  "date": "1935-10",
+  "citation": "N. Bohr, Physical Review 48, 696–702 (1935).",
+  "reliability": "primary",
+  "participants": [
+   "bohr"
+  ],
+  "topics": [
+   "completeness",
+   "complementarity"
+  ],
+  "context": "Bohr's reply to EPR."
+ },
+ {
+  "id": "schrodinger-1935",
+  "type": "paper",
+  "title": "Die gegenwärtige Situation in der Quantenmechanik",
+  "author": "Erwin Schrödinger",
+  "date": "1935-11",
+  "citation": "E. Schrödinger, Naturwissenschaften 23, 807–812, 823–828, 844–849 (1935).",
+  "reliability": "primary",
+  "participants": [
+   "schrodinger"
+  ],
+  "topics": [
+   "measurement",
+   "wavefunction"
+  ],
+  "context": "The cat paper."
+ },
+ {
+  "id": "schrodinger-1935b",
+  "type": "paper",
+  "title": "Discussion of Probability Relations between Separated Systems",
+  "author": "Erwin Schrödinger",
+  "date": "1935-08",
+  "citation": "E. Schrödinger, Mathematical Proceedings of the Cambridge Philosophical Society 31, 555–563 (1935).",
+  "reliability": "primary",
+  "participants": [
+   "schrodinger"
+  ],
+  "topics": [
+   "locality",
+   "wavefunction"
+  ],
+  "context": "Introduces 'entanglement' into English and calls it the characteristic trait of quantum mechanics."
+ },
+ {
+  "id": "bacciagaluppi-crull-2009",
+  "type": "scholarship",
+  "title": "Heisenberg (and Schrödinger, and Pauli) on Hidden Variables",
+  "author": "Guido Bacciagaluppi and Elise Crull",
+  "date": "2009",
+  "citation": "G. Bacciagaluppi & E. Crull, Studies in History and Philosophy of Modern Physics 40, 374–382 (2009).",
+  "reliability": "secondary",
+  "participants": [
+   "heisenberg",
+   "pauli",
+   "schrodinger"
+  ],
+  "topics": [
+   "hidden-variables",
+   "completeness"
+  ],
+  "context": "Discusses Heisenberg's unpublished 1935 reply to EPR."
+ },
+ {
+  "id": "vonneumann-1932",
+  "type": "book",
+  "title": "Mathematische Grundlagen der Quantenmechanik",
+  "author": "John von Neumann",
+  "date": "1932",
+  "citation": "J. von Neumann, Mathematische Grundlagen der Quantenmechanik. Berlin: Springer, 1932.",
+  "reliability": "primary",
+  "participants": [],
+  "topics": [
+   "hidden-variables",
+   "measurement",
+   "formalism"
+  ],
+  "context": "Includes the proof long taken to exclude hidden variables."
+ },
+ {
+  "id": "hermann-1935",
+  "type": "paper",
+  "title": "Die naturphilosophischen Grundlagen der Quantenmechanik",
+  "author": "Grete Hermann",
+  "date": "1935",
+  "citation": "G. Hermann, Abhandlungen der Fries'schen Schule 6, 75–152 (1935).",
+  "reliability": "primary",
+  "participants": [],
+  "topics": [
+   "hidden-variables"
+  ],
+  "context": "Identified the questionable assumption in von Neumann's proof; widely overlooked."
+ },
+ {
+  "id": "bohm-1952",
+  "type": "paper",
+  "title": "A Suggested Interpretation of the Quantum Theory in Terms of 'Hidden' Variables, I and II",
+  "author": "David Bohm",
+  "date": "1952-01",
+  "citation": "D. Bohm, Physical Review 85, 166–179 and 180–193 (1952).",
+  "reliability": "primary",
+  "participants": [
+   "debroglie"
+  ],
+  "topics": [
+   "hidden-variables"
+  ],
+  "context": "A consistent deterministic, nonlocal pilot-wave theory reproducing quantum predictions."
+ },
+ {
+  "id": "pauli-1953",
+  "type": "paper",
+  "title": "Remarques sur le problème des paramètres cachés dans la mécanique quantique et sur la théorie de l'onde pilote",
+  "author": "Wolfgang Pauli",
+  "date": "1953",
+  "citation": "W. Pauli, in A. George (ed.), Louis de Broglie, physicien et penseur. Paris: Albin Michel, 1953, pp. 33–42.",
+  "reliability": "primary",
+  "participants": [
+   "pauli",
+   "debroglie"
+  ],
+  "topics": [
+   "hidden-variables"
+  ],
+  "context": "Pauli's critique of Bohm's theory."
+ },
+ {
+  "id": "heisenberg-1958",
+  "type": "book",
+  "title": "Physics and Philosophy: The Revolution in Modern Science",
+  "author": "Werner Heisenberg",
+  "date": "1958",
+  "citation": "W. Heisenberg, Physics and Philosophy. New York: Harper, 1958.",
+  "reliability": "recollection",
+  "participants": [
+   "heisenberg"
+  ],
+  "topics": [
+   "hidden-variables",
+   "measurement"
+  ],
+  "context": "Includes Heisenberg's criticism of Bohm's theory and his mature account of the 'Copenhagen interpretation'."
+ },
+ {
+  "id": "einstein-1948",
+  "type": "paper",
+  "title": "Quanten-Mechanik und Wirklichkeit",
+  "author": "Albert Einstein",
+  "date": "1948",
+  "citation": "A. Einstein, Dialectica 2, 320–324 (1948).",
+  "reliability": "primary",
+  "participants": [
+   "einstein"
+  ],
+  "topics": [
+   "locality",
+   "completeness"
+  ],
+  "context": "Einstein's clearest statement of the separability principle."
+ },
+ {
+  "id": "bell-1964",
+  "type": "paper",
+  "title": "On the Einstein Podolsky Rosen Paradox",
+  "author": "John S. Bell",
+  "date": "1964-11",
+  "citation": "J. S. Bell, Physics 1, 195–200 (1964).",
+  "reliability": "primary",
+  "participants": [
+   "bell"
+  ],
+  "topics": [
+   "locality",
+   "hidden-variables"
+  ],
+  "context": "Bell's theorem."
+ },
+ {
+  "id": "bell-1966",
+  "type": "paper",
+  "title": "On the Problem of Hidden Variables in Quantum Mechanics",
+  "author": "John S. Bell",
+  "date": "1966",
+  "citation": "J. S. Bell, Reviews of Modern Physics 38, 447–452 (1966).",
+  "reliability": "primary",
+  "participants": [
+   "bell"
+  ],
+  "topics": [
+   "hidden-variables"
+  ],
+  "context": "Bell's critique of von Neumann's proof and of related impossibility proofs."
+ },
+ {
+  "id": "bell-1982",
+  "type": "paper",
+  "title": "On the Impossible Pilot Wave",
+  "author": "John S. Bell",
+  "date": "1982",
+  "citation": "J. S. Bell, Foundations of Physics 12, 989–999 (1982); reprinted in Speakable and Unspeakable in Quantum Mechanics.",
+  "reliability": "primary",
+  "participants": [
+   "bell",
+   "debroglie"
+  ],
+  "topics": [
+   "hidden-variables"
+  ],
+  "context": "Bell on why the pilot wave was neglected."
+ },
+ {
+  "id": "bell-1990",
+  "type": "paper",
+  "title": "Against 'Measurement'",
+  "author": "John S. Bell",
+  "date": "1990-08",
+  "citation": "J. S. Bell, Physics World 3(8), 33–40 (1990).",
+  "reliability": "primary",
+  "participants": [
+   "bell"
+  ],
+  "topics": [
+   "measurement"
+  ],
+  "context": "Bell's critique of the role of 'measurement' in the foundations."
+ },
+ {
+  "id": "bell-1987",
+  "type": "book",
+  "title": "Speakable and Unspeakable in Quantum Mechanics",
+  "author": "John S. Bell",
+  "date": "1987",
+  "citation": "J. S. Bell, Speakable and Unspeakable in Quantum Mechanics. Cambridge University Press, 1987.",
+  "reliability": "primary",
+  "participants": [
+   "bell"
+  ],
+  "topics": [
+   "locality",
+   "hidden-variables",
+   "measurement"
+  ],
+  "context": "Bell's collected papers on foundations."
+ },
+ {
+  "id": "omni-1988",
+  "type": "interview",
+  "title": "Interview with John S. Bell",
+  "author": "John S. Bell (interviewed)",
+  "date": "1988-05",
+  "citation": "Interview with J. S. Bell, Omni, May 1988, p. 88.",
+  "reliability": "recollection",
+  "participants": [
+   "bell"
+  ],
+  "topics": [
+   "hidden-variables"
+  ],
+  "context": "Popular-magazine interview; wording less secure than Bell's papers."
+ },
+ {
+  "id": "chsh-1969",
+  "type": "paper",
+  "title": "Proposed Experiment to Test Local Hidden-Variable Theories",
+  "author": "J. F. Clauser, M. A. Horne, A. Shimony and R. A. Holt",
+  "date": "1969",
+  "citation": "J. F. Clauser, M. A. Horne, A. Shimony & R. A. Holt, Physical Review Letters 23, 880–884 (1969).",
+  "reliability": "primary",
+  "participants": [],
+  "topics": [
+   "locality",
+   "experiment"
+  ],
+  "context": "The CHSH inequality |S| ≤ 2."
+ },
+ {
+  "id": "freedman-clauser-1972",
+  "type": "paper",
+  "title": "Experimental Test of Local Hidden-Variable Theories",
+  "author": "S. J. Freedman and J. F. Clauser",
+  "date": "1972",
+  "citation": "S. J. Freedman & J. F. Clauser, Physical Review Letters 28, 938–941 (1972).",
+  "reliability": "primary",
+  "participants": [],
+  "topics": [
+   "locality",
+   "experiment"
+  ],
+  "context": "First experimental violation of a Bell inequality."
+ },
+ {
+  "id": "aspect-1982a",
+  "type": "paper",
+  "title": "Experimental Realization of Einstein-Podolsky-Rosen-Bohm Gedankenexperiment: A New Violation of Bell's Inequalities",
+  "author": "A. Aspect, P. Grangier and G. Roger",
+  "date": "1982-07",
+  "citation": "A. Aspect, P. Grangier & G. Roger, Physical Review Letters 49, 91–94 (1982).",
+  "reliability": "primary",
+  "participants": [],
+  "topics": [
+   "locality",
+   "experiment"
+  ],
+  "context": "Two-channel polarisers; measured S = 2.697 ± 0.015 against a quantum prediction of 2.70."
+ },
+ {
+  "id": "aspect-1982b",
+  "type": "paper",
+  "title": "Experimental Test of Bell's Inequalities Using Time-Varying Analyzers",
+  "author": "A. Aspect, J. Dalibard and G. Roger",
+  "date": "1982-12",
+  "citation": "A. Aspect, J. Dalibard & G. Roger, Physical Review Letters 49, 1804–1807 (1982).",
+  "reliability": "primary",
+  "participants": [],
+  "topics": [
+   "locality",
+   "experiment"
+  ],
+  "context": "Settings switched while the photons were in flight (quasi-periodically, not randomly)."
+ },
+ {
+  "id": "hensen-2015",
+  "type": "paper",
+  "title": "Loophole-free Bell inequality violation using electron spins separated by 1.3 kilometres",
+  "author": "B. Hensen et al.",
+  "date": "2015-10",
+  "citation": "B. Hensen et al., Nature 526, 682–686 (2015).",
+  "reliability": "primary",
+  "participants": [],
+  "topics": [
+   "locality",
+   "experiment"
+  ],
+  "context": "Delft: 245 trials, S = 2.42 ± 0.20."
+ },
+ {
+  "id": "giustina-2015",
+  "type": "paper",
+  "title": "Significant-Loophole-Free Test of Bell's Theorem with Entangled Photons",
+  "author": "M. Giustina et al.",
+  "date": "2015-12",
+  "citation": "M. Giustina et al., Physical Review Letters 115, 250401 (2015).",
+  "reliability": "primary",
+  "participants": [],
+  "topics": [
+   "locality",
+   "experiment"
+  ],
+  "context": "Vienna photon experiment."
+ },
+ {
+  "id": "shalm-2015",
+  "type": "paper",
+  "title": "Strong Loophole-Free Test of Local Realism",
+  "author": "L. K. Shalm et al.",
+  "date": "2015-12",
+  "citation": "L. K. Shalm et al., Physical Review Letters 115, 250402 (2015).",
+  "reliability": "primary",
+  "participants": [],
+  "topics": [
+   "locality",
+   "experiment"
+  ],
+  "context": "NIST photon experiment."
+ },
+ {
+  "id": "nobel-2022",
+  "type": "archive",
+  "title": "The Nobel Prize in Physics 2022",
+  "author": "Nobel Foundation",
+  "date": "2022-10",
+  "citation": "The Nobel Prize in Physics 2022: Alain Aspect, John F. Clauser and Anton Zeilinger, 'for experiments with entangled photons, establishing the violation of Bell inequalities and pioneering quantum information science'. nobelprize.org.",
+  "reliability": "primary",
+  "participants": [],
+  "topics": [
+   "locality",
+   "experiment"
+  ],
+  "context": "Recognition of the experimental programme begun by Bell's theorem."
+ },
+ {
+  "id": "wheeler-1978",
+  "type": "paper",
+  "title": "The 'Past' and the 'Delayed-Choice' Double-Slit Experiment",
+  "author": "John Archibald Wheeler",
+  "date": "1978",
+  "citation": "J. A. Wheeler, in A. R. Marlow (ed.), Mathematical Foundations of Quantum Theory. New York: Academic Press, 1978, pp. 9–48.",
+  "reliability": "primary",
+  "participants": [
+   "bohr"
+  ],
+  "topics": [
+   "measurement",
+   "wave-particle"
+  ],
+  "context": "Wheeler's delayed-choice thought experiment, framed in Bohr's terms."
+ },
+ {
+  "id": "jacques-2007",
+  "type": "paper",
+  "title": "Experimental Realization of Wheeler's Delayed-Choice Gedanken Experiment",
+  "author": "V. Jacques et al.",
+  "date": "2007-02",
+  "citation": "V. Jacques et al., Science 315, 966–968 (2007).",
+  "reliability": "primary",
+  "participants": [],
+  "topics": [
+   "measurement",
+   "experiment"
+  ],
+  "context": "Single-photon delayed-choice experiment with a randomly chosen, space-like separated configuration."
+ },
+ {
+  "id": "zeh-1970",
+  "type": "paper",
+  "title": "On the Interpretation of Measurement in Quantum Theory",
+  "author": "H. Dieter Zeh",
+  "date": "1970",
+  "citation": "H. D. Zeh, Foundations of Physics 1, 69–76 (1970).",
+  "reliability": "primary",
+  "participants": [],
+  "topics": [
+   "measurement"
+  ],
+  "context": "The founding paper of decoherence."
+ },
+ {
+  "id": "zurek-1981",
+  "type": "paper",
+  "title": "Pointer Basis of Quantum Apparatus: Into What Mixture Does the Wave Packet Collapse?",
+  "author": "Wojciech H. Zurek",
+  "date": "1981",
+  "citation": "W. H. Zurek, Physical Review D 24, 1516–1525 (1981).",
+  "reliability": "primary",
+  "participants": [],
+  "topics": [
+   "measurement"
+  ],
+  "context": "Environment-induced superselection."
+ },
+ {
+  "id": "zurek-2003",
+  "type": "scholarship",
+  "title": "Decoherence, einselection, and the quantum origins of the classical",
+  "author": "Wojciech H. Zurek",
+  "date": "2003",
+  "citation": "W. H. Zurek, Reviews of Modern Physics 75, 715–775 (2003).",
+  "reliability": "secondary",
+  "participants": [],
+  "topics": [
+   "measurement",
+   "classical-limit"
+  ],
+  "context": "Review of decoherence."
+ },
+ {
+  "id": "brune-1996",
+  "type": "paper",
+  "title": "Observing the Progressive Decoherence of the 'Meter' in a Quantum Measurement",
+  "author": "M. Brune et al.",
+  "date": "1996",
+  "citation": "M. Brune et al., Physical Review Letters 77, 4887–4890 (1996).",
+  "reliability": "primary",
+  "participants": [],
+  "topics": [
+   "measurement",
+   "experiment"
+  ],
+  "context": "First direct observation of decoherence in progress."
+ },
+ {
+  "id": "bennett-1993",
+  "type": "paper",
+  "title": "Teleporting an Unknown Quantum State via Dual Classical and Einstein-Podolsky-Rosen Channels",
+  "author": "C. H. Bennett et al.",
+  "date": "1993",
+  "citation": "C. H. Bennett et al., Physical Review Letters 70, 1895–1899 (1993).",
+  "reliability": "primary",
+  "participants": [],
+  "topics": [
+   "locality"
+  ],
+  "context": "The teleportation protocol."
+ },
+ {
+  "id": "bouwmeester-1997",
+  "type": "paper",
+  "title": "Experimental quantum teleportation",
+  "author": "D. Bouwmeester et al.",
+  "date": "1997-12",
+  "citation": "D. Bouwmeester et al., Nature 390, 575–579 (1997).",
+  "reliability": "primary",
+  "participants": [],
+  "topics": [
+   "locality",
+   "experiment"
+  ],
+  "context": "Innsbruck teleportation experiment."
+ },
+ {
+  "id": "boschi-1998",
+  "type": "paper",
+  "title": "Experimental Realization of Teleporting an Unknown Pure Quantum State via Dual Classical and Einstein-Podolsky-Rosen Channels",
+  "author": "D. Boschi et al.",
+  "date": "1998",
+  "citation": "D. Boschi et al., Physical Review Letters 80, 1121–1125 (1998).",
+  "reliability": "primary",
+  "participants": [],
+  "topics": [
+   "locality",
+   "experiment"
+  ],
+  "context": "Rome teleportation experiment."
+ },
+ {
+  "id": "feynman-1982",
+  "type": "paper",
+  "title": "Simulating Physics with Computers",
+  "author": "Richard P. Feynman",
+  "date": "1982",
+  "citation": "R. P. Feynman, International Journal of Theoretical Physics 21, 467–488 (1982).",
+  "reliability": "primary",
+  "participants": [
+   "feynman"
+  ],
+  "topics": [
+   "computation"
+  ],
+  "context": "Proposes computers built from quantum-mechanical elements."
+ },
+ {
+  "id": "deutsch-1985",
+  "type": "paper",
+  "title": "Quantum theory, the Church–Turing principle and the universal quantum computer",
+  "author": "David Deutsch",
+  "date": "1985",
+  "citation": "D. Deutsch, Proceedings of the Royal Society A 400, 97–117 (1985).",
+  "reliability": "primary",
+  "participants": [],
+  "topics": [
+   "computation"
+  ],
+  "context": "The universal quantum computer."
+ },
+ {
+  "id": "shor-1994",
+  "type": "paper",
+  "title": "Algorithms for quantum computation: discrete logarithms and factoring",
+  "author": "Peter W. Shor",
+  "date": "1994",
+  "citation": "P. W. Shor, Proceedings of the 35th Annual Symposium on Foundations of Computer Science (IEEE, 1994), pp. 124–134.",
+  "reliability": "primary",
+  "participants": [],
+  "topics": [
+   "computation"
+  ],
+  "context": "Efficient quantum factoring."
+ },
+ {
+  "id": "arute-2019",
+  "type": "paper",
+  "title": "Quantum supremacy using a programmable superconducting processor",
+  "author": "F. Arute et al.",
+  "date": "2019-10",
+  "citation": "F. Arute et al., Nature 574, 505–510 (2019).",
+  "reliability": "primary",
+  "participants": [],
+  "topics": [
+   "computation",
+   "experiment"
+  ],
+  "context": "53-qubit sampling experiment; the claimed classical cost was later disputed and reduced by improved classical algorithms."
+ },
+ {
+  "id": "higgs-1964",
+  "type": "paper",
+  "title": "Broken Symmetries and the Masses of Gauge Bosons",
+  "author": "Peter W. Higgs",
+  "date": "1964",
+  "citation": "P. W. Higgs, Physical Review Letters 13, 508–509 (1964).",
+  "reliability": "primary",
+  "participants": [],
+  "topics": [
+   "fields"
+  ],
+  "context": "One of the 1964 papers on the mass-generating mechanism."
+ },
+ {
+  "id": "englert-brout-1964",
+  "type": "paper",
+  "title": "Broken Symmetry and the Mass of Gauge Vector Mesons",
+  "author": "F. Englert and R. Brout",
+  "date": "1964",
+  "citation": "F. Englert & R. Brout, Physical Review Letters 13, 321–323 (1964).",
+  "reliability": "primary",
+  "participants": [],
+  "topics": [
+   "fields"
+  ],
+  "context": "Published shortly before Higgs's paper — in Brussels."
+ },
+ {
+  "id": "atlas-2012",
+  "type": "paper",
+  "title": "Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC",
+  "author": "ATLAS Collaboration",
+  "date": "2012-07",
+  "citation": "ATLAS Collaboration, Physics Letters B 716, 1–29 (2012).",
+  "reliability": "primary",
+  "participants": [],
+  "topics": [
+   "fields",
+   "experiment"
+  ],
+  "context": "Discovery paper."
+ },
+ {
+  "id": "cms-2012",
+  "type": "paper",
+  "title": "Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC",
+  "author": "CMS Collaboration",
+  "date": "2012-07",
+  "citation": "CMS Collaboration, Physics Letters B 716, 30–61 (2012).",
+  "reliability": "primary",
+  "participants": [],
+  "topics": [
+   "fields",
+   "experiment"
+  ],
+  "context": "Discovery paper."
+ },
+ {
+  "id": "einstein-1916-gw",
+  "type": "paper",
+  "title": "Näherungsweise Integration der Feldgleichungen der Gravitation",
+  "author": "Albert Einstein",
+  "date": "1916-06",
+  "citation": "A. Einstein, Sitzungsberichte der Preussischen Akademie der Wissenschaften (1916), 688–696; corrected in 'Über Gravitationswellen', ibid. (1918), 154–167.",
+  "reliability": "primary",
+  "participants": [
+   "einstein"
+  ],
+  "topics": [
+   "gravitation"
+  ],
+  "context": "Einstein's prediction of gravitational waves and, in 1918, the quadrupole formula."
+ },
+ {
+  "id": "eddington-1922",
+  "type": "paper",
+  "title": "The Propagation of Gravitational Waves",
+  "author": "Arthur S. Eddington",
+  "date": "1922",
+  "citation": "A. S. Eddington, Proceedings of the Royal Society A 102, 268–282 (1922).",
+  "reliability": "primary",
+  "participants": [
+   "einstein"
+  ],
+  "topics": [
+   "gravitation"
+  ],
+  "context": "Showed some of Einstein's wave types were coordinate artefacts, while confirming the physical ones."
+ },
+ {
+  "id": "kennefick-2005",
+  "type": "scholarship",
+  "title": "Einstein Versus the Physical Review",
+  "author": "Daniel Kennefick",
+  "date": "2005",
+  "citation": "D. Kennefick, Physics Today 58(9), 43–48 (2005).",
+  "reliability": "secondary",
+  "participants": [
+   "einstein"
+  ],
+  "topics": [
+   "gravitation"
+  ],
+  "context": "Einstein and Rosen's 1936 doubt about gravitational waves and its resolution."
+ },
+ {
+  "id": "ligo-2016",
+  "type": "paper",
+  "title": "Observation of Gravitational Waves from a Binary Black Hole Merger",
+  "author": "LIGO Scientific Collaboration and Virgo Collaboration (B. P. Abbott et al.)",
+  "date": "2016-02",
+  "citation": "B. P. Abbott et al., Physical Review Letters 116, 061102 (2016).",
+  "reliability": "primary",
+  "participants": [],
+  "topics": [
+   "gravitation",
+   "experiment"
+  ],
+  "context": "Detection of GW150914 (observed 14 September 2015)."
+ },
+ {
+  "id": "dirac-1928",
+  "type": "paper",
+  "title": "The Quantum Theory of the Electron",
+  "author": "P. A. M. Dirac",
+  "date": "1928-01",
+  "citation": "P. A. M. Dirac, Proceedings of the Royal Society A 117, 610–624 (1928).",
+  "reliability": "primary",
+  "participants": [
+   "dirac"
+  ],
+  "topics": [
+   "formalism",
+   "fields"
+  ],
+  "context": "The relativistic wave equation for the electron."
+ },
+ {
+  "id": "dirac-1931",
+  "type": "paper",
+  "title": "Quantised Singularities in the Electromagnetic Field",
+  "author": "P. A. M. Dirac",
+  "date": "1931",
+  "citation": "P. A. M. Dirac, Proceedings of the Royal Society A 133, 60–72 (1931).",
+  "reliability": "primary",
+  "participants": [
+   "dirac"
+  ],
+  "topics": [
+   "fields"
+  ],
+  "context": "Predicts the anti-electron."
+ },
+ {
+  "id": "anderson-1933",
+  "type": "paper",
+  "title": "The Positive Electron",
+  "author": "Carl D. Anderson",
+  "date": "1933-03",
+  "citation": "C. D. Anderson, Physical Review 43, 491–494 (1933).",
+  "reliability": "primary",
+  "participants": [],
+  "topics": [
+   "fields",
+   "experiment"
+  ],
+  "context": "Discovery of the positron (observed 1932)."
+ },
+ {
+  "id": "everett-1957",
+  "type": "paper",
+  "title": "'Relative State' Formulation of Quantum Mechanics",
+  "author": "Hugh Everett III",
+  "date": "1957-07",
+  "citation": "H. Everett III, Reviews of Modern Physics 29, 454–462 (1957).",
+  "reliability": "primary",
+  "participants": [
+   "everett"
+  ],
+  "topics": [
+   "measurement",
+   "wavefunction"
+  ],
+  "context": "The relative-state formulation."
+ },
+ {
+  "id": "byrne-2010",
+  "type": "biography",
+  "title": "The Many Worlds of Hugh Everett III",
+  "author": "Peter Byrne",
+  "date": "2010",
+  "citation": "P. Byrne, The Many Worlds of Hugh Everett III. Oxford University Press, 2010.",
+  "reliability": "secondary",
+  "participants": [
+   "everett",
+   "bohr"
+  ],
+  "topics": [
+   "measurement"
+  ],
+  "context": "Biography including Everett's 1959 visit to Copenhagen."
+ },
+ {
+  "id": "schrodinger-dublin-1995",
+  "type": "lecture",
+  "title": "The Interpretation of Quantum Mechanics: Dublin Seminars (1949–1955) and Other Unpublished Essays",
+  "author": "Erwin Schrödinger; M. Bitbol (ed.)",
+  "date": "1952",
+  "citation": "E. Schrödinger, The Interpretation of Quantum Mechanics, ed. M. Bitbol. Woodbridge, CT: Ox Bow Press, 1995.",
+  "reliability": "primary",
+  "participants": [
+   "schrodinger"
+  ],
+  "topics": [
+   "measurement",
+   "wavefunction"
+  ],
+  "context": "Includes Schrödinger's 1952 remark that the alternatives might all really happen simultaneously."
+ },
+ {
+  "id": "feynman-1965-character",
+  "type": "book",
+  "title": "The Character of Physical Law",
+  "author": "Richard P. Feynman",
+  "date": "1965",
+  "citation": "R. P. Feynman, The Character of Physical Law. London: BBC, 1965; Cambridge, MA: MIT Press.",
+  "reliability": "primary",
+  "participants": [
+   "feynman"
+  ],
+  "topics": [
+   "completeness"
+  ],
+  "context": "The 1964 Messenger Lectures at Cornell."
+ },
+ {
+  "id": "feynman-lectures-3",
+  "type": "book",
+  "title": "The Feynman Lectures on Physics, Vol. III: Quantum Mechanics",
+  "author": "R. P. Feynman, R. B. Leighton and M. Sands",
+  "date": "1965",
+  "citation": "R. P. Feynman, R. B. Leighton & M. Sands, The Feynman Lectures on Physics, Vol. III. Reading, MA: Addison-Wesley, 1965, ch. 1.",
+  "reliability": "primary",
+  "participants": [
+   "feynman"
+  ],
+  "topics": [
+   "wave-particle"
+  ],
+  "context": "Chapter 1, 'Quantum Behavior'."
+ },
+ {
+  "id": "feynman-1948",
+  "type": "paper",
+  "title": "Space-Time Approach to Non-Relativistic Quantum Mechanics",
+  "author": "Richard P. Feynman",
+  "date": "1948",
+  "citation": "R. P. Feynman, Reviews of Modern Physics 20, 367–387 (1948).",
+  "reliability": "primary",
+  "participants": [
+   "feynman",
+   "dirac"
+  ],
+  "topics": [
+   "formalism"
+  ],
+  "context": "Path integrals; credits Dirac's 1933 paper on the Lagrangian in quantum mechanics."
+ },
+ {
+  "id": "hawking-1975",
+  "type": "paper",
+  "title": "Particle Creation by Black Holes",
+  "author": "Stephen W. Hawking",
+  "date": "1975",
+  "citation": "S. W. Hawking, Communications in Mathematical Physics 43, 199–220 (1975).",
+  "reliability": "primary",
+  "participants": [
+   "hawking"
+  ],
+  "topics": [
+   "gravitation",
+   "fields"
+  ],
+  "context": "Hawking radiation."
+ },
+ {
+  "id": "hawking-1976",
+  "type": "paper",
+  "title": "Breakdown of Predictability in Gravitational Collapse",
+  "author": "Stephen W. Hawking",
+  "date": "1976",
+  "citation": "S. W. Hawking, Physical Review D 14, 2460–2473 (1976).",
+  "reliability": "primary",
+  "participants": [
+   "hawking"
+  ],
+  "topics": [
+   "probability",
+   "causality"
+  ],
+  "context": "The information-loss argument."
+ },
+ {
+  "id": "hawking-penrose-1996",
+  "type": "book",
+  "title": "The Nature of Space and Time",
+  "author": "Stephen Hawking and Roger Penrose",
+  "date": "1996",
+  "citation": "S. Hawking & R. Penrose, The Nature of Space and Time. Princeton University Press, 1996.",
+  "reliability": "primary",
+  "participants": [
+   "hawking"
+  ],
+  "topics": [
+   "probability",
+   "positivism"
+  ],
+  "context": "Includes Hawking's 'dice where they cannot be seen' remark and his self-description as a positivist."
+ },
+ {
+  "id": "hawking-2005",
+  "type": "paper",
+  "title": "Information loss in black holes",
+  "author": "Stephen W. Hawking",
+  "date": "2005",
+  "citation": "S. W. Hawking, Physical Review D 72, 084013 (2005). Presented at GR17, Dublin, July 2004.",
+  "reliability": "primary",
+  "participants": [
+   "hawking"
+  ],
+  "topics": [
+   "probability"
+  ],
+  "context": "Hawking's public reversal on information loss."
+ },
+ {
+  "id": "noether-1918",
+  "type": "paper",
+  "title": "Invariante Variationsprobleme",
+  "author": "Emmy Noether",
+  "date": "1918",
+  "citation": "E. Noether, Nachrichten von der Gesellschaft der Wissenschaften zu Göttingen, Math.-phys. Klasse (1918), 235–257.",
+  "reliability": "primary",
+  "participants": [
+   "noether"
+  ],
+  "topics": [
+   "formalism"
+  ],
+  "context": "Noether's theorem."
+ },
+ {
+  "id": "turing-1936",
+  "type": "paper",
+  "title": "On Computable Numbers, with an Application to the Entscheidungsproblem",
+  "author": "Alan M. Turing",
+  "date": "1936",
+  "citation": "A. M. Turing, Proceedings of the London Mathematical Society 42, 230–265 (1936).",
+  "reliability": "primary",
+  "participants": [
+   "turing"
+  ],
+  "topics": [
+   "computation"
+  ],
+  "context": "Computability."
+ },
+ {
+  "id": "hodges-1983",
+  "type": "biography",
+  "title": "Alan Turing: The Enigma",
+  "author": "Andrew Hodges",
+  "date": "1983",
+  "citation": "A. Hodges, Alan Turing: The Enigma. London: Burnett Books, 1983.",
+  "reliability": "secondary",
+  "participants": [
+   "turing"
+  ],
+  "topics": [
+   "measurement",
+   "computation"
+  ],
+  "context": "Biography; records Turing's reading of von Neumann in 1932 and his 1954 remarks on continuous observation."
+ },
+ {
+  "id": "hubble-1929",
+  "type": "paper",
+  "title": "A Relation between Distance and Radial Velocity among Extra-Galactic Nebulae",
+  "author": "Edwin Hubble",
+  "date": "1929-03",
+  "citation": "E. Hubble, Proceedings of the National Academy of Sciences 15, 168–173 (1929).",
+  "reliability": "primary",
+  "participants": [
+   "einstein"
+  ],
+  "topics": [
+   "cosmology"
+  ],
+  "context": "The velocity–distance relation."
+ },
+ {
+  "id": "penzias-wilson-1965",
+  "type": "paper",
+  "title": "A Measurement of Excess Antenna Temperature at 4080 Mc/s",
+  "author": "A. A. Penzias and R. W. Wilson",
+  "date": "1965",
+  "citation": "A. A. Penzias & R. W. Wilson, Astrophysical Journal 142, 419–421 (1965).",
+  "reliability": "primary",
+  "participants": [],
+  "topics": [
+   "cosmology"
+  ],
+  "context": "The cosmic microwave background."
+ },
+ {
+  "id": "kragh-1996",
+  "type": "scholarship",
+  "title": "Cosmology and Controversy",
+  "author": "Helge Kragh",
+  "date": "1996",
+  "citation": "H. Kragh, Cosmology and Controversy. Princeton University Press, 1996.",
+  "reliability": "secondary",
+  "participants": [
+   "einstein"
+  ],
+  "topics": [
+   "cosmology"
+  ],
+  "context": "History of 20th-century cosmology, including Lemaître's recollection of his 1927 conversation with Einstein at Solvay."
+ },
+ {
+  "id": "schlosshauer-2013",
+  "type": "scholarship",
+  "title": "A snapshot of foundational attitudes toward quantum mechanics",
+  "author": "M. Schlosshauer, J. Kofler and A. Zeilinger",
+  "date": "2013",
+  "citation": "M. Schlosshauer, J. Kofler & A. Zeilinger, Studies in History and Philosophy of Modern Physics 44, 222–230 (2013).",
+  "reliability": "secondary",
+  "participants": [],
+  "topics": [
+   "completeness",
+   "wavefunction"
+  ],
+  "context": "Poll of conference participants showing no majority interpretation."
+ }
+]

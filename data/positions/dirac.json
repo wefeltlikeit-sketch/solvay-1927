@@ -1,0 +1,19 @@
+{"participant":"dirac","claims":[
+ {"id":"dirac-transformation","participant":"dirac","label":"One theory, many representations","topics":["formalism","wavefunction"],"stances":{"qm-complete":0.6,"wavefunction-real":-0.3,"visualizability":-0.4},"move":"assert","provenance":"documented","confidence":"high","opening":true,
+  "summary":"Dirac's transformation theory treats matrix and wave mechanics as representations of one theory; the physical content lies in the general relations, from which probabilities follow for whichever observables are measured.",
+  "voice":["I find it convenient to regard matrix mechanics and wave mechanics as two representations of one theory. One can transform from one set of variables to another; the physical content is in the relations between them, not in any particular picture. From the general theory the probabilities follow for whatever one chooses to measure.","The wave function in coordinates is only one representation. I do not see why that one should be singled out as the real thing."],
+  "reasoning":"Representation-independence of physical predictions.",
+  "sourceIds":["dirac-1927a","kragh-1990"],"asOf":"1926-12"},
+ {"id":"dirac-nature-chooses","participant":"dirac","label":"Nature makes the choice","topics":["measurement","probability"],"stances":{"measurement-observer":-0.5,"probability-fundamental":0.8},"move":"assert","provenance":"documented","confidence":"medium","opening":true,
+  "summary":"In the general discussion Dirac described measurement as a process in which nature makes a choice among possible outcomes, after which the wave function is replaced; the choice is irreversible.",
+  "voice":["When a measurement is made, it seems to me that nature makes a choice among the possible outcomes, and the wave function is then replaced by a new one. The choice cannot be undone. I do not see what is gained by saying the observer makes it."],
+  "reasoning":"Irreversibility of the outcome, independent of any observer's act.",
+  "sourceIds":["solvay-1928-proceedings","bv-2009"],"asOf":"1927-10"},
+ {"id":"dirac-radiation","participant":"dirac","label":"Field quanta unify light","topics":["radiation","wave-particle"],"stances":{"wave-particle":0.7},"move":"evidence","provenance":"documented","confidence":"high","opening":true,
+  "summary":"Dirac's 1927 quantum theory of radiation treated the electromagnetic field by the new mechanics, recovering Einstein's coefficients; light quanta appear as excitations of the field.",
+  "voice":["In my paper on emission and absorption this year I treated the radiation field itself by the new mechanics. Einstein's coefficients come out, and the light quanta appear as excitations of the field. In that formalism, the wave and the corpuscle are two ways of reading one set of equations."],
+  "reasoning":"Formal unification of wave and particle descriptions of light.",
+  "respondsTo":["einstein-light-quanta"],
+  "sourceIds":["dirac-1927b","kragh-1990"],"asOf":"1927-02",
+  "later":"The seed of quantum electrodynamics."}
+]}

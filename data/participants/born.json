@@ -1,0 +1,22 @@
+{
+  "id":"born","name":"Max Born","shortName":"Born","initials":"MB","kind":"attendee",
+  "born":"1882-12-11","died":"1970-01-05","nationality":"German","affiliation":"University of Göttingen",
+  "role":"Co-author, with Heisenberg, of the report on quantum mechanics",
+  "bio":"Born made Göttingen one of the three centres of the new physics. He recognised Heisenberg's 1925 scheme as matrix algebra and, with Jordan and Heisenberg, turned it into a theory. In the summer of 1926, applying Schrödinger's equation to collisions, he proposed that the wave determines only the probability of an outcome — the rule entered as a note added in proof. He is a friend and regular correspondent of Einstein, and the recipient of the dice letter.",
+  "contributions":[
+    {"year":"1925","title":"Matrix mechanics","note":"With Jordan, and with Heisenberg: the 'three-man paper'."},
+    {"year":"1926","title":"Statistical interpretation","note":"Probability of an outcome proportional to |ψ|²."},
+    {"year":"1926","title":"Born approximation","note":"Perturbative treatment of scattering."}
+  ],
+  "beliefs":"The wave function determines probabilities; the probability evolves causally, the particle does not. He is inclined to give up determinism in atomic physics, while acknowledging that this is partly a philosophical choice.",
+  "philosophy":"A mathematician's physicist, attentive to foundations. Less combative than Heisenberg or Pauli about interpretation; explicit that the renunciation of determinism is a decision informed by physics.",
+  "style":{"method":"Mathematical clarification; appeal to collision experiments.","manner":"Measured, candid about what is choice and what is proof.","avoid":["Portraying him as a mere adjunct to Heisenberg","Overstating his certainty"]},
+  "relationships":[
+    {"with":"einstein","nature":"Close friend","note":"The Born–Einstein letters span 1916–1955.","sourceIds":["born-einstein-letters"]},
+    {"with":"heisenberg","nature":"Former assistant and co-author","note":"See Heisenberg.","sourceIds":["jammer-1966"]},
+    {"with":"pauli","nature":"Former assistant","note":"Pauli was Born's assistant in 1921.","sourceIds":["enz-2002"]}
+  ],
+  "disagreements":[{"with":"einstein","topic":"Whether the statistical interpretation is final","note":"Friendly, lifelong.","sourceIds":["born-einstein-letters"]},{"with":"schrodinger","topic":"Reality of ψ","note":"Born's reading displaced Schrödinger's charge density.","sourceIds":["born-1926b"]}],
+  "horizonNotes":[{"eventId":"epr-1935","note":"Decades later Pauli will tell him he has misunderstood Einstein's objection."}],
+  "sourceIds":["born-1926a","born-1926b","born-heisenberg-1927-report","born-einstein-letters"]
+}

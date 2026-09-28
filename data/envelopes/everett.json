@@ -1,0 +1,180 @@
+{
+ "id": "everett",
+ "year": "1957",
+ "title": "Everett's relative states",
+ "seal": "What if nothing collapses?",
+ "category": "interpretation",
+ "reading": "In 1957 Hugh Everett, a doctoral student at Princeton, proposes that the wave function never undergoes the sudden reduction you have been discussing. It always evolves by Schrödinger's equation — the whole universe included. When an observer measures a system in a superposition, observer and system become correlated: the joint wave contains a branch for each outcome, each with a version of the observer who saw that outcome. The appearance of a single result is what each branch sees. Later writers will call this the 'many-worlds' interpretation. It remains one of the most discussed views of your theory.",
+ "detail": "Deriving the Born probabilities within this framework is a central and still-debated problem. Decoherence is now usually taken to define the branches.",
+ "sourceIds": [
+  "everett-1957",
+  "byrne-2010",
+  "schrodinger-dublin-1995"
+ ],
+ "eventIds": [
+  "everett-1957"
+ ],
+ "unlocks": [
+  "many worlds",
+  "many-worlds",
+  "relative state",
+  "branch",
+  "branches",
+  "universal wave function",
+  "Everett"
+ ],
+ "next": [
+  "decoherence"
+ ],
+ "reactions": [
+  {
+   "participant": "bohr",
+   "status": "rejected",
+   "claim": {
+    "id": "everett/bohr",
+    "label": "Misuses the concepts",
+    "topics": [
+     "measurement",
+     "complementarity"
+    ],
+    "stances": {
+     "measurement-observer": 0.1
+    },
+    "move": "challenge",
+    "provenance": "documented",
+    "confidence": "medium",
+    "summary": "Everett visited Copenhagen in 1959; the discussions with Bohr were unproductive and Bohr's circle regarded the proposal as misunderstanding the role of classical concepts.",
+    "voice": [
+     "To speak of the wave function of the whole universe, observer included, is to use the symbol outside the conditions that give it meaning. There is no experimental arrangement for the universe. The account of any observation must still be given in classical terms."
+    ],
+    "reasoning": "ψ is meaningful only relative to a classically described arrangement.",
+    "sourceIds": [
+     "byrne-2010",
+     "bohr-1949-discussions"
+    ],
+    "asOf": "1959"
+   },
+   "historical": {
+    "note": "Everett met Bohr in Copenhagen in March 1959; by Everett's own account the meeting went badly.",
+    "sourceIds": [
+     "byrne-2010"
+    ]
+   }
+  },
+  {
+   "participant": "schrodinger",
+   "status": "unresolved",
+   "claim": {
+    "id": "everett/schrodinger",
+    "label": "All happening at once?",
+    "topics": [
+     "measurement",
+     "wavefunction"
+    ],
+    "stances": {
+     "wavefunction-real": 0.7
+    },
+    "move": "question",
+    "provenance": "documented",
+    "confidence": "medium",
+    "summary": "In a 1952 Dublin seminar Schrödinger remarked that the idea that the alternatives might not be alternatives but might all really happen simultaneously seems lunatic to the quantum theorist — and suggested it deserved consideration.",
+    "voice": [
+     "I have wondered whether the alternatives in the wave might not be alternatives at all, but might all really happen at once. Most of my colleagues would call that lunatic. I am not sure they are right to."
+    ],
+    "reasoning": "Take the wave's reality to its conclusion.",
+    "respondsTo": [
+     "everett/bohr"
+    ],
+    "sourceIds": [
+     "schrodinger-dublin-1995"
+    ],
+    "asOf": "1952"
+   },
+   "historical": {
+    "note": "Schrödinger's 1952 Dublin seminar; published in 1995.",
+    "sourceIds": [
+     "schrodinger-dublin-1995"
+    ]
+   }
+  },
+  {
+   "participant": "einstein",
+   "status": "disputed",
+   "claim": {
+    "id": "everett/einstein",
+    "label": "Realism at too high a price",
+    "topics": [
+     "realism",
+     "completeness"
+    ],
+    "move": "challenge",
+    "provenance": "speculative",
+    "confidence": "low",
+    "summary": "Speculative. Einstein died in 1955.",
+    "voice": [
+     "It is at least a description of reality, which I value. But a reality in which I am copied at every measurement is not the one I was trying to describe. I wanted one world described completely, not a multitude of them."
+    ],
+    "reasoning": "Realism, but not this one.",
+    "respondsTo": [
+     "everett/schrodinger"
+    ],
+    "sourceIds": [
+     "einstein-1948"
+    ],
+    "asOf": "1927-10"
+   }
+  },
+  {
+   "participant": "heisenberg",
+   "status": "rejected",
+   "claim": {
+    "id": "everett/heisenberg",
+    "label": "Unobservable branches",
+    "topics": [
+     "measurement"
+    ],
+    "move": "challenge",
+    "provenance": "inference",
+    "confidence": "low",
+    "summary": "Inference from Heisenberg's operationalism.",
+    "voice": [
+     "Branches no one can ever observe are the purest metaphysics I have heard proposed. The wave describes what we can expect to observe, and we observe one result."
+    ],
+    "reasoning": "Unobservable structure is empty.",
+    "respondsTo": [
+     "everett/schrodinger"
+    ],
+    "sourceIds": [
+     "heisenberg-1927"
+    ],
+    "asOf": "1927-10"
+   }
+  },
+  {
+   "participant": "dirac",
+   "status": "unresolved",
+   "claim": {
+    "id": "everett/dirac",
+    "label": "Insufficient evidence",
+    "topics": [
+     "measurement"
+    ],
+    "move": "clarify",
+    "provenance": "speculative",
+    "confidence": "low",
+    "summary": "We do not have enough evidence to infer Dirac's view. The voice restates his one documented remark.",
+    "voice": [
+     "I said nature makes a choice. This proposes that it does not. I would want to know whether the two views ever predict anything different. If they do not, I am not sure the question belongs to physics."
+    ],
+    "reasoning": "Empirical equivalence.",
+    "respondsTo": [
+     "everett/bohr"
+    ],
+    "sourceIds": [
+     "bv-2009"
+    ],
+    "asOf": "1927-10"
+   }
+  }
+ ]
+}

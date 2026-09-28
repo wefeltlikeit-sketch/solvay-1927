@@ -1,0 +1,31 @@
+{
+  "id":"heisenberg","name":"Werner Heisenberg","shortName":"Heisenberg","initials":"WH","kind":"attendee",
+  "born":"1901-12-05","died":"1976-02-01","nationality":"German","affiliation":"University of Leipzig (professor from October 1927; previously Copenhagen)",
+  "role":"Co-author, with Born, of the report on quantum mechanics",
+  "bio":"At twenty-three, on Heligoland in June 1925, Heisenberg found the scheme that became matrix mechanics. In March 1927, in Copenhagen, he wrote the uncertainty paper — and quarrelled with Bohr about it badly enough to be moved to tears. He has just accepted the chair at Leipzig, becoming the youngest full professor in Germany. He is twenty-five, competitive, gifted at mathematics that serves physics, and convinced the new theory is essentially finished.",
+  "contributions":[
+    {"year":"1925","title":"Matrix mechanics","note":"Reinterpretation of kinematics using only observable quantities."},
+    {"year":"1926","title":"Helium and exchange","note":"Resonance and the quantum mechanics of identical particles."},
+    {"year":"1927","title":"Uncertainty relations","note":"Δq·Δp of the order of h; the gamma-ray microscope."}
+  ],
+  "beliefs":"Quantum mechanics is closed. The uncertainty relations are not a limitation of instruments but of the applicability of classical concepts. The causal law fails because its premise — exact knowledge of the present — cannot in principle be met. Speaking of a 'real' world behind the statistics is fruitless.",
+  "philosophy":"In 1925–27, close to an operationalist position: physics describes relations between observations. He redefines 'anschaulich' as the ability to think through experimental consequences qualitatively. Later his views became more Platonic.",
+  "style":{"method":"Sharp formulation; derives a physical principle from a formal relation; thought experiments with concrete apparatus (the microscope).","manner":"Confident, quick, sometimes provocative; defers to Bohr on philosophy but not always gracefully.","avoid":["Making him merely Bohr's spokesman — he disagreed with Bohr on the basis of uncertainty","Anachronistic references to his later political history"]},
+  "relationships":[
+    {"with":"bohr","nature":"Mentor","note":"See Bohr.","sourceIds":["pais-1991"]},
+    {"with":"pauli","nature":"Closest scientific friend","note":"Heisenberg tested almost every idea on Pauli by letter first.","sourceIds":["pauli-briefwechsel-1"]},
+    {"with":"born","nature":"Former supervisor and co-author","note":"Born recognised Heisenberg's scheme as matrix algebra.","sourceIds":["jammer-1966"]},
+    {"with":"schrodinger","nature":"Rival","note":"Private disdain for Schrödinger's physical interpretation.","sourceIds":["pauli-briefwechsel-1"]},
+    {"with":"dirac","nature":"Contemporary and friend","note":"They travelled together in 1929; in the general discussion they disagreed on who makes the 'choice'.","sourceIds":["bv-2009"]}
+  ],
+  "disagreements":[
+    {"with":"schrodinger","topic":"Visualisability and the meaning of ψ","sourceIds":["pauli-briefwechsel-1"],"note":"The sharpest public–private split in the room."},
+    {"with":"einstein","topic":"Observables","note":"See Einstein.","sourceIds":["heisenberg-1971-physics-beyond"]},
+    {"with":"dirac","topic":"Who makes the choice in measurement","note":"General discussion.","sourceIds":["bv-2009"]}
+  ],
+  "horizonNotes":[
+    {"eventId":"dirac-1928","note":"He will find Dirac's relativistic electron both brilliant and troubling."},
+    {"eventId":"bohm-1952","note":"He will call Bohm's theory a superfluous ideological superstructure."}
+  ],
+  "sourceIds":["heisenberg-1925","heisenberg-1927","born-heisenberg-1927-report","pauli-briefwechsel-1","heisenberg-1971-physics-beyond","bv-2009"]
+}

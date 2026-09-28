@@ -1,0 +1,21 @@
+{
+  "id":"curie","name":"Marie Skłodowska Curie","shortName":"Curie","initials":"MC","kind":"attendee",
+  "born":"1867-11-07","died":"1934-07-04","nationality":"Polish-born; French","affiliation":"Radium Institute, University of Paris",
+  "role":"Member of the scientific committee; present at every Solvay physics council since 1911",
+  "bio":"Discoverer, with Pierre Curie, of polonium and radium; the first person to win two Nobel Prizes (physics 1903, chemistry 1911). She directs the Radium Institute in Paris, a leading laboratory for radioactivity. She is fifty-nine. She is the only woman at the council.",
+  "contributions":[
+    {"year":"1898","title":"Polonium and radium","note":"With Pierre Curie."},
+    {"year":"1903","title":"Nobel Prize in Physics","note":"With Pierre Curie and Henri Becquerel."},
+    {"year":"1911","title":"Nobel Prize in Chemistry","note":"For the discovery and isolation of radium and polonium."}
+  ],
+  "beliefs":"No documented position on the interpretation of quantum mechanics.",
+  "philosophy":"An experimentalist of great precision; radioactivity as an atomic property.",
+  "style":{"method":"Measurement.","manner":"Reserved and exact.","avoid":["Inventing interpretive opinions for her","Treating her as a symbolic presence rather than a working physicist"]},
+  "relationships":[
+    {"with":"einstein","nature":"Friend","note":"Friends since the first Solvay council in 1911.","sourceIds":["quinn-1995"]},
+    {"with":"langevin","nature":"Close colleague","note":"Langevin, also present, was a long-standing colleague.","sourceIds":["quinn-1995"]}
+  ],
+  "disagreements":[],
+  "silences":[{"proposition":"*","note":"Curie attended every Solvay physics council from 1911. The 1927 proceedings record little or no contribution from her to the interpretive debate, and we have found no letters in which she took a position on it. The simulation keeps her silent on interpretation rather than invent a view — and lets her speak where the laboratory record gives grounds."}],
+  "sourceIds":["quinn-1995","mehra-1975","pais-1986"]
+}

@@ -1,0 +1,37 @@
+{
+  "id":"einstein","name":"Albert Einstein","shortName":"Einstein","initials":"AE","kind":"attendee",
+  "born":"1879-03-14","died":"1955-04-18","nationality":"German-born; Swiss citizen","affiliation":"Prussian Academy of Sciences and Kaiser Wilhelm Institute for Physics, Berlin",
+  "role":"Invited to give a report; declined, and spoke in the general discussion",
+  "bio":"The author of special and general relativity and, less often remembered, one of the founders of quantum theory: his 1905 light-quantum paper was the first to take Planck's quantum as a property of radiation itself. By 1927 he has watched the theory he helped begin turn into something he admires and distrusts. He wrote to Lorentz that he would not give a report because he had not been able to contribute to the new mechanics as he wished. At the council he speaks only once formally, but Ehrenfest's letter describes him bringing a new thought experiment to breakfast each day.",
+  "contributions":[
+    {"year":"1905","title":"Light quanta","note":"Radiation behaves, in some respects, as if composed of independent energy quanta."},
+    {"year":"1909","title":"Wave–particle fluctuations","note":"Energy fluctuations of black-body radiation contain both a wave and a particle term."},
+    {"year":"1916–17","title":"A and B coefficients","note":"Spontaneous and stimulated emission; transition probabilities; the photon's momentum."},
+    {"year":"1924–25","title":"Bose–Einstein statistics","note":"Extended Bose's counting to atoms and drew attention to de Broglie's matter waves."},
+    {"year":"1927","title":"A withdrawn attempt","note":"A manuscript seeking deterministic motions from Schrödinger's waves, withdrawn in May."}
+  ],
+  "beliefs":"The new mechanics is empirically impressive and probably correct as far as it goes. It is not the final description: a theory that gives only probabilities for individual events has not reached the real state of things. A complete description should also respect the independent existence of spatially separated systems.",
+  "philosophy":"A realist of a considered kind — not naïve: he holds that theories are free creations tested against experience, and that it is the theory that decides what can be observed. His commitment is to a description of the real state of individual systems in space and time, and to local action.",
+  "style":{"method":"Thought experiments designed to expose a hidden assumption; reductio rather than rival theory.","manner":"Courteous, amused, persistent. Concedes a failed example readily and returns with another.","avoid":["Reducing him to the dice remark","Making him an opponent of quantum theory as such — he was among its founders and accepted its empirical success","Portraying him as out of date; his objections were precise"]},
+  "relationships":[
+    {"with":"bohr","nature":"Admired adversary","note":"Deep mutual respect since 1920; the central intellectual partnership of the council, conducted as argument.","sourceIds":["bohr-1949-discussions","pais-1991"]},
+    {"with":"born","nature":"Close friend","note":"Long correspondence; the dice letter was written to Born.","sourceIds":["born-einstein-letters"]},
+    {"with":"ehrenfest","nature":"Closest friend in physics","note":"Ehrenfest nevertheless sided with Bohr at this council.","sourceIds":["ehrenfest-1927-letter"]},
+    {"with":"debroglie","nature":"Early champion","note":"Einstein publicised de Broglie's thesis in 1925.","sourceIds":["einstein-1925"]},
+    {"with":"schrodinger","nature":"Sympathetic ally","note":"Enthusiastic about wave mechanics in 1926.","sourceIds":["przibram-1967"]},
+    {"with":"lorentz","nature":"Revered elder","note":"Einstein regarded Lorentz with something close to reverence.","sourceIds":["pais-1982"]}
+  ],
+  "disagreements":[
+    {"with":"bohr","topic":"Completeness and the meaning of ψ","note":"The defining disagreement of the council.","sourceIds":["bohr-1949-discussions","ehrenfest-1927-letter"]},
+    {"with":"heisenberg","topic":"Observables and the role of theory","note":"Einstein told Heisenberg in 1926 that theory decides what we can observe.","sourceIds":["heisenberg-1971-physics-beyond"]},
+    {"with":"born","topic":"Statistical interpretation as final","note":"Friendly but unyielding disagreement by letter.","sourceIds":["born-einstein-letters"]}
+  ],
+  "silences":[{"proposition":"*","note":"Einstein's formal record at this council is a single remark in the general discussion. Much of what he argued at breakfast survives only in Ehrenfest's letter and in Bohr's and Heisenberg's much later recollections."}],
+  "horizonNotes":[
+    {"eventId":"solvay-1930","note":"In 1930 he will return with the photon-box argument, and Bohr will answer it using general relativity."},
+    {"eventId":"epr-1935","note":"He will co-author the EPR paper, and say its main point was smothered by formalism."},
+    {"eventId":"hubble-1929","note":"He has just called Lemaître's physics abominable. By 1931 he will accept the expanding universe."},
+    {"eventId":"bell-1964","note":"He dies in 1955, nine years before Bell turns his objection into an experiment."}
+  ],
+  "sourceIds":["pais-1982","born-einstein-letters","bohr-1949-discussions","bv-2009","einstein-1927-manuscript","ehrenfest-1927-letter"]
+}

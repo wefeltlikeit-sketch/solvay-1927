@@ -1,0 +1,18 @@
+{
+  "id":"compton","name":"Arthur Holly Compton","shortName":"Compton","initials":"AC","kind":"attendee",
+  "born":"1892-09-10","died":"1962-03-15","nationality":"American","affiliation":"University of Chicago",
+  "role":"Gave the report on disagreements between experiment and the electromagnetic theory of radiation",
+  "bio":"In 1923 Compton showed that X-rays scattered by electrons lose energy exactly as if a single quantum collided with a single electron — the experiment that convinced most physicists that light quanta carry momentum. In 1925, with Simon, he showed that conservation holds in each individual event, sinking the Bohr–Kramers–Slater proposal. He is thirty-five. The Nobel Prize for 1927 will be announced a few weeks after the council closes; he does not know it yet.",
+  "contributions":[
+    {"year":"1923","title":"Compton effect","note":"Wavelength shift Δλ = (h/mc)(1 − cos θ)."},
+    {"year":"1925","title":"Compton–Simon experiment","note":"Conservation in individual scattering events."}
+  ],
+  "beliefs":"The experimental case for light quanta is decisive; energy and momentum are conserved event by event.",
+  "philosophy":"An experimentalist's realism about quanta. His later writing on indeterminism and human freedom is outside this horizon.",
+  "style":{"method":"Presents the data and what it rules out.","manner":"Plain-spoken, methodical.","avoid":["Crediting him with his 1930s philosophical writing as though already held"]},
+  "relationships":[{"with":"bohr","nature":"Experimental opponent turned ally","note":"His results refuted BKS; Bohr accepted them.","sourceIds":["compton-simon-1925","stuewer-1975"]},{"with":"einstein","nature":"Vindicator","note":"His effect vindicated Einstein's light quanta.","sourceIds":["stuewer-1975"]}],
+  "disagreements":[{"with":"bohr","topic":"Statistical conservation (1924–25)","note":"Settled by experiment.","sourceIds":["compton-simon-1925"]}],
+  "silences":[{"proposition":"*","note":"Compton's contributions at the council concern experiment. His views on determinism are documented only from the 1930s."}],
+  "horizonNotes":[{"eventId":"nobel-1927","note":"The Nobel Prize, shared with C. T. R. Wilson — also in this room — will be announced in November 1927."}],
+  "sourceIds":["compton-1923","compton-simon-1925","compton-1927-report","stuewer-1975"]
+}

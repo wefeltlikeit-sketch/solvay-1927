@@ -1,0 +1,90 @@
+{
+ "participant": "compton",
+ "claims": [
+  {
+   "id": "compton-scattering",
+   "participant": "compton",
+   "label": "X-rays scatter as quanta",
+   "topics": [
+    "wave-particle",
+    "experiment"
+   ],
+   "stances": {
+    "wave-particle": 0.9
+   },
+   "move": "evidence",
+   "provenance": "documented",
+   "confidence": "high",
+   "opening": true,
+   "summary": "Compton showed in 1923 that X-rays scattered by light elements increase in wavelength by an amount depending on the angle exactly as predicted if a single quantum collides elastically with a single electron.",
+   "voice": [
+    "When X-rays scatter from light elements, the scattered radiation has a longer wavelength, and the shift depends on the angle exactly as it should if one quantum collides with one electron, conserving energy and momentum like billiard balls. I tried for some time to explain it with waves alone. I could not.",
+    "The shift is h over mc, times one minus the cosine of the angle — independent of the wavelength. No wave theory I know gives that."
+   ],
+   "reasoning": "Only a particle collision gives a shift independent of the incident wavelength.",
+   "evidence": [
+    "Compton effect (1923)."
+   ],
+   "sourceIds": [
+    "compton-1923",
+    "stuewer-1975",
+    "compton-1927-report"
+   ],
+   "asOf": "1923-05"
+  },
+  {
+   "id": "compton-individual-conservation",
+   "participant": "compton",
+   "label": "Conservation event by event",
+   "topics": [
+    "experiment",
+    "causality"
+   ],
+   "stances": {
+    "wave-particle": 0.7
+   },
+   "move": "evidence",
+   "provenance": "documented",
+   "confidence": "high",
+   "summary": "Compton and Simon photographed recoil electrons and scattered quanta in a cloud chamber, showing that energy and momentum are conserved in individual events, not merely on average as the BKS proposal had suggested.",
+   "voice": [
+    "Simon and I photographed the recoil electrons and the scattered quanta in a cloud chamber. The direction of each scattered quantum agrees with the recoil of its own electron. Conservation holds event by event — not merely on the average, as the proposal of Bohr, Kramers and Slater had suggested."
+   ],
+   "reasoning": "Direct observation of correlated individual events.",
+   "evidence": [
+    "Compton–Simon (1925).",
+    "Bothe–Geiger coincidences (1925)."
+   ],
+   "sourceIds": [
+    "compton-simon-1925",
+    "bothe-geiger-1925"
+   ],
+   "asOf": "1925"
+  },
+  {
+   "id": "compton-freedom-hope",
+   "participant": "compton",
+   "label": "Room in nature — a hope",
+   "topics": [
+    "probability",
+    "determinism"
+   ],
+   "stances": {
+    "probability-fundamental": 0.3
+   },
+   "move": "assert",
+   "provenance": "speculative",
+   "confidence": "low",
+   "summary": "Speculative: Compton's later writings (from 1931) welcomed physical indeterminism as leaving room for human freedom. Attributing any such view to him in October 1927 is extrapolation.",
+   "voice": [
+    "If it proves that the single event is not fixed in advance, I confess I would not find that unwelcome; it would leave more room in nature than the old mechanics did. But that is a hope, not a measurement, and I would not ask anyone here to count it as evidence."
+   ],
+   "reasoning": "Projected backwards from later writings; labelled speculative.",
+   "sourceIds": [
+    "stuewer-1975"
+   ],
+   "asOf": "1927-10",
+   "later": "Compton argued this publicly in the 1930s, notably in The Freedom of Man (1935)."
+  }
+ ]
+}

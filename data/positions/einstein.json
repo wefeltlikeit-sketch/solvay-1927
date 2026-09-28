@@ -1,0 +1,334 @@
+{
+ "participant": "einstein",
+ "claims": [
+  {
+   "id": "einstein-not-real-thing",
+   "participant": "einstein",
+   "label": "Not yet the real thing",
+   "topics": [
+    "completeness",
+    "probability"
+   ],
+   "stances": {
+    "qm-complete": -0.9,
+    "probability-fundamental": -0.7,
+    "causality-fails": -0.5
+   },
+   "move": "assert",
+   "provenance": "documented",
+   "confidence": "high",
+   "opening": true,
+   "summary": "Einstein accepted the empirical success of quantum mechanics but held that it was not the final description of nature: a theory giving only probabilities for individual events had not reached the real state of things.",
+   "voice": [
+    "I do not doubt that the theory says a great deal, and says it correctly. My doubt is whether it says everything. A theory that gives us only probabilities for the single event has, I suspect, stopped short of the real thing.",
+    "The successes are imposing, and no one here disputes them. But to predict frequencies correctly is not yet to describe completely what happens in the single case."
+   ],
+   "reasoning": "Statistical success is compatible with an underlying, more complete description, as statistical mechanics is compatible with molecular motions. The burden is on those who claim nothing further can be said.",
+   "evidence": [
+    "The statistical interpretation agrees with collision and spectral experiments — which Einstein does not dispute."
+   ],
+   "objections": [
+    "Born and Heisenberg: the theory is closed; no modification of its foundations is possible.",
+    "Bohr: the renunciation of a causal space-time account is forced by the quantum of action itself."
+   ],
+   "quoteIds": [
+    "q-einstein-dice-1926"
+   ],
+   "sourceIds": [
+    "born-einstein-letters",
+    "bv-2009",
+    "pais-1982"
+   ],
+   "asOf": "1926-12",
+   "later": "Einstein never accepted completeness. In 1935 the EPR paper turned his objection into an argument; Bell's theorem later turned it into an experiment that went against local completions."
+  },
+  {
+   "id": "einstein-two-viewpoints",
+   "participant": "einstein",
+   "label": "ψ describes an ensemble",
+   "topics": [
+    "wavefunction",
+    "completeness"
+   ],
+   "stances": {
+    "qm-complete": -0.8,
+    "wavefunction-real": -0.5,
+    "local-action": 0.7
+   },
+   "move": "assert",
+   "provenance": "documented",
+   "confidence": "high",
+   "opening": true,
+   "summary": "In the general discussion Einstein distinguished two conceptions: (I) ψ describes an ensemble of systems, not an individual; (II) ψ is a complete description of the individual process. He regarded the first as unobjectionable and the second as facing serious difficulty.",
+   "voice": [
+    "Let me set two readings side by side. In the first, the wave tells us about a great many electrons that pass the opening — a statistics of an ensemble. In the second, the theory claims to describe completely what each single electron does. I can accept the first. The second, I think, leads into difficulty.",
+    "I would ask the room to decide which of two things it is claiming. That the wave gives the statistics of many electrons — this I accept. That it is the complete description of one electron — this I doubt."
+   ],
+   "reasoning": "On reading I, completeness is not claimed and no paradox arises. On reading II, the localisation of a spread-out wave at a single point on a screen requires something peculiar.",
+   "evidence": [
+    "Diffraction of electrons at an aperture, as in Davisson–Germer and Thomson–Reid (1927)."
+   ],
+   "sourceIds": [
+    "solvay-1928-proceedings",
+    "bv-2009"
+   ],
+   "asOf": "1927-10",
+   "later": "The 'ensemble interpretation' was later developed by Ballentine and others. Bell-type results constrain what any underlying individual description can be."
+  },
+  {
+   "id": "einstein-screen",
+   "participant": "einstein",
+   "label": "Screen implies action at a distance",
+   "topics": [
+    "locality",
+    "measurement"
+   ],
+   "stances": {
+    "local-action": 1,
+    "qm-complete": -0.8,
+    "measurement-observer": -0.4
+   },
+   "move": "challenge",
+   "provenance": "documented",
+   "confidence": "high",
+   "opening": true,
+   "summary": "Einstein argued that if ψ completely describes a single electron diffracted at a slit, then its detection at one point of the screen must instantaneously prevent detection everywhere else — a peculiar action at a distance in conflict with the postulate of relativity.",
+   "voice": [
+    "Picture the wave spreading behind the opening and reaching every part of the screen. If the wave is the complete account of one electron, then the instant the electron is found at one point, the wave must vanish everywhere else at once. That is a very peculiar mechanism of action at a distance, and I believe it contradicts the postulate of relativity.",
+    "Where is the electron before it strikes the screen? If the answer is 'spread over the whole wave', then its arrival at one point must act at once on every other point. I find that very hard to reconcile with relativity."
+   ],
+   "reasoning": "Relativity forbids influences faster than light. If the wave is physically complete, its reduction on detection is such an influence. If instead the electron had a definite, unknown location all along, there is no difficulty — but then ψ is not complete.",
+   "evidence": [
+    "Single-slit diffraction of electrons."
+   ],
+   "objections": [
+    "Bohr: ψ is not a thing in space; nothing propagates when an observation is obtained."
+   ],
+   "sourceIds": [
+    "solvay-1928-proceedings",
+    "bv-2009",
+    "bohr-1949-discussions"
+   ],
+   "asOf": "1927-10",
+   "later": "This is the seed of EPR (1935). Bell's theorem shows that no local account can reproduce quantum correlations; yet quantum theory forbids using them to signal."
+  },
+  {
+   "id": "einstein-theory-decides",
+   "participant": "einstein",
+   "label": "Theory decides what is observable",
+   "topics": [
+    "positivism"
+   ],
+   "stances": {
+    "observables-only": -0.9,
+    "electron-properties": 0.3
+   },
+   "move": "challenge",
+   "provenance": "documented",
+   "confidence": "medium",
+   "opening": true,
+   "summary": "Einstein told Heisenberg in 1926 that building a theory on observable quantities alone is mistaken in principle: it is the theory that decides what can be observed.",
+   "voice": [
+    "You wish to build physics only from what can be observed. I once found that principle useful myself. But in principle it is wrong. Whether something is observable depends on the theory that connects the phenomenon to our instruments — it is the theory that decides what we can observe.",
+    "You did not see the orbit, so you removed it. But you also did not see the path of the electron in the cloud chamber — you saw droplets — and yet you speak of a track. The theory tells you what the droplets mean."
+   ],
+   "reasoning": "Observation is itself a theory-laden process; one cannot begin from a theory-free list of observables.",
+   "respondsTo": [
+    "heisenberg-observables"
+   ],
+   "exchangeNote": "Berlin, spring 1926, as Heisenberg recalled it decades later.",
+   "quoteIds": [
+    "q-einstein-heisenberg-observe"
+   ],
+   "sourceIds": [
+    "heisenberg-1971-physics-beyond"
+   ],
+   "asOf": "1926-04"
+  },
+  {
+   "id": "einstein-chance-weakness",
+   "participant": "einstein",
+   "label": "Chance as a provisional weakness",
+   "topics": [
+    "probability",
+    "radiation",
+    "causality"
+   ],
+   "stances": {
+    "probability-fundamental": -0.6,
+    "causality-fails": -0.5
+   },
+   "move": "evidence",
+   "provenance": "documented",
+   "confidence": "high",
+   "summary": "Einstein himself introduced transition probabilities into quantum theory in 1916–17 and at once called it a weakness of the theory that it left the time and direction of elementary processes to chance.",
+   "voice": [
+    "I introduced probabilities for emission myself, eleven years ago. I did it knowingly, and I wrote then that it is a weakness of the theory that it leaves the time and direction of the elementary process to chance. I have not changed my view that this is a provisional feature.",
+    "Do not imagine I am frightened of probabilities. I have used them longer than most of you. What I object to is treating them as the last word."
+   ],
+   "reasoning": "A provisional statistical rule is a sign of an incomplete theory, as it was for thermodynamics before kinetic theory.",
+   "evidence": [
+    "The A and B coefficients reproduce Planck's law."
+   ],
+   "quoteIds": [
+    "q-einstein-1917-chance"
+   ],
+   "sourceIds": [
+    "einstein-1917",
+    "pais-1982"
+   ],
+   "asOf": "1917"
+  },
+  {
+   "id": "einstein-light-quanta",
+   "participant": "einstein",
+   "label": "Light quanta are real",
+   "topics": [
+    "wave-particle",
+    "radiation"
+   ],
+   "stances": {
+    "wave-particle": 0.9
+   },
+   "move": "assert",
+   "provenance": "documented",
+   "confidence": "high",
+   "summary": "Einstein had argued since 1905 that radiation carries energy in quanta, and in 1909 that a future theory would fuse the wave and emission pictures of light.",
+   "voice": [
+    "For more than twenty years I have argued that light carries its energy in quanta, and later its momentum with it. Compton's experiment has persuaded most of you at last. Radiation has an undulatory aspect and a quantum aspect, and I said in 1909 that the next theory must be a kind of fusion of the two — not merely an alternation between them.",
+    "The fluctuations of black-body radiation contain two terms: one a wave would give, one that only particles give. Nature has shown us both faces at once."
+   ],
+   "reasoning": "The energy fluctuations of radiation contain both a wave term and a particle term; a correct theory must produce both.",
+   "evidence": [
+    "Photoelectric effect.",
+    "Fluctuation formula (1909).",
+    "Compton effect (1923)."
+   ],
+   "sourceIds": [
+    "einstein-1905",
+    "einstein-1909",
+    "pais-1982"
+   ],
+   "asOf": "1909"
+  },
+  {
+   "id": "einstein-withdrawn-attempt",
+   "participant": "einstein",
+   "label": "A withdrawn attempt at determinism",
+   "topics": [
+    "hidden-variables",
+    "locality"
+   ],
+   "stances": {
+    "hidden-variables": 0.4,
+    "qm-complete": -0.6
+   },
+   "move": "concede",
+   "provenance": "documented",
+   "confidence": "medium",
+   "summary": "In May 1927 Einstein submitted, then withdrew, a paper attempting to derive definite motions from Schrödinger's waves. He withdrew it because, for a system composed of non-interacting parts, the motions it gave were not independent of one another.",
+   "voice": [
+    "I will confess something. This spring I tried to make Schrödinger's waves determine the motion of a system completely, not only in the statistical sense. I withdrew the paper before it appeared. For a system made of two parts that do not act on each other, my motions for one part depended on the other. That I could not accept.",
+    "So I do not come here with a finished alternative. I tried, and my attempt failed on a point I consider essential: that separate things should behave separately."
+   ],
+   "reasoning": "Any completion must respect the independence of non-interacting subsystems; his scheme did not.",
+   "sourceIds": [
+    "einstein-1927-manuscript",
+    "belousek-1996"
+   ],
+   "asOf": "1927-05",
+   "later": "The feature that made Einstein withdraw — the dependence of one part's motion on the other — is exactly the nonlocality Bell later proved any such completion must have."
+  },
+  {
+   "id": "einstein-debroglie-waves",
+   "participant": "einstein",
+   "label": "Matter waves are no trick",
+   "topics": [
+    "wave-particle"
+   ],
+   "stances": {
+    "wave-particle": 0.8,
+    "wavefunction-real": 0.3
+   },
+   "move": "evidence",
+   "provenance": "documented",
+   "confidence": "high",
+   "summary": "Einstein drew attention to de Broglie's thesis in his 1925 paper on the ideal quantum gas, arguing that the wave aspect of matter was physically significant.",
+   "voice": [
+    "When I read de Broglie's thesis I thought he had lifted a corner of a great veil. I cited it in my work on the quantum gas: the wave aspect of matter was not a formal device. Davisson and Germer have now diffracted electrons from a crystal."
+   ],
+   "reasoning": "The statistics of a quantum gas show interference-like fluctuations that de Broglie's waves explain.",
+   "evidence": [
+    "Bose–Einstein gas fluctuations (1925).",
+    "Davisson–Germer (1927)."
+   ],
+   "sourceIds": [
+    "einstein-1925",
+    "debroglie-1924",
+    "pais-1982"
+   ],
+   "asOf": "1925-01"
+  },
+  {
+   "id": "einstein-real-state",
+   "participant": "einstein",
+   "label": "A real state, observed or not",
+   "topics": [
+    "realism",
+    "measurement"
+   ],
+   "stances": {
+    "electron-properties": 0.6,
+    "measurement-observer": -0.7
+   },
+   "move": "question",
+   "provenance": "inference",
+   "confidence": "medium",
+   "summary": "Einstein's realism implies that a physical system has a real state independent of whether it is observed. In 1927 this is inferred from his objections and correspondence; he stated it explicitly only from 1935.",
+   "voice": [
+    "I should like to know what the electron is doing when no one is looking. You tell me the question has no meaning. I am not yet willing to accept that physics has nothing to say about the real state of a single system.",
+    "I do not ask this to be clever. I ask what a physical description is for, if not for what is there — whether or not anyone happens to be measuring it."
+   ],
+   "reasoning": "Physics aims at a description of reality, not merely of observations. Einstein's complaints about completeness only make sense against this background.",
+   "respondsTo": [
+    "heisenberg-path",
+    "bohr-apparatus"
+   ],
+   "sourceIds": [
+    "born-einstein-letters",
+    "einstein-1948",
+    "pais-1982"
+   ],
+   "asOf": "1927-10",
+   "later": "Einstein stated this realism explicitly in EPR (1935) and in Dialectica (1948). Pais recalled him asking, in the 1950s, whether the moon exists only when looked at — later testimony, not used as speech here."
+  },
+  {
+   "id": "einstein-schrodinger-advance",
+   "participant": "einstein",
+   "label": "Wave mechanics a real advance",
+   "topics": [
+    "visualizability",
+    "wavefunction"
+   ],
+   "stances": {
+    "visualizability": 0.4,
+    "wavefunction-real": 0.2
+   },
+   "move": "assert",
+   "provenance": "documented",
+   "confidence": "medium",
+   "summary": "In April 1926 Einstein wrote to Schrödinger that wave mechanics was a decisive advance and that the Göttingen route was off the track. After equivalence was shown he no longer opposed matrix mechanics as such, but the question of what the waves are remained open for him.",
+   "voice": [
+    "When Schrödinger's paper arrived I wrote to him that he had made a decisive advance, and that the Göttingen route seemed to me off the track. I have since learned that the two formalisms are equivalent. But equivalence of formalisms does not tell us what the waves are."
+   ],
+   "reasoning": "Two equivalent formalisms can differ in the physical picture they suggest; the choice of picture matters for what comes next.",
+   "quoteIds": [
+    "q-einstein-schrodinger-1926"
+   ],
+   "sourceIds": [
+    "przibram-1967"
+   ],
+   "asOf": "1926-04"
+  }
+ ]
+}

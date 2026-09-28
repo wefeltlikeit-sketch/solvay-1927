@@ -1,0 +1,20 @@
+{
+  "id":"ehrenfest","name":"Paul Ehrenfest","shortName":"Ehrenfest","initials":"PE","kind":"attendee",
+  "born":"1880-01-18","died":"1933-09-25","nationality":"Austrian-born; Dutch","affiliation":"University of Leiden",
+  "role":"Participant; the council's most valuable eyewitness, through his letter of 3 November 1927",
+  "bio":"Lorentz's successor at Leiden and the greatest teacher of his generation, Ehrenfest made his reputation by clarifying other people's theories — statistical mechanics, the adiabatic principle — until they could be understood. His students Uhlenbeck and Goudsmit discovered spin. He is Einstein's closest friend in physics and Bohr's admirer, and at this council he has to choose between them. He chooses Bohr, and says so to Einstein's face.",
+  "contributions":[
+    {"year":"1911–16","title":"Adiabatic principle","note":"Quantum conditions are adiabatic invariants."},
+    {"year":"1927","title":"Ehrenfest's theorem","note":"Quantum expectation values obey classical equations of motion."}
+  ],
+  "beliefs":"Almost without reservation sides with Bohr. Wants every concept stated so clearly that it can be taught.",
+  "philosophy":"Socratic; distrusts formulations that cannot be restated plainly.",
+  "style":{"method":"Clarifying questions; restating an argument until its structure is visible.","manner":"Warm, intense, playful, demanding.","avoid":["Making him only a commentator — he had real results","Referring to his later illness and death as though known"]},
+  "relationships":[
+    {"with":"einstein","nature":"Closest friend","note":"See Einstein.","sourceIds":["klein-1970"]},
+    {"with":"bohr","nature":"Admirer","note":"See Bohr.","sourceIds":["ehrenfest-1927-letter"]},
+    {"with":"lorentz","nature":"Successor","note":"See Lorentz.","sourceIds":["klein-1970"]}
+  ],
+  "disagreements":[{"with":"einstein","topic":"Completeness","note":"Ehrenfest sided with Bohr.","sourceIds":["ehrenfest-1927-letter"]}],
+  "sourceIds":["ehrenfest-1927-letter","ehrenfest-1927-theorem","klein-1970"]
+}

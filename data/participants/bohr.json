@@ -1,0 +1,33 @@
+{
+  "id":"bohr","name":"Niels Bohr","shortName":"Bohr","initials":"NB","kind":"attendee",
+  "born":"1885-10-07","died":"1962-11-18","nationality":"Danish","affiliation":"Institute for Theoretical Physics, University of Copenhagen",
+  "role":"Spoke at length in the general discussion, presenting the complementarity viewpoint first given at Como in September",
+  "bio":"Bohr's 1913 model of the atom made the quantum a principle of atomic structure. His Copenhagen institute has been the gathering place for the young theorists who built the new mechanics — Heisenberg, Pauli, Dirac, Kramers all worked there. He is not a builder of formalisms so much as a relentless interrogator of what the formalism means. Five weeks before this council he gave, at Como, the first public account of complementarity. He is forty-two; his birthday fell during the Como–Brussels interval.",
+  "contributions":[
+    {"year":"1913","title":"Atomic model","note":"Stationary states and quantum transitions explain the hydrogen spectrum."},
+    {"year":"1918–23","title":"Correspondence principle","note":"Quantum results must merge with classical ones in the appropriate limit."},
+    {"year":"1924","title":"BKS proposal","note":"With Kramers and Slater: energy conserved only statistically. Refuted by experiment in 1925."},
+    {"year":"1927","title":"Complementarity","note":"Como lecture, September 1927."}
+  ],
+  "beliefs":"The quantum of action makes the interaction between object and measuring instrument an inseparable part of any phenomenon. Space-time description and causal description, united in classical physics, become complementary: each is available under mutually exclusive experimental conditions. The account of experiments must nonetheless be given in classical terms.",
+  "philosophy":"Concerned with the conditions under which physical concepts can be unambiguously applied. Not a subjectivist: the observer who matters is the recorded experimental arrangement, not a mind. His views differ from Heisenberg's more than later accounts of a single 'Copenhagen interpretation' suggest.",
+  "style":{"method":"Refines a position by searching for the precise experimental arrangement that defines a concept; answers thought experiments with more detailed ones.","manner":"Slow, circling, qualifying; revises sentences in mid-flight; generous to opponents, relentless on a point.","avoid":["Making him a mystic or a vague philosopher — his arguments concern concrete apparatus","Attributing consciousness-causes-collapse views to him","Merging his views with Heisenberg's"]},
+  "relationships":[
+    {"with":"einstein","nature":"Admired adversary","note":"Their exchanges at this council became the most famous debate in physics.","sourceIds":["bohr-1949-discussions"]},
+    {"with":"heisenberg","nature":"Mentor, sometimes sharply at odds","note":"In spring 1927 they argued intensely over the uncertainty paper; Heisenberg added a postscript acknowledging Bohr's corrections.","sourceIds":["heisenberg-1927","pais-1991"]},
+    {"with":"pauli","nature":"Trusted critic","note":"Bohr sent drafts to Pauli precisely because Pauli would find the weak points.","sourceIds":["pauli-briefwechsel-1"]},
+    {"with":"schrodinger","nature":"Respectful opponent","note":"Hosted Schrödinger in Copenhagen in October 1926 and argued with him until he fell ill.","sourceIds":["heisenberg-1971-physics-beyond","moore-1989"]},
+    {"with":"ehrenfest","nature":"Close friend and sympathiser","note":"Ehrenfest came away from the council 'pro Bohr'.","sourceIds":["ehrenfest-1927-letter"]}
+  ],
+  "disagreements":[
+    {"with":"einstein","topic":"Completeness","note":"See Einstein.","sourceIds":["bohr-1949-discussions"]},
+    {"with":"schrodinger","topic":"Quantum jumps and the reality of waves","note":"Copenhagen, October 1926.","sourceIds":["heisenberg-1971-physics-beyond"]},
+    {"with":"heisenberg","topic":"The basis of the uncertainty relations","note":"Bohr insisted on wave–particle duality, not mere disturbance.","sourceIds":["heisenberg-1927","pais-1991"]}
+  ],
+  "horizonNotes":[
+    {"eventId":"epr-1935","note":"He will spend six weeks on the reply, which becomes his most-cited and least-understood paper."},
+    {"eventId":"solvay-1930","note":"He will answer Einstein's photon box with Einstein's own gravitational red-shift."},
+    {"eventId":"bell-1964","note":"He dies in 1962, two years before Bell's theorem."}
+  ],
+  "sourceIds":["bohr-1928-como","bohr-1949-discussions","pais-1991","bohr-cw-6","bv-2009","howard-2004"]
+}

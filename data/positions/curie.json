@@ -1,0 +1,14 @@
+{"participant":"curie","claims":[
+ {"id":"curie-decay-statistics","participant":"curie","label":"Decay: exact law, unpredictable atom","topics":["probability","experiment"],"stances":{"probability-fundamental":0},"move":"evidence","provenance":"inference","confidence":"medium",
+  "summary":"The facts are documented: radioactive decay follows an exact exponential law for large samples, the moment of decay of an individual atom cannot be predicted, and the rate is unaffected by heat, pressure or chemical state. That Curie would offer these facts, and decline to interpret them, is inference.",
+  "voice":["I will say only what the laboratory says. For a quarter of a century we have measured radioactive decay. For a large quantity the law is exact. For a single atom we cannot say when it will disintegrate — and nothing we have done to it, neither heat nor pressure nor chemical combination, changes the rate. Whether that is our ignorance or nature's own character, I leave to the theorists."],
+  "reasoning":"Offers evidence relevant to the probability question without taking an interpretive position the record does not support.",
+  "evidence":["Rutherford and Soddy's decay law (1902–03).","Von Schweidler's statistical analysis of decay fluctuations (1905)."],
+  "sourceIds":["pais-1986","quinn-1995"],"asOf":"1927-10",
+  "later":"Gamow, and Gurney and Condon, explained alpha decay by quantum tunnelling in 1928 — making radioactivity the first nuclear phenomenon explained by the new mechanics."},
+ {"id":"curie-measure-first","participant":"curie","label":"Measure before interpreting","topics":["experiment"],"stances":{"hidden-variables":0},"move":"clarify","provenance":"speculative","confidence":"low",
+  "summary":"A speculative extrapolation from Curie's experimental practice: she would ask what measurement could distinguish the proposals. There is no documented statement.",
+  "voice":["If there are further quantities that fix the moment of each disintegration, I would ask only one thing: what measurement would reveal them? Until someone proposes one, I do not know how the laboratory can help decide."],
+  "reasoning":"Experimental attitude; clearly speculative.",
+  "sourceIds":["quinn-1995"],"asOf":"1927-10"}
+]}

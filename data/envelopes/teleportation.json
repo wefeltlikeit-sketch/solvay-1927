@@ -1,0 +1,21 @@
+{"id":"teleportation","year":"1993","title":"Quantum teleportation","seal":"A state sent without being sent","category":"technology","prerequisites":["epr"],
+ "reading":"In 1993 six physicists — Bennett, Brassard, Crépeau, Jozsa, Peres and Wootters — show how to transfer the unknown quantum state of one particle to another, distant particle. The sender and receiver share a correlated pair of the kind Einstein, Podolsky and Rosen described. The sender makes a joint measurement on the unknown particle and her half of the pair, and sends the result — two ordinary bits — by ordinary means. The receiver applies a corresponding operation to his half, which then carries the original state. The original is destroyed in the process. Nothing travels faster than light: without the ordinary message, the receiver's particle is useless. In 1997 groups in Innsbruck and Rome teleport the polarisation states of light quanta.",
+ "detail":"Teleportation cannot be used to signal because the receiver's local statistics are independent of the sender's choices until the classical bits arrive. It later became a basic primitive of quantum networks; ground-to-satellite teleportation was demonstrated in 2017.",
+ "sourceIds":["bennett-1993","bouwmeester-1997","boschi-1998"],"eventIds":["bennett-1993","teleportation-1997"],"unlocks":["teleport","teleportation","entanglement","entangled","bits","qubit"],"next":["quantum-computing"],
+ "reactions":[
+  {"participant":"einstein","status":"accepted","claim":{"id":"teleportation/einstein","label":"No signal faster than light","topics":["locality"],"stances":{"local-action":0.5},"move":"concede","provenance":"inference","confidence":"low",
+    "summary":"Inference: Einstein's concern was relativity; the protocol respects the prohibition on superluminal signalling.",
+    "voice":["I notice with some relief that the ordinary message is needed. Relativity is not violated — nothing usable arrives before light could bring it. But the correlations I objected to are being put to work. I am not sure whether that answers me or ignores me."],
+    "reasoning":"No signalling; correlations still unexplained.",
+    "sourceIds":["bennett-1993"],"asOf":"1927-10"}},
+  {"participant":"bohr","status":"accepted","claim":{"id":"teleportation/bohr","label":"Nothing is transported","topics":["complementarity","locality"],"move":"clarify","provenance":"inference","confidence":"low",
+    "summary":"Inference.",
+    "voice":["The word teleportation is unfortunate. Nothing is carried from one place to another except the ordinary message. The whole arrangement — the pair, the joint measurement, the message — defines what can be predicted at the far end."],
+    "reasoning":"Wholeness of the arrangement.",
+    "respondsTo":["teleportation/einstein"],"sourceIds":["bohr-1935"],"asOf":"1927-10"}},
+  {"participant":"schrodinger","status":"accepted","claim":{"id":"teleportation/schrodinger","label":"The joint wave as a tool","topics":["wavefunction"],"move":"assert","provenance":"inference","confidence":"low",
+    "summary":"Inference.",
+    "voice":["So the joint wave of two particles, which cannot be split into two waves, is used like a wire. I find that strangely reassuring. Whatever the wave is, it does work."],
+    "reasoning":"Operational reality of the joint wave.",
+    "respondsTo":["teleportation/bohr"],"sourceIds":["schrodinger-1935b"],"asOf":"1927-10"}}
+ ]}

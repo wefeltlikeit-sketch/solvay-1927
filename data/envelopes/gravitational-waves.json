@@ -1,0 +1,22 @@
+{"id":"gravitational-waves","year":"2015","title":"Gravitational waves detected","seal":"Professor Einstein's prediction, answered","category":"experiment",
+ "reading":"On 14 September 2015, two detectors in the United States, each with arms four kilometres long, register a passing ripple in space-time. It changes the length of each arm by less than a thousandth of the diameter of a proton — a fractional strain of about 10⁻²¹. The signal matches the prediction of general relativity for two black holes, each roughly thirty times the mass of the sun, spiralling together and merging more than a billion light-years away. The waves Professor Einstein predicted in 1916 are real, and they are now a new way of observing the universe.",
+ "detail":"Black holes: regions of space-time from which light cannot escape, following from Schwarzschild's 1916 solution; the name dates from the 1960s. In 1936 Einstein and Rosen briefly concluded that gravitational waves do not exist, before correcting the error.",
+ "sourceIds":["ligo-2016","einstein-1916-gw","eddington-1922","kennefick-2005"],"eventIds":["einstein-1916-gw","gw-2015"],"unlocks":["black hole","black holes","ligo","gravitational wave detector","interferometer","light-years","billion"],"next":["expanding-universe"],
+ "reactions":[
+  {"participant":"einstein","status":"accepted","claim":{"id":"gravitational-waves/einstein","label":"I did not expect detection","topics":["gravitation"],"move":"assert","provenance":"documented","confidence":"medium",
+    "summary":"Einstein predicted gravitational waves in 1916 and gave the quadrupole formula in 1918; he considered their effects too small to have practical significance. He had not doubted them in 1927; the 1936 doubt lies in his future.",
+    "voice":["I predicted them in 1916 and calculated in 1918 how much energy a system radiates in this way. I concluded the effects were so small they could have no practical significance. A thousandth of a proton over four kilometres — I would not have believed anyone could measure that. I am delighted to have been wrong about the practical part."],
+    "reasoning":"Confirmation of his own theory at a precision he thought impossible.",
+    "sourceIds":["einstein-1916-gw","pais-1982"],"asOf":"1927-10"},
+   "historical":{"note":"Einstein did not live to see indirect evidence (the Hulse–Taylor pulsar, 1974 onward) or direct detection. In 1936 he and Rosen briefly argued that the waves did not exist.","sourceIds":["kennefick-2005"]}},
+  {"participant":"lorentz","status":"accepted","claim":{"id":"gravitational-waves/lorentz","label":"A triumph of the theory","topics":["gravitation"],"move":"assert","provenance":"speculative","confidence":"low",
+    "summary":"Speculative. Lorentz worked on general relativity and admired it.",
+    "voice":["I have spent part of my life on the equations of this theory. That they should be confirmed at such a distance, and by such a small effect, is the kind of result that makes an old man glad he chose physics."],
+    "reasoning":"Speculative; grounded in his documented work on general relativity.",
+    "respondsTo":["gravitational-waves/einstein"],"sourceIds":["pais-1982"],"asOf":"1927-10"}},
+  {"participant":"planck","status":"accepted","claim":{"id":"gravitational-waves/planck","label":"A real world, measured","topics":["realism","gravitation"],"move":"assert","provenance":"speculative","confidence":"low",
+    "summary":"Speculative; grounded in Planck's documented realism.",
+    "voice":["Here is the real world, doing exactly what our laws require of it, a billion light-years away and long before anyone looked. I take that as a small argument for the view I defended against Mach."],
+    "reasoning":"Realism.",
+    "respondsTo":["gravitational-waves/einstein"],"sourceIds":["planck-1909"],"asOf":"1927-10"}}
+ ]}

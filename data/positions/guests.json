@@ -1,0 +1,506 @@
+{
+ "participant": "*guests",
+ "claims": [
+  {
+   "id": "bell-theorem",
+   "participant": "bell",
+   "label": "No local completion",
+   "topics": [
+    "locality",
+    "hidden-variables",
+    "completeness"
+   ],
+   "stances": {
+    "local-action": -0.9,
+    "qm-complete": -0.6,
+    "hidden-variables": 0.5
+   },
+   "move": "assert",
+   "provenance": "documented",
+   "confidence": "high",
+   "opening": true,
+   "summary": "Bell proved in 1964 that no theory in which outcomes are determined by local variables can reproduce all the statistical predictions of quantum mechanics.",
+   "voice": [
+    "Professor Einstein, I took your side of this question seriously — that the quantum description might be completed by further variables that act only locally. In 1964 I showed that no such local completion can reproduce all of quantum mechanics' predictions. Something has to give: locality, or something else you and I both took for granted.",
+    "It is not that the theory is complete. It is that whatever completes it cannot be local."
+   ],
+   "reasoning": "Correlations between distant outcomes predicted by quantum mechanics exceed the bound any local account allows.",
+   "respondsTo": [
+    "einstein-screen",
+    "einstein-not-real-thing",
+    "einstein-withdrawn-attempt"
+   ],
+   "sourceIds": [
+    "bell-1964",
+    "bell-1987"
+   ],
+   "asOf": "1964"
+  },
+  {
+   "id": "bell-pilot-possible",
+   "participant": "bell",
+   "label": "The impossible was done",
+   "topics": [
+    "hidden-variables"
+   ],
+   "stances": {
+    "hidden-variables": 0.8,
+    "probability-fundamental": -0.4
+   },
+   "move": "challenge",
+   "provenance": "documented",
+   "confidence": "high",
+   "summary": "Bell repeatedly pointed out that Bohm's 1952 completion of de Broglie's pilot wave showed that a deterministic account is possible, and criticised impossibility proofs.",
+   "voice": [
+    "In 1952 I saw the impossible done. David Bohm took Monsieur de Broglie's guiding wave and worked it out consistently — measurement, collisions, Professor Pauli's rotator included. It is explicitly nonlocal, but it exists. What impossibility proofs prove is a lack of imagination.",
+    "Monsieur de Broglie, you should not have given it up so quickly."
+   ],
+   "reasoning": "An explicit counterexample defeats a general impossibility claim.",
+   "respondsTo": [
+    "pauli-against-pilot",
+    "heisenberg-causality",
+    "born-give-up-determinism",
+    "debroglie-reply-pauli"
+   ],
+   "quoteIds": [
+    "q-bell-imagination"
+   ],
+   "sourceIds": [
+    "bell-1982",
+    "bohm-1952"
+   ],
+   "asOf": "1982"
+  },
+  {
+   "id": "bell-against-measurement",
+   "participant": "bell",
+   "label": "Against 'measurement'",
+   "topics": [
+    "measurement"
+   ],
+   "stances": {
+    "measurement-observer": -0.9,
+    "qm-complete": -0.5
+   },
+   "move": "challenge",
+   "provenance": "documented",
+   "confidence": "high",
+   "opening": true,
+   "summary": "Bell argued that 'measurement' should not appear among the fundamental axioms of a physical theory, since the theory must say what a measurement is.",
+   "voice": [
+    "I should like to banish the word 'measurement' from the fundamental formulation. Did the wave function of the world wait thousands of millions of years to jump until a single-celled creature appeared? Or until a physicist with a doctorate? A fundamental theory should say what is, not only what is found.",
+    "Where exactly does the apparatus begin? Professor Bohr says it must be described classically. Very well — but the theory does not tell us where to draw the line."
+   ],
+   "reasoning": "A fundamental theory cannot presuppose a vague division between system and apparatus.",
+   "respondsTo": [
+    "heisenberg-path",
+    "heisenberg-observer-choice",
+    "bohr-classical-concepts",
+    "bohr-apparatus"
+   ],
+   "quoteIds": [
+    "q-bell-phd"
+   ],
+   "sourceIds": [
+    "bell-1990"
+   ],
+   "asOf": "1990"
+  },
+  {
+   "id": "feynman-nobody",
+   "participant": "feynman",
+   "label": "Nobody understands it",
+   "topics": [
+    "completeness"
+   ],
+   "stances": {
+    "qm-complete": 0.2
+   },
+   "move": "assert",
+   "provenance": "documented",
+   "confidence": "high",
+   "opening": true,
+   "summary": "Feynman held that quantum mechanics is extraordinarily successful and that nobody understands it; he advised against asking 'how can it be like that?'.",
+   "voice": [
+    "I'll put it this way. The theory works — it works better than anything we have — and I think I can safely say nobody understands it. Don't keep asking yourself 'but how can it be like that?' You'll go down a drain nobody has come out of.",
+    "Professor Einstein wants to know what the electron is doing. So do I. But nature doesn't have to tell us in a way we like."
+   ],
+   "reasoning": "Empirical success without intuitive understanding.",
+   "respondsTo": [
+    "einstein-not-real-thing",
+    "heisenberg-closed"
+   ],
+   "quoteIds": [
+    "q-feynman-nobody"
+   ],
+   "sourceIds": [
+    "feynman-1965-character"
+   ],
+   "asOf": "1964"
+  },
+  {
+   "id": "feynman-two-slit",
+   "participant": "feynman",
+   "label": "The only mystery",
+   "topics": [
+    "wave-particle",
+    "measurement"
+   ],
+   "stances": {
+    "electron-properties": -0.5,
+    "wave-particle": 1
+   },
+   "move": "evidence",
+   "provenance": "documented",
+   "confidence": "high",
+   "opening": true,
+   "summary": "Feynman presented the two-slit experiment with electrons as containing the only mystery of quantum mechanics: amplitudes add when paths are indistinguishable, probabilities add when they are not.",
+   "voice": [
+    "Take two slits and send electrons through one at a time. It has in it the heart of the whole business — the only mystery. When you can't tell which slit it went through, you add amplitudes and get interference. The moment you can tell, even in principle, the interference goes away.",
+    "That's all there is. Every other paradox is this one in a different coat."
+   ],
+   "reasoning": "Distinguishability, not disturbance per se, destroys interference.",
+   "respondsTo": [
+    "einstein-screen",
+    "heisenberg-microscope"
+   ],
+   "quoteIds": [
+    "q-feynman-mystery"
+   ],
+   "sourceIds": [
+    "feynman-lectures-3"
+   ],
+   "asOf": "1965"
+  },
+  {
+   "id": "feynman-paths",
+   "participant": "feynman",
+   "label": "Sum over histories",
+   "topics": [
+    "formalism",
+    "visualizability"
+   ],
+   "stances": {
+    "visualizability": 0.3,
+    "wavefunction-real": 0
+   },
+   "move": "redirect",
+   "provenance": "documented",
+   "confidence": "high",
+   "summary": "Feynman's 1948 path-integral formulation assigns an amplitude to every possible path; classical mechanics emerges where the phases agree. He credited Dirac's 1933 paper on the Lagrangian.",
+   "voice": [
+    "There's another way to write the same theory. Add up an amplitude for every path the particle could take, each with a phase. Where the phases agree you get the classical path. Professor Dirac — it grew out of a remark in a paper you'll write in six years.",
+    "So Professor Schrödinger gets his pictures back, in a way — just rather more of them than he wanted."
+   ],
+   "reasoning": "An alternative, visualisable formulation equivalent to the others.",
+   "respondsTo": [
+    "dirac-transformation",
+    "schrodinger-real-waves",
+    "lorentz-clear-images"
+   ],
+   "sourceIds": [
+    "feynman-1948"
+   ],
+   "asOf": "1948"
+  },
+  {
+   "id": "everett-no-collapse",
+   "participant": "everett",
+   "label": "No collapse at all",
+   "topics": [
+    "measurement",
+    "wavefunction"
+   ],
+   "stances": {
+    "measurement-observer": -0.8,
+    "wavefunction-real": 1,
+    "qm-complete": 0.8,
+    "probability-fundamental": -0.3
+   },
+   "move": "assert",
+   "provenance": "documented",
+   "confidence": "high",
+   "opening": true,
+   "summary": "Everett proposed that the wave function always obeys the wave equation, with no collapse; an observer measuring a superposition becomes correlated with it, each outcome paired with a relative state of the observer.",
+   "voice": [
+    "Suppose the wave function is all there is and it always obeys Professor Schrödinger's equation — no reduction, no special role for measurement. Then an observer who measures a superposition becomes correlated with it: each outcome goes with a relative state of the observer who saw it. The appearance of a jump is what it looks like from the inside.",
+    "Professor Dirac says nature chooses. I say nature doesn't have to."
+   ],
+   "reasoning": "Take the linear dynamics as universal and derive the appearance of collapse.",
+   "respondsTo": [
+    "dirac-nature-chooses",
+    "heisenberg-observer-choice",
+    "schrodinger-real-waves"
+   ],
+   "sourceIds": [
+    "everett-1957"
+   ],
+   "asOf": "1957"
+  },
+  {
+   "id": "everett-no-classical",
+   "participant": "everett",
+   "label": "No classical apparatus needed",
+   "topics": [
+    "measurement",
+    "complementarity"
+   ],
+   "stances": {
+    "measurement-observer": -0.6
+   },
+   "move": "challenge",
+   "provenance": "inference",
+   "confidence": "medium",
+   "summary": "Everett's formulation treats apparatus and observer quantum-mechanically; it therefore denies Bohr's requirement that apparatus be described classically. The framing as a reply to Bohr is inference.",
+   "voice": [
+    "Professor Bohr, you insist the apparatus be described classically. I would treat it as a quantum system like any other and let the equations tell us what the observer records. Then there is no line to draw."
+   ],
+   "reasoning": "Universality of quantum mechanics.",
+   "respondsTo": [
+    "bohr-classical-concepts",
+    "bohr-apparatus"
+   ],
+   "sourceIds": [
+    "everett-1957",
+    "byrne-2010"
+   ],
+   "asOf": "1957"
+  },
+  {
+   "id": "noether-symmetry",
+   "participant": "noether",
+   "label": "Symmetry secures conservation",
+   "topics": [
+    "formalism"
+   ],
+   "stances": {
+    "wave-particle": 0
+   },
+   "move": "clarify",
+   "provenance": "documented",
+   "confidence": "high",
+   "summary": "Noether's 1918 theorem: every continuous symmetry of the action yields a conserved quantity. What she would say about its role in quantum mechanics is inference; the theorem is not.",
+   "voice": [
+    "My contribution concerns something older than this debate. Every continuous symmetry of the action gives a conserved quantity — invariance under time translation gives energy, under space translation gives momentum. Whatever you decide about interpretation, the new mechanics keeps these relations. I would look there for what is secure."
+   ],
+   "reasoning": "Conservation laws follow from symmetry independently of interpretation.",
+   "respondsTo": [
+    "compton-individual-conservation",
+    "bohr-bks-concession"
+   ],
+   "sourceIds": [
+    "noether-1918"
+   ],
+   "asOf": "1918"
+  },
+  {
+   "id": "turing-watched-pot",
+   "participant": "turing",
+   "label": "The watched pot",
+   "topics": [
+    "measurement"
+   ],
+   "stances": {
+    "measurement-observer": 0.2
+   },
+   "move": "question",
+   "provenance": "documented",
+   "confidence": "low",
+   "summary": "Turing noted in 1954 that on the standard account continuous observation would prevent a system from evolving at all. The source is a biographer's report of informal notes.",
+   "voice": [
+    "I noticed a curious consequence of the standard account. If one observes a system continually, it never gets to change — the watched pot never boils. Either the theory or our idea of observation needs repair. I don't yet know which."
+   ],
+   "reasoning": "Repeated reduction freezes evolution.",
+   "respondsTo": [
+    "heisenberg-observer-choice",
+    "dirac-nature-chooses"
+   ],
+   "sourceIds": [
+    "hodges-1983"
+   ],
+   "asOf": "1954",
+   "later": "Misra and Sudarshan named it the quantum Zeno effect in 1977; it was observed with trapped ions in 1990."
+  },
+  {
+   "id": "turing-determinism",
+   "participant": "turing",
+   "label": "Determined is not predictable",
+   "topics": [
+    "determinism",
+    "causality"
+   ],
+   "stances": {
+    "causality-fails": 0,
+    "probability-fundamental": 0
+   },
+   "move": "clarify",
+   "provenance": "speculative",
+   "confidence": "low",
+   "summary": "Speculative: an extrapolation from Turing's work on computability to the determinism debate. There is no documented statement.",
+   "voice": [
+    "May I separate two questions you are running together? A system may be perfectly determined and still impossible to predict — there are definite questions no mechanical procedure can answer. So if causality fails here, it fails for a different reason than unpredictability."
+   ],
+   "reasoning": "Undecidability shows determinism and predictability come apart.",
+   "respondsTo": [
+    "heisenberg-causality",
+    "lorentz-determinism-faith"
+   ],
+   "sourceIds": [
+    "turing-1936"
+   ],
+   "asOf": "1936"
+  },
+  {
+   "id": "hawking-dice",
+   "participant": "hawking",
+   "label": "Dice where they can't be seen",
+   "topics": [
+    "probability",
+    "causality"
+   ],
+   "stances": {
+    "probability-fundamental": 0.9,
+    "causality-fails": 0.6
+   },
+   "move": "challenge",
+   "provenance": "documented",
+   "confidence": "medium",
+   "summary": "Hawking argued in 1976 that black-hole evaporation destroys information, adding unpredictability beyond ordinary quantum mechanics; he publicly reversed this view in 2004.",
+   "voice": [
+    "Professor Einstein, I'm afraid it gets worse than dice. I argued that when a black hole evaporates, the information about what fell in is lost — God not only plays dice, he sometimes throws them where they can't be seen. I should add that in 2004 I changed my mind: I now think the information comes out."
+   ],
+   "reasoning": "Thermal Hawking radiation seemed to carry no information about the collapsed matter.",
+   "respondsTo": [
+    "einstein-not-real-thing",
+    "einstein-chance-weakness"
+   ],
+   "quoteIds": [
+    "q-hawking-dice"
+   ],
+   "sourceIds": [
+    "hawking-1976",
+    "hawking-penrose-1996",
+    "hawking-2005"
+   ],
+   "asOf": "1994"
+  },
+  {
+   "id": "hawking-positivist",
+   "participant": "hawking",
+   "label": "A positivist's view",
+   "topics": [
+    "positivism",
+    "realism"
+   ],
+   "stances": {
+    "observables-only": 0.8,
+    "electron-properties": -0.3
+   },
+   "move": "assert",
+   "provenance": "documented",
+   "confidence": "medium",
+   "opening": true,
+   "summary": "Hawking described himself as a positivist: a theory is a mathematical model, and it is meaningless to ask whether it corresponds to reality, only whether its predictions agree with observation.",
+   "voice": [
+    "I'm on Heisenberg's side here, and Professor Planck won't like it. I don't demand that a theory correspond to reality, because I don't know what that is. A theory is a model; all I ask is that it predict the results of measurements."
+   ],
+   "reasoning": "Operational positivism.",
+   "respondsTo": [
+    "planck-against-mach",
+    "einstein-theory-decides"
+   ],
+   "sourceIds": [
+    "hawking-penrose-1996"
+   ],
+   "asOf": "1994"
+  },
+  {
+   "id": "qi-loophole-free",
+   "participant": "qi-researcher",
+   "label": "The experiments are settled",
+   "topics": [
+    "locality",
+    "experiment"
+   ],
+   "stances": {
+    "local-action": -0.9,
+    "hidden-variables": -0.4
+   },
+   "move": "evidence",
+   "provenance": "documented",
+   "confidence": "high",
+   "opening": true,
+   "summary": "Consensus statement: since 2015, Bell tests closing the locality and detection loopholes simultaneously have violated Bell inequalities; local hidden-variable theories are experimentally excluded, up to the assumption of free setting choices.",
+   "voice": [
+    "For what it's worth, the experiments are done. In 2015 three groups — Delft, Vienna, Boulder — closed the main loopholes at once and still violated Bell's inequality. We've since chosen the settings using light from distant stars. Local accounts of the kind Professor Einstein hoped for are excluded, unless you're willing to say the settings themselves were fixed by the past."
+   ],
+   "reasoning": "Loophole-free violations with space-like separation and high-efficiency detection.",
+   "respondsTo": [
+    "einstein-screen",
+    "einstein-not-real-thing",
+    "bell-theorem"
+   ],
+   "sourceIds": [
+    "hensen-2015",
+    "giustina-2015",
+    "shalm-2015",
+    "nobel-2022"
+   ],
+   "asOf": "2022"
+  },
+  {
+   "id": "qi-resource",
+   "participant": "qi-researcher",
+   "label": "Entanglement is a resource",
+   "topics": [
+    "locality",
+    "computation"
+   ],
+   "stances": {
+    "qm-complete": 0.3,
+    "local-action": -0.5
+   },
+   "move": "redirect",
+   "provenance": "documented",
+   "confidence": "high",
+   "summary": "Consensus statement: the correlations debated here are now used as a resource — for teleportation, cryptography and computation — without any agreement on interpretation.",
+   "voice": [
+    "What you're arguing about, we now use. The correlations Professor Einstein found so troubling are a resource: we teleport quantum states with them, distribute cryptographic keys, build small quantum computers. And I'll be honest — we still don't agree on what they mean. The engineering got ahead of the philosophy."
+   ],
+   "reasoning": "Operational use without interpretive consensus.",
+   "sourceIds": [
+    "bennett-1993",
+    "arute-2019",
+    "nobel-2022"
+   ],
+   "asOf": "2022"
+  },
+  {
+   "id": "qi-pluralism",
+   "participant": "qi-researcher",
+   "label": "Interpretations still open",
+   "topics": [
+    "completeness",
+    "wavefunction"
+   ],
+   "stances": {
+    "wavefunction-real": 0,
+    "qm-complete": 0
+   },
+   "move": "clarify",
+   "provenance": "documented",
+   "confidence": "medium",
+   "opening": true,
+   "summary": "Consensus statement: surveys of physicists show no majority interpretation; Copenhagen-style, many-worlds, pilot-wave, collapse, and information-based views all have serious adherents.",
+   "voice": [
+    "If you're hoping I'll tell you who won — I can't. Nearly a century on, physicists still split between views descended from Bohr, from Everett, from de Broglie and Bohm, from people who add a real collapse, and from people who say the wave function is information. The predictions are the same. The arguments you're having are still being had."
+   ],
+   "reasoning": "No experiment distinguishes the main interpretations.",
+   "sourceIds": [
+    "schlosshauer-2013",
+    "zurek-2003"
+   ],
+   "asOf": "2025"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+  "id":"planck","name":"Max Planck","shortName":"Planck","initials":"MP","kind":"attendee",
+  "born":"1858-04-23","died":"1947-10-04","nationality":"German","affiliation":"University of Berlin (emeritus from 1926); Prussian Academy of Sciences",
+  "role":"Member of the scientific committee; attended as the founder of quantum theory",
+  "bio":"In December 1900 Planck introduced energy elements hν to derive the black-body radiation law — the origin of quantum theory — and spent years trying to reconcile it with classical physics. He resisted Einstein's light quanta for more than a decade. He is the conscience of German physics, sixty-nine, recently retired, and has just seen Schrödinger — whose wave mechanics he welcomed — chosen as his successor.",
+  "contributions":[
+    {"year":"1900","title":"The quantum of action","note":"Energy elements ε = hν; Planck's radiation law."},
+    {"year":"1906–1913","title":"Second quantum theory","note":"Attempts to restrict quantisation to emission."},
+    {"year":"1908–10","title":"Against Mach","note":"Defence of a real, law-governed physical world."}
+  ],
+  "beliefs":"A real external world exists independently of measurement and is governed by laws; causality is a presupposition of science. Welcomes wave mechanics.",
+  "philosophy":"A principled realist, formed in the debate with Mach; sees the aim of physics as a unified, observer-independent world picture.",
+  "style":{"method":"Principled argument from the aims of science.","manner":"Dignified, earnest, careful.","avoid":["Attributing later (1930s) writings to the 1927 Planck without marking them","Making him hostile to the new theory"]},
+  "relationships":[
+    {"with":"einstein","nature":"Patron and friend","note":"Brought Einstein to Berlin in 1914.","sourceIds":["heilbron-1986","cpae-5"]},
+    {"with":"schrodinger","nature":"Admirer","note":"See Schrödinger.","sourceIds":["przibram-1967"]}
+  ],
+  "disagreements":[{"with":"heisenberg","topic":"Observables and positivism","note":"By inference from Planck's documented opposition to Mach.","sourceIds":["planck-1909"]}],
+  "silences":[{"proposition":"*","note":"Planck made no documented contribution to the 1927 general discussion. His views here are reconstructed from his earlier and later writings and are marked as inference."}],
+  "sourceIds":["planck-1900","planck-1909","heilbron-1986","przibram-1967"]
+}

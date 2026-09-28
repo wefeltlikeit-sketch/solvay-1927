@@ -1,0 +1,278 @@
+[
+ {
+  "term": "entanglement",
+  "pattern": "\\bentangl(e|ed|ement|ements|ing)\\b",
+  "firstKnown": "1935",
+  "note": "Schrödinger coined Verschränkung and 'entanglement' in 1935."
+ },
+ {
+  "term": "EPR",
+  "pattern": "\\bEPR\\b|Podolsky|Einstein[-–, ]+Podolsky",
+  "firstKnown": "1935",
+  "note": "The Einstein–Podolsky–Rosen paper appeared in May 1935."
+ },
+ {
+  "term": "element of reality",
+  "pattern": "element(s)? of (physical )?reality",
+  "firstKnown": "1935",
+  "note": "The EPR criterion of reality."
+ },
+ {
+  "term": "Schrödinger's cat",
+  "pattern": "schr[öo]dinger'?s cat|cat paradox|half[- ]dead cat",
+  "firstKnown": "1935",
+  "note": "Schrödinger's 1935 essay."
+ },
+ {
+  "term": "hidden variables",
+  "pattern": "hidden[- ](variable|parameter)s?",
+  "firstKnown": "1932",
+  "note": "The phrase follows von Neumann's 'verborgene Parameter' (1932). In 1927 people spoke of quantities that would determine the individual process."
+ },
+ {
+  "term": "von Neumann's proof",
+  "pattern": "von neumann'?s (proof|theorem)|no[- ]hidden[- ]variables?",
+  "firstKnown": "1932",
+  "note": "Mathematische Grundlagen der Quantenmechanik, 1932. Von Neumann's 1927 papers on foundations were known in Göttingen; the proof was not."
+ },
+ {
+  "term": "Bell's theorem",
+  "pattern": "\\bbell'?s (theorem|inequalit(y|ies))|bell inequalit(y|ies)|bell test|\\bCHSH\\b",
+  "firstKnown": "1964",
+  "note": "Bell, 1964; CHSH, 1969."
+ },
+ {
+  "term": "John Bell",
+  "pattern": "\\bjohn (stewart )?bell\\b",
+  "firstKnown": "1964",
+  "note": "John Stewart Bell was born in 1928; his theorem dates from 1964."
+ },
+ {
+  "term": "local hidden variables",
+  "pattern": "local[- ]hidden|local realism",
+  "firstKnown": "1964",
+  "note": "Terminology from the Bell literature."
+ },
+ {
+  "term": "loophole",
+  "pattern": "\\bloophole",
+  "firstKnown": "1970",
+  "note": "Bell-test terminology."
+ },
+ {
+  "term": "superdeterminism",
+  "pattern": "superdetermin",
+  "firstKnown": "1980",
+  "note": "Term from the Bell literature."
+ },
+ {
+  "term": "Copenhagen interpretation",
+  "pattern": "copenhagen interpretation",
+  "firstKnown": "1955",
+  "note": "The phrase was popularised by Heisenberg in the 1950s. In 1927 there was no single named 'interpretation', and Bohr's and Heisenberg's views differed."
+ },
+ {
+  "term": "collapse",
+  "pattern": "collapse of the wave|wave[- ]?function collapse|collapses? (of )?the wave",
+  "firstKnown": "1950",
+  "note": "Heisenberg in 1927 spoke of the 'reduction of the wave packet'; 'collapse' became common later."
+ },
+ {
+  "term": "many worlds",
+  "pattern": "many[- ]worlds|relative[- ]state|universal wave ?function",
+  "firstKnown": "1957",
+  "note": "Everett 1957; 'many worlds' from DeWitt, 1970."
+ },
+ {
+  "term": "decoherence",
+  "pattern": "\\bdecoher",
+  "firstKnown": "1970",
+  "note": "Zeh 1970; the word became standard in the 1980s."
+ },
+ {
+  "term": "Bohm",
+  "pattern": "\\bbohm(ian)?\\b",
+  "firstKnown": "1952",
+  "note": "David Bohm's pilot-wave papers, 1952."
+ },
+ {
+  "term": "spooky action",
+  "pattern": "spooky action|spukhafte",
+  "firstKnown": "1947",
+  "note": "Einstein to Born, 1947."
+ },
+ {
+  "term": "Dirac equation",
+  "pattern": "dirac equation|dirac'?s equation|dirac sea|hole theory",
+  "firstKnown": "1928",
+  "note": "January 1928."
+ },
+ {
+  "term": "positron",
+  "pattern": "\\bpositron|anti[- ]?electron|antimatter|anti[- ]?particle",
+  "firstKnown": "1931",
+  "note": "Predicted 1931, observed 1932."
+ },
+ {
+  "term": "neutron",
+  "pattern": "\\bneutron",
+  "firstKnown": "1932",
+  "note": "Chadwick, 1932."
+ },
+ {
+  "term": "neutrino",
+  "pattern": "\\bneutrino",
+  "firstKnown": "1930",
+  "note": "Pauli's proposal, December 1930; named by Fermi."
+ },
+ {
+  "term": "quark",
+  "pattern": "\\bquarks?\\b",
+  "firstKnown": "1964",
+  "note": "Gell-Mann and Zweig, 1964."
+ },
+ {
+  "term": "Higgs",
+  "pattern": "\\bhiggs\\b",
+  "firstKnown": "1964",
+  "note": "1964."
+ },
+ {
+  "term": "Standard Model",
+  "pattern": "standard model",
+  "firstKnown": "1975",
+  "note": "The name dates from the mid-1970s."
+ },
+ {
+  "term": "quantum field theory",
+  "pattern": "quantum field theory|quantum electrodynamics|\\bQED\\b",
+  "firstKnown": "1929",
+  "note": "Heisenberg–Pauli 1929 onwards; Dirac's 1927 radiation paper is its seed."
+ },
+ {
+  "term": "renormalisation",
+  "pattern": "renormali[sz]",
+  "firstKnown": "1947",
+  "note": "Post-war QED."
+ },
+ {
+  "term": "Feynman diagram",
+  "pattern": "feynman diagram|path integral|sum over histories",
+  "firstKnown": "1948",
+  "note": "Feynman, 1948–49."
+ },
+ {
+  "term": "qubit",
+  "pattern": "\\bqubits?\\b",
+  "firstKnown": "1995",
+  "note": "Coined by Schumacher, 1995."
+ },
+ {
+  "term": "quantum computer",
+  "pattern": "quantum comput",
+  "firstKnown": "1982",
+  "note": "Feynman 1982; Deutsch 1985."
+ },
+ {
+  "term": "teleportation",
+  "pattern": "\\bteleport",
+  "firstKnown": "1993",
+  "note": "Bennett et al., 1993."
+ },
+ {
+  "term": "quantum cryptography",
+  "pattern": "quantum cryptograph|quantum key distribution",
+  "firstKnown": "1984",
+  "note": "Bennett and Brassard, 1984."
+ },
+ {
+  "term": "delayed choice",
+  "pattern": "delayed[- ]choice|quantum eraser",
+  "firstKnown": "1978",
+  "note": "Wheeler, 1978."
+ },
+ {
+  "term": "black hole",
+  "pattern": "black holes?",
+  "firstKnown": "1967",
+  "note": "The name dates from the 1960s; the Schwarzschild solution from 1916."
+ },
+ {
+  "term": "LIGO",
+  "pattern": "\\bLIGO\\b|gravitational[- ]wave detector",
+  "firstKnown": "1992",
+  "note": "LIGO was founded in 1992; detection in 2015."
+ },
+ {
+  "term": "big bang",
+  "pattern": "big bang|microwave background",
+  "firstKnown": "1949",
+  "note": "Hoyle coined 'big bang' in 1949; the CMB was detected in 1965."
+ },
+ {
+  "term": "Hubble's law",
+  "pattern": "hubble",
+  "firstKnown": "1929",
+  "note": "Hubble, 1929. Lemaître's 1927 paper is in the room; Hubble's is not."
+ },
+ {
+  "term": "Gödel",
+  "pattern": "g[öo]del",
+  "firstKnown": "1931",
+  "note": "Incompleteness theorems, 1931."
+ },
+ {
+  "term": "Turing machine",
+  "pattern": "turing machine|computab(le|ility)|undecidab",
+  "firstKnown": "1936",
+  "note": "Turing, 1936."
+ },
+ {
+  "term": "nuclear fission",
+  "pattern": "fission|atomic bomb|chain reaction",
+  "firstKnown": "1938",
+  "note": "Hahn and Strassmann, 1938."
+ },
+ {
+  "term": "transistor",
+  "pattern": "transistor|semiconductor device|laser",
+  "firstKnown": "1947",
+  "note": "Transistor 1947; laser 1960."
+ },
+ {
+  "term": "photon box",
+  "pattern": "photon[- ]box",
+  "firstKnown": "1930",
+  "note": "Sixth Solvay council, 1930."
+ },
+ {
+  "term": "quantum Zeno",
+  "pattern": "quantum zeno|watched pot",
+  "firstKnown": "1954",
+  "note": "Turing's remark 1954; named 1977."
+ },
+ {
+  "term": "supercomputer",
+  "pattern": "supercomputer|electronic comput|microchip",
+  "firstKnown": "1945",
+  "note": "Electronic computers date from the 1940s. 'Computer' meaning a person who computes is fine in 1927."
+ },
+ {
+  "term": "Everett",
+  "pattern": "\\beverett\\b",
+  "firstKnown": "1957",
+  "note": "Hugh Everett III, born 1930."
+ },
+ {
+  "term": "Feynman",
+  "pattern": "\\bfeynman\\b",
+  "firstKnown": "1942",
+  "note": "Richard Feynman was nine in 1927."
+ },
+ {
+  "term": "Hawking",
+  "pattern": "\\bhawking\\b",
+  "firstKnown": "1965",
+  "note": "Stephen Hawking, born 1942."
+ }
+]

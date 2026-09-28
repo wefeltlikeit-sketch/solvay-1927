@@ -1,0 +1,100 @@
+{
+ "participant": "planck",
+ "claims": [
+  {
+   "id": "planck-reluctant",
+   "participant": "planck",
+   "label": "A reluctant revolutionary",
+   "topics": [
+    "radiation",
+    "wave-particle"
+   ],
+   "stances": {
+    "wave-particle": 0.2
+   },
+   "move": "evidence",
+   "provenance": "documented",
+   "confidence": "medium",
+   "summary": "Planck introduced energy elements in 1900 as a formal step to obtain the radiation law, resisted light quanta for many years, and in 1913 co-signed a nomination excusing Einstein's light-quantum hypothesis as a miss.",
+   "voice": [
+    "When I introduced the energy elements in 1900, I regarded them as a formal assumption about the resonators — a way to obtain the right radiation law. For years I resisted the idea that light itself travels in quanta; in 1913 I signed a letter saying Einstein's light quanta could be forgiven him. I will not pretend my hesitation has been vindicated."
+   ],
+   "reasoning": "The quantum was introduced to save a law, not as a picture of radiation.",
+   "evidence": [
+    "Black-body spectrum (1900)."
+   ],
+   "quoteIds": [
+    "q-planck-nomination-1913"
+   ],
+   "sourceIds": [
+    "planck-1900",
+    "cpae-5",
+    "heilbron-1986"
+   ],
+   "asOf": "1913-06"
+  },
+  {
+   "id": "planck-causality",
+   "participant": "planck",
+   "label": "Causality presupposed",
+   "topics": [
+    "causality",
+    "realism",
+    "determinism"
+   ],
+   "stances": {
+    "causality-fails": -0.8,
+    "probability-fundamental": -0.6,
+    "electron-properties": 0.4
+   },
+   "move": "assert",
+   "provenance": "inference",
+   "confidence": "medium",
+   "opening": true,
+   "summary": "From his documented realism (the 1908–10 debate with Mach) and later explicit writings, Planck held that a law-governed real world exists independently of measurement and that causality is a presupposition of science. Applied to October 1927, this is inference; his explicit statements on quantum causality date from 1932.",
+   "voice": [
+    "I do not see how physics can do without the assumption that there is a real outer world, governed by laws, independent of the one who measures it. Causality is not something we find in single observations; it is the presupposition that makes the search meaningful. I would not surrender it merely because our present methods cannot trace the individual event."
+   ],
+   "reasoning": "Science presupposes a lawful, observer-independent world; inability to predict is not evidence of lawlessness.",
+   "respondsTo": [
+    "heisenberg-causality",
+    "born-give-up-determinism"
+   ],
+   "sourceIds": [
+    "planck-1909",
+    "heilbron-1986",
+    "planck-1949-autobiography"
+   ],
+   "asOf": "1927-10",
+   "later": "Planck set out this view at length in 'Der Kausalbegriff in der Physik' (1932)."
+  },
+  {
+   "id": "planck-against-mach",
+   "participant": "planck",
+   "label": "Mach in new clothes",
+   "topics": [
+    "positivism",
+    "realism"
+   ],
+   "stances": {
+    "observables-only": -0.8
+   },
+   "move": "challenge",
+   "provenance": "inference",
+   "confidence": "medium",
+   "summary": "Planck's 1908 Leiden lecture attacked Mach's positivism, defending a unified physical world picture independent of the senses. Applying the argument to the 1925–27 emphasis on observables is inference.",
+   "voice": [
+    "Twenty years ago I argued with Mach about exactly this. A physics built only from sensations and observations would lose the unity of the world picture — the constancy that makes physics more than bookkeeping. I fear the enthusiasm for 'only observables' is Mach's programme in new clothes."
+   ],
+   "reasoning": "Positivism dissolves physics into a catalogue of perceptions.",
+   "respondsTo": [
+    "heisenberg-observables"
+   ],
+   "sourceIds": [
+    "planck-1909",
+    "heilbron-1986"
+   ],
+   "asOf": "1908-12"
+  }
+ ]
+}

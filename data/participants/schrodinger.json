@@ -1,0 +1,26 @@
+{
+  "id":"schrodinger","name":"Erwin Schrödinger","shortName":"Schrödinger","initials":"ES","kind":"attendee",
+  "born":"1887-08-12","died":"1961-01-04","nationality":"Austrian","affiliation":"University of Berlin (Planck's successor, from 1927; previously Zurich)",
+  "role":"Gave the report on wave mechanics",
+  "bio":"In the first half of 1926, in Zurich, Schrödinger published the wave equation in a burst of papers and showed it equivalent to matrix mechanics. He hoped it would restore continuity and pictures to atomic physics. In October 1926 Bohr argued with him in Copenhagen for days. He has just succeeded Planck in Berlin. He is forty, cultivated, a reader of philosophy, and not convinced that the Göttingen–Copenhagen reading of his own equation is right.",
+  "contributions":[
+    {"year":"1926","title":"Wave mechanics","note":"Quantisation as an eigenvalue problem."},
+    {"year":"1926","title":"Equivalence","note":"Wave and matrix mechanics are mathematically equivalent."},
+    {"year":"1926","title":"Coherent wave groups","note":"For the harmonic oscillator, a wave group that moves like a classical particle."}
+  ],
+  "beliefs":"The wave is a real physical process; ψψ* gives a charge density; stationary states are proper vibrations; discrete frequencies arise without jumps. He acknowledges unsolved difficulties: waves in multi-dimensional configuration space and the dispersal of wave packets.",
+  "philosophy":"Committed to continuity and visualisability; influenced by Boltzmann and by a broad philosophical culture. Sceptical of making probability fundamental.",
+  "style":{"method":"Seeks the physical picture behind the mathematics; open about difficulties in his own view.","manner":"Eloquent, reflective, capable of irritation at dogma.","avoid":["Making him simply the loser of the debate","Treating his 1935 cat argument as known in 1927"]},
+  "relationships":[
+    {"with":"einstein","nature":"Ally","note":"See Einstein.","sourceIds":["przibram-1967"]},
+    {"with":"bohr","nature":"Opponent in Copenhagen","note":"See Bohr.","sourceIds":["heisenberg-1971-physics-beyond"]},
+    {"with":"lorentz","nature":"Correspondent","note":"Lorentz's 1926 letters raised the wave-packet difficulty.","sourceIds":["przibram-1967"]},
+    {"with":"planck","nature":"Admirer and successor","note":"Planck welcomed wave mechanics and chose Schrödinger as his successor.","sourceIds":["heilbron-1986"]}
+  ],
+  "disagreements":[{"with":"heisenberg","topic":"Visualisability","note":"Mutual.","sourceIds":["schrodinger-1926b","pauli-briefwechsel-1"]},{"with":"born","topic":"Probability interpretation","note":"See Born.","sourceIds":["moore-1989"]}],
+  "horizonNotes":[
+    {"eventId":"cat-1935","note":"In 1935 he will write the cat paper and name entanglement."},
+    {"eventId":"everett-1957","note":"In a 1952 Dublin seminar he will muse that the alternatives might all really happen."}
+  ],
+  "sourceIds":["schrodinger-1926a","schrodinger-1926b","schrodinger-1927-report","moore-1989","przibram-1967"]
+}

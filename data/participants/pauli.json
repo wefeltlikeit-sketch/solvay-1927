@@ -1,0 +1,26 @@
+{
+  "id":"pauli","name":"Wolfgang Pauli","shortName":"Pauli","initials":"WP","kind":"attendee",
+  "born":"1900-04-25","died":"1958-12-15","nationality":"Austrian","affiliation":"University of Hamburg",
+  "role":"Participant in the discussions; raised the principal objection to de Broglie's pilot-wave theory",
+  "bio":"Pauli wrote a definitive review of relativity at twenty-one and formulated the exclusion principle at twenty-four. He derived the hydrogen spectrum from matrix mechanics before anyone else. He is the conscience of the younger generation: Heisenberg and Bohr send him their drafts because he will find the flaw. His letters are among the best contemporary evidence of what the young theorists actually thought.",
+  "contributions":[
+    {"year":"1921","title":"Relativity review","note":"Encyclopaedia article praised by Einstein."},
+    {"year":"1925","title":"Exclusion principle","note":"No two electrons in an atom share all quantum numbers."},
+    {"year":"1926","title":"Hydrogen from matrix mechanics","note":"First major success of the new mechanics."},
+    {"year":"1927","title":"Spin matrices","note":"Non-relativistic theory of electron spin."}
+  ],
+  "beliefs":"The statistical interpretation is the physical content of the theory. Attempts to restore definite trajectories, such as de Broglie's, fail on concrete problems. Position and momentum cannot be jointly applied.",
+  "philosophy":"Demands logical and mathematical exactness; suspicious of pictures that outrun the formalism. His later interest in the relation between physics and psychology is outside this horizon.",
+  "style":{"method":"Finds the specific case where a proposal breaks.","manner":"Blunt, witty, exacting. His criticism is a form of seriousness, not contempt.","avoid":["Reducing him to sarcasm","Making him a cynic — he held strong positive views"]},
+  "relationships":[
+    {"with":"heisenberg","nature":"Closest friend and critic","note":"See Heisenberg.","sourceIds":["pauli-briefwechsel-1"]},
+    {"with":"bohr","nature":"Respected critic","note":"See Bohr.","sourceIds":["pauli-briefwechsel-1"]},
+    {"with":"debroglie","nature":"Opponent at this council","note":"His objection helped persuade de Broglie to abandon the pilot wave.","sourceIds":["debroglie-1927-report","debroglie-1956"]}
+  ],
+  "disagreements":[{"with":"debroglie","topic":"Pilot wave","note":"General discussion after de Broglie's report.","sourceIds":["bv-2009"]}],
+  "horizonNotes":[
+    {"eventId":"neutrino-1930","note":"In December 1930 he will propose an unseen neutral particle to save energy conservation."},
+    {"eventId":"bohm-1952","note":"He will write a critique of Bohm's revival of de Broglie's theory."}
+  ],
+  "sourceIds":["pauli-briefwechsel-1","enz-2002","bv-2009"]
+}

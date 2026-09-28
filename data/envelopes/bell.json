@@ -1,0 +1,256 @@
+{
+ "id": "bell",
+ "year": "1964",
+ "title": "Bell's theorem",
+ "seal": "A number that separates two philosophies",
+ "category": "result",
+ "prerequisites": [
+  "epr"
+ ],
+ "reading": "In 1964 John Stewart Bell, a physicist from Belfast, will take the two-particle arrangement of Einstein, Podolsky and Rosen — in a form using spin — and ask a precise question. Could the correlations between distant measurements be explained by properties the particles carried from their common source, with the result at each end depending only on the particle and the local setting, and not on what is done at the other end? He proves that any such local account must satisfy an inequality. In the version of Clauser, Horne, Shimony and Holt (1969), a combination S of four correlations, measured at two settings on each side, must obey |S| ≤ 2. Quantum mechanics predicts that for suitable settings S reaches 2√2, about 2.83. The question you are arguing about can now be put to experiment.",
+ "detail": "The assumptions are: (1) outcomes are determined, or probabilistically influenced, by variables λ from the source together with the local setting only (local causality); (2) the choice of settings is statistically independent of λ ('measurement independence' or free choice); (3) fair sampling of detected events, or perfect detection. The quantum singlet state gives correlations E(a,b) = −cos(a−b). With settings 0°, 45° for one side and 22.5°, 67.5° for the other, |S| = 2√2. Nonlocal hidden-variable theories such as Bohm's are not excluded by the theorem.",
+ "sourceIds": [
+  "bell-1964",
+  "chsh-1969",
+  "bell-1987"
+ ],
+ "eventIds": [
+  "bell-1964",
+  "chsh-1969"
+ ],
+ "unlocks": [
+  "bell's theorem",
+  "bell inequality",
+  "bell inequalities",
+  "chsh",
+  "local hidden variable",
+  "hidden variable",
+  "hidden variables",
+  "entanglement",
+  "entangled",
+  "singlet",
+  "John Bell",
+  "John Stewart Bell"
+ ],
+ "next": [
+  "aspect",
+  "bohm",
+  "von-neumann"
+ ],
+ "reactions": [
+  {
+   "participant": "einstein",
+   "status": "disputed",
+   "claim": {
+    "id": "bell/einstein",
+    "label": "Examine every assumption",
+    "topics": [
+     "locality",
+     "completeness",
+     "hidden-variables"
+    ],
+    "stances": {
+     "local-action": 0.8,
+     "qm-complete": -0.6
+    },
+    "move": "challenge",
+    "provenance": "inference",
+    "confidence": "medium",
+    "summary": "Einstein died in 1955 and never saw Bell's theorem. From his documented commitments to separability and his method of examining assumptions, he would accept the mathematics, scrutinise the premises, and insist on experiment.",
+    "voice": [
+     "Then the question is no longer a matter of philosophy; it is a matter of experiment. Good. I want to examine every assumption in the derivation — that the choice of what to measure at one end is independent of what happened at the source, that the counters register fairly. If the experiment goes against the inequality with all that secured, then the independent existence of distant things is in serious trouble. I would not give it up cheaply."
+    ],
+    "reasoning": "A theorem is only as strong as its premises; separability is too important to surrender without experiment.",
+    "sourceIds": [
+     "einstein-1948",
+     "bell-1964"
+    ],
+    "asOf": "1927-10",
+    "later": "Bell regarded himself as following Einstein's line of questioning, and thought Einstein would have been disappointed but would have faced the result."
+   }
+  },
+  {
+   "participant": "bohr",
+   "status": "accepted",
+   "claim": {
+    "id": "bell/bohr",
+    "label": "Confirms wholeness",
+    "topics": [
+     "locality",
+     "complementarity"
+    ],
+    "stances": {
+     "qm-complete": 0.9
+    },
+    "move": "assert",
+    "provenance": "inference",
+    "confidence": "medium",
+    "summary": "Bohr died in 1962. By inference from his 1935 reply to EPR, he would see the result as confirming that phenomena cannot be analysed into separate elements of reality attached to each particle.",
+    "voice": [
+     "This confirms what I would expect. The phenomena cannot be analysed into separate elements of reality attached to each particle and each apparatus independently. The whole arrangement must be taken into account. I do not find it surprising — I find it clarifying."
+    ],
+    "reasoning": "Wholeness of quantum phenomena.",
+    "respondsTo": [
+     "bell/einstein"
+    ],
+    "sourceIds": [
+     "bohr-1935",
+     "bohr-1928-como"
+    ],
+    "asOf": "1927-10"
+   }
+  },
+  {
+   "participant": "debroglie",
+   "status": "disputed",
+   "claim": {
+    "id": "bell/debroglie",
+    "label": "It refutes local determinism only",
+    "topics": [
+     "hidden-variables",
+     "locality"
+    ],
+    "stances": {
+     "hidden-variables": 0.6,
+     "local-action": -0.4
+    },
+    "move": "clarify",
+    "provenance": "inference",
+    "confidence": "medium",
+    "summary": "By inference from the structure of his 1927 theory: Bell's theorem excludes local theories; the pilot wave, whose wave lives in configuration space, is not local and is not excluded.",
+    "voice": [
+     "Mr Bell assumes that each result depends only on what happens locally. My guiding wave, for several particles, lives in configuration space; it is not bound by his inequality. So the result does not refute determinism. It refutes local determinism. That is a distinction worth keeping."
+    ],
+    "reasoning": "Bell's premises include locality; the pilot wave violates it.",
+    "respondsTo": [
+     "bell/einstein",
+     "bell/bohr"
+    ],
+    "sourceIds": [
+     "debroglie-1927",
+     "bell-1964"
+    ],
+    "asOf": "1927-10",
+    "later": "Bell said exactly this about the de Broglie–Bohm theory; its nonlocality is what inspired his theorem."
+   }
+  },
+  {
+   "participant": "pauli",
+   "status": "accepted",
+   "claim": {
+    "id": "bell/pauli",
+    "label": "Finally a measurable question",
+    "topics": [
+     "hidden-variables",
+     "experiment"
+    ],
+    "stances": {
+     "hidden-variables": -0.7
+    },
+    "move": "assert",
+    "provenance": "inference",
+    "confidence": "low",
+    "summary": "Pauli died in 1958. Inference from his documented demand for concrete tests and his confidence in the statistical interpretation.",
+    "voice": [
+     "This is the first argument about additional quantities that I would take seriously, because it ends in a number that can be measured. I expect the measurement to side with the theory. And then I expect some people to find new places to hide their wishes."
+    ],
+    "reasoning": "Testable consequences are what matter.",
+    "respondsTo": [
+     "bell/einstein"
+    ],
+    "sourceIds": [
+     "pauli-briefwechsel-1"
+    ],
+    "asOf": "1927-10"
+   }
+  },
+  {
+   "participant": "heisenberg",
+   "status": "accepted",
+   "claim": {
+    "id": "bell/heisenberg",
+    "label": "No hidden causal world",
+    "topics": [
+     "hidden-variables",
+     "causality"
+    ],
+    "stances": {
+     "hidden-variables": -0.8
+    },
+    "move": "assert",
+    "provenance": "inference",
+    "confidence": "low",
+    "summary": "Heisenberg lived until 1976 but we have found no substantive documented reaction to Bell's theorem. Inference from his 1927 rejection of a hidden causal world.",
+    "voice": [
+     "I said in my paper that speculation about a causal world behind the statistical one is fruitless. Here someone has made it fruitful — enough to be refuted. Quantum mechanics predicts the violation; I see no reason to doubt it."
+    ],
+    "reasoning": "Consistency with his 1927 position.",
+    "respondsTo": [
+     "bell/einstein",
+     "bell/debroglie"
+    ],
+    "sourceIds": [
+     "heisenberg-1927"
+    ],
+    "asOf": "1927-10"
+   }
+  },
+  {
+   "participant": "ehrenfest",
+   "status": "unresolved",
+   "claim": {
+    "id": "bell/ehrenfest",
+    "label": "Which assumption, exactly?",
+    "topics": [
+     "locality"
+    ],
+    "move": "question",
+    "provenance": "inference",
+    "confidence": "medium",
+    "summary": "An inferred question in Ehrenfest's style.",
+    "voice": [
+     "Let us write the assumptions on the blackboard, one under the other. Then each of you tell me which one you will give up if the experiment comes out as the theory says. I suspect Einstein and Bohr will point to different lines."
+    ],
+    "reasoning": "Making the logical structure explicit.",
+    "respondsTo": [
+     "bell/einstein",
+     "bell/bohr"
+    ],
+    "sourceIds": [
+     "ehrenfest-1927-letter"
+    ],
+    "asOf": "1927-10"
+   }
+  },
+  {
+   "participant": "schrodinger",
+   "status": "unresolved",
+   "claim": {
+    "id": "bell/schrodinger",
+    "label": "The joint wave again",
+    "topics": [
+     "wavefunction",
+     "locality"
+    ],
+    "stances": {
+     "local-action": -0.3
+    },
+    "move": "assert",
+    "provenance": "inference",
+    "confidence": "low",
+    "summary": "Schrödinger died in 1961. Inference from his 1935 identification of entanglement as the characteristic trait.",
+    "voice": [
+     "It is the joint wave again — the thing that cannot be split into a wave for each particle. Bell has shown it cannot be imitated by giving each particle its own instructions. I am not sure whether that makes the wave more real or less."
+    ],
+    "reasoning": "Non-separability cannot be reduced to local properties.",
+    "respondsTo": [
+     "bell/einstein"
+    ],
+    "sourceIds": [
+     "schrodinger-1935b"
+    ],
+    "asOf": "1927-10"
+   }
+  }
+ ]
+}
