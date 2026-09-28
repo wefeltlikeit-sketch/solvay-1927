@@ -13,7 +13,8 @@ engine has already chosen — and its output is validated before it is shown.
 ## Run it
 
 ```bash
-cd solvay1927
+git clone https://github.com/wefeltlikeit-sketch/solvay-1927.git
+cd solvay-1927
 npm install
 npm run dev          # http://localhost:5173 — app + /api in one process
 ```
@@ -62,8 +63,3 @@ previous speaker. Without a key, everything works in **Archival** mode. See
 - [docs/HISTORICAL-GROUNDING.md](docs/HISTORICAL-GROUNDING.md) — provenance, knowledge boundaries, silence
 - [docs/DATA.md](docs/DATA.md) — adding participants, claims, sources, quotations, events, envelopes
 - [docs/AI.md](docs/AI.md) — configuring models and how live rendering is constrained
-
-## Relationship to the rest of this repository
-
-This app lives in its own folder and is **not** part of the Basilrun Books site.
-Netlify publishes only `../public/`, so nothing here is deployed with the site.
