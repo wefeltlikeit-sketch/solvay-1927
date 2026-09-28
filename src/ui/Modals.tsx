@@ -117,6 +117,7 @@ export function Sessions() {
   const { newSession, switchSession, renameSession, deleteSession, importSession, replayOnboarding } = useStore.getState();
   const file = useRef<HTMLInputElement>(null);
   const [msg, setMsg] = useState<string | null>(null);
+  const [pendingDelete, setPendingDelete] = useState<string | null>(null);
   if (!open) return null;
   const close = () => setUi({ sessions: false });
 
@@ -156,7 +157,24 @@ export function Sessions() {
               </span>
               {s.id !== currentId && <button className="btn small" onClick={() => { switchSession(s.id); close(); }}>Resume</button>}
               <button className="btn small ghost" onClick={() => exportSession(s.id)}>Export</button>
-              <button className="btn small ghost" onClick={() => confirm(`Delete “${s.name}”?`) && deleteSession(s.id)}>Delete</button>
+              <button
+                className="btn small ghost"
+                onClick={() => {
+                  navigator.clipboard?.writeText(JSON.stringify(s)).then(
+                    () => setMsg('Session copied. Paste it into a .json file to keep it.'),
+                    () => setMsg('Copying is not allowed here. Use Export instead.'),
+                  );
+                }}
+              >
+                Copy
+              </button>
+              {pendingDelete === s.id ? (
+                <button className="btn small" style={{ borderColor: 'var(--deny)', color: 'var(--deny)' }} onClick={() => { deleteSession(s.id); setPendingDelete(null); }}>
+                  Confirm delete
+                </button>
+              ) : (
+                <button className="btn small ghost" onClick={() => setPendingDelete(s.id)}>Delete</button>
+              )}
             </div>
           ))}
         <div style={{ display: 'flex', gap: 8, marginTop: 12, flexWrap: 'wrap' }}>

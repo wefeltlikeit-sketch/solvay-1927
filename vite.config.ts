@@ -25,6 +25,7 @@ function solvayApi(): Plugin {
 export default defineConfig({
   plugins: [react(), solvayApi()],
   server: { port: 5173 },
+  base: './',
   build: { chunkSizeWarningLimit: 1200 },
   test: { environment: 'node' },
 } as never);
