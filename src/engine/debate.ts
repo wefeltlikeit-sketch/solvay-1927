@@ -134,7 +134,9 @@ function scoreResponse(
   if (!last || claim.participant === last.speaker) return null;
   if (thread.usedClaims.includes(claim.id)) return null;
   const turns = speeches.filter((u) => u.speaker === claim.participant).length;
-  if (turns >= MAX_TURNS_PER_SPEAKER) return null;
+  // A question put to someone by name: they answer first, even past their usual turn limit.
+  const askedDirectly = last.move === 'question' && last.addressedTo === claim.participant;
+  if (turns >= MAX_TURNS_PER_SPEAKER + (askedDirectly ? 1 : 0)) return null;
 
   const reasons: string[] = [];
   let score = claimWeight(claim);
@@ -162,6 +164,13 @@ function scoreResponse(
     respondsTo = earlier;
     addressedTo = earlier.speaker;
     reasons.push(`Returns to ${nameOf(earlier.speaker)}'s earlier point, which this claim answers in the archive.`);
+  }
+
+  if (askedDirectly) {
+    score += 6;
+    respondsTo = last;
+    addressedTo = last.speaker;
+    reasons.unshift(`${nameOf(last.speaker)} put the question to ${nameOf(claim.participant)} directly, so ${nameOf(claim.participant)} answers before anyone else.`);
   }
 
   if (propId && stance !== undefined && last.stance !== undefined) {
@@ -210,6 +219,13 @@ function nextTurn(
     .sort((a, b) => b.score - a.score);
   const best = scored[0];
   if (!best) return null;
+  const speeches = history.filter((u) => u.kind === 'speech');
+  const last = speeches[speeches.length - 1];
+  if (last?.move === 'question' && last.addressedTo && last.addressedTo !== 'user' && best.claim.participant !== last.addressedTo && ids.includes(last.addressedTo)) {
+    best.reasons.unshift(
+      `${nameOf(last.addressedTo)} was asked directly, but the archive holds no further grounded claim for an answer, so ${nameOf(best.claim.participant)} takes the question up instead.`,
+    );
+  }
   thread.usedClaims.push(best.claim.id);
   return speech(archive, session, thread, best.claim, {
     rng,

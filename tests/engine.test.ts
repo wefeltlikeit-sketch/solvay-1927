@@ -47,10 +47,16 @@ describe('seminar on a proposition', () => {
       expect(u.rationale.length).toBeGreaterThan(0);
     }
   });
-  it('no speaker talks more than twice', () => {
+  it('no speaker talks more than twice, unless answering a question put to them', () => {
     const counts: Record<string, number> = {};
-    sp.forEach((u) => (counts[u.speaker] = (counts[u.speaker] ?? 0) + 1));
-    expect(Math.max(...Object.values(counts))).toBeLessThanOrEqual(2);
+    sp.forEach((u, i) => {
+      counts[u.speaker] = (counts[u.speaker] ?? 0) + 1;
+      if (counts[u.speaker] > 2) {
+        expect(sp[i - 1].move).toBe('question');
+        expect(sp[i - 1].addressedTo).toBe(u.speaker);
+      }
+      expect(counts[u.speaker]).toBeLessThanOrEqual(3);
+    });
   });
   it('records defensible silence for those without grounded positions', () => {
     expect(silentOn(archive, s, 'qm-complete')).toContain('curie');
@@ -74,6 +80,27 @@ describe('seminar on a proposition', () => {
     const cols = new Set(map.nodes.map((n) => n.column));
     expect(cols.has('affirm') && cols.has('deny')).toBe(true);
     expect(map.edges.some((e) => e.kind === 'attacks')).toBe(true);
+  });
+});
+
+describe('direct questions', () => {
+  it('the person asked answers first', () => {
+    const prop = archive.byId.proposition.get('qm-complete')!;
+    let s = session();
+    const b = debateProposition(archive, s, prop);
+    s = apply(s, b);
+    const thread = { ...s.threads[0], usedClaims: [...s.threads[0].usedClaims] };
+    const q = archive.byId.claim.get('ehrenfest-einstein-question')!;
+    const asked: Utterance = {
+      id: 'q1', threadId: thread.id, kind: 'speech', speaker: 'ehrenfest', move: 'question', addressedTo: 'einstein',
+      claimId: q.id, text: q.voice[0], rationale: [], stance: q.stances['qm-complete'], ts: Date.now(),
+    };
+    thread.usedClaims.push(q.id);
+    s = { ...s, utterances: { ...s.utterances, q1: asked }, threads: [{ ...thread, utteranceIds: [...thread.utteranceIds, 'q1'] }] };
+    const next = continueThread(archive, s, s.threads[0], 1);
+    expect(next[0].speaker).toBe('einstein');
+    expect(next[0].addressedTo).toBe('ehrenfest');
+    expect(next[0].rationale[0]).toMatch(/directly/);
   });
 });
 
